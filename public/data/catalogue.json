@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T18:45:29.042Z",
+  "generatedAt": "2026-11-07T18:48:22.101Z",
   "version": 1,
   "services": [
     {
@@ -94,6 +94,19 @@
       "notes": null
     },
     {
+      "id": "bbstar",
+      "name": "BigBasket bbstar",
+      "category": "food",
+      "description": "BigBasket's paid membership: free delivery on orders above ₹600, reserved slots and member offers.",
+      "websiteUrl": "https://www.bigbasket.com/bbstar/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=bigbasket.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null
+    },
+    {
       "id": "canva",
       "name": "Canva",
       "category": "design",
@@ -146,6 +159,19 @@
       "notes": null
     },
     {
+      "id": "country-delight",
+      "name": "Country Delight",
+      "category": "food",
+      "description": "Daily doorstep delivery of milk, curd, paneer, eggs and other fresh essentials on a subscription.",
+      "websiteUrl": "https://countrydelight.in/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=countrydelight.in&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "What you pay depends on what you get delivered; add your usual monthly bill as your own amount."
+    },
+    {
       "id": "coursera",
       "name": "Coursera",
       "category": "education",
@@ -196,6 +222,19 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "In India it is also available through Tata Play Binge, OTTplay and Prime Video Channels."
+    },
+    {
+      "id": "decathlon-membership",
+      "name": "Decathlon Membership",
+      "category": "shopping",
+      "description": "Decathlon's loyalty programme for sports gear shoppers.",
+      "websiteUrl": "https://www.decathlon.in/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=decathlon.in&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null
     },
     {
       "id": "deezer",
@@ -315,6 +354,32 @@
       "notes": "No paid plan."
     },
     {
+      "id": "firstcry-club",
+      "name": "FirstCry Club",
+      "category": "shopping",
+      "description": "FirstCry's paid membership for baby and kids shopping: Club discounts, free shipping and Club Cash.",
+      "websiteUrl": "https://www.firstcry.com/club",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=firstcry.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "3, 6 and 12-month plans; often free or discounted for frequent shoppers."
+    },
+    {
+      "id": "flipkart-membership",
+      "name": "Flipkart Plus and Black",
+      "category": "shopping",
+      "description": "Flipkart's memberships: Plus is a free loyalty tier earned with SuperCoins; Black is paid and includes YouTube Premium.",
+      "websiteUrl": "https://www.flipkart.com/plus",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=flipkart.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Flipkart Black replaced Flipkart VIP in August 2025."
+    },
+    {
       "id": "gaana",
       "name": "Gaana",
       "category": "music",
@@ -351,6 +416,19 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "hm-membership",
+      "name": "H&M Membership",
+      "category": "shopping",
+      "description": "H&M's loyalty programme with points and member offers.",
+      "websiteUrl": "https://www2.hm.com/en_in/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=hm.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
       "notes": null
     },
     {
@@ -404,6 +482,19 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": "Apple TV and Apple Arcade were added to every paid iCloud+ plan in India in September 2026."
+    },
+    {
+      "id": "ikea-family",
+      "name": "IKEA Family",
+      "category": "shopping",
+      "description": "IKEA's loyalty programme with member prices and offers.",
+      "websiteUrl": "https://www.ikea.com/in/en/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=ikea.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null
     },
     {
       "id": "jiohotstar",
@@ -497,6 +588,32 @@
       "notes": null
     },
     {
+      "id": "lenskart-gold",
+      "name": "Lenskart Gold",
+      "category": "shopping",
+      "description": "Lenskart's paid membership: buy-one-get-one on frames and sunglasses, free eye tests and lens discounts.",
+      "websiteUrl": "https://www.lenskart.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=lenskart.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Often free through Times Prime, Swiggy One, CRED or UPI rewards."
+    },
+    {
+      "id": "licious-infiniti",
+      "name": "Licious Infiniti",
+      "category": "food",
+      "description": "Licious's membership for meat and seafood orders: free delivery and cashback with no minimum order.",
+      "websiteUrl": "https://www.licious.in/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=licious.in&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Replaced the earlier Meatopia membership."
+    },
+    {
       "id": "linkedin-premium",
       "name": "LinkedIn Premium",
       "category": "other",
@@ -521,6 +638,19 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Also bundled with some Jio, Airtel and Vi plans."
+    },
+    {
+      "id": "lulu-happiness",
+      "name": "Lulu Happiness",
+      "category": "shopping",
+      "description": "Lulu Hypermarket's loyalty programme.",
+      "websiteUrl": "https://www.luluhypermarket.in/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=luluhypermarket.in&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null
     },
     {
       "id": "manoramamax",
@@ -555,6 +685,19 @@
       "description": "Hand-picked world cinema, art-house and classic films, with Indian and international collections.",
       "websiteUrl": "https://mubi.com/en/in",
       "logoUrl": "https://www.google.com/s2/favicons?domain=mubi.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null
+    },
+    {
+      "id": "myntra-insider",
+      "name": "Myntra Insider",
+      "category": "shopping",
+      "description": "Myntra's loyalty programme with tiers based on how much you shop.",
+      "websiteUrl": "https://www.myntra.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=myntra.com&sz=128",
       "logo": null,
       "country": "IN",
       "status": "active",
@@ -599,6 +742,19 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": "Billed in US dollars."
+    },
+    {
+      "id": "nykaa-prive",
+      "name": "Nykaa Privé",
+      "category": "shopping",
+      "description": "Nykaa's loyalty programme for beauty and fashion shoppers.",
+      "websiteUrl": "https://www.nykaa.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=nykaa.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null
     },
     {
       "id": "perplexity",
@@ -679,6 +835,19 @@
       "notes": "Language packs (Gujarati, Marathi, Punjabi and more) are sold separately from the full Premium plan."
     },
     {
+      "id": "shoppers-stop-first-citizen",
+      "name": "Shoppers Stop First Citizen Club",
+      "category": "shopping",
+      "description": "Shoppers Stop's tiered loyalty programme with First Citizen points, from Silver Edge up to Black.",
+      "websiteUrl": "https://www.shoppersstop.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=shoppersstop.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Higher tiers often come free with Shoppers Stop co-branded credit cards from HDFC Bank, RBL Bank and Axis Bank."
+    },
+    {
       "id": "shortstv",
       "name": "ShortsTV",
       "category": "ott",
@@ -744,6 +913,19 @@
       "notes": "New users usually start with a ₹1 trial for 7 days. Also on Tata Play Binge."
     },
     {
+      "id": "starbucks-rewards",
+      "name": "Starbucks Rewards",
+      "category": "food",
+      "description": "Free rewards programme for Tata Starbucks customers in India.",
+      "websiteUrl": "https://www.starbucks.in/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=starbucks.in&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null
+    },
+    {
       "id": "storytel",
       "name": "Storytel",
       "category": "music",
@@ -783,6 +965,19 @@
       "notes": null
     },
     {
+      "id": "tata-neupass",
+      "name": "Tata NeuPass",
+      "category": "shopping",
+      "description": "Tata Neu's loyalty programme: NeuCoins on Tata brands such as BigBasket, Croma, Westside, Taj and Air India.",
+      "websiteUrl": "https://www.tataneu.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=tataneu.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null
+    },
+    {
       "id": "the-ken",
       "name": "The Ken",
       "category": "news",
@@ -807,6 +1002,19 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "TIDAL is not officially available in India."
+    },
+    {
+      "id": "times-prime",
+      "name": "Times Prime",
+      "category": "shopping",
+      "description": "Annual membership bundling OTT, food delivery, travel and shopping benefits from partner brands.",
+      "websiteUrl": "https://www.timesprime.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=timesprime.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Benefits must be claimed one by one in the Times Prime app."
     },
     {
       "id": "truecaller",
@@ -885,6 +1093,19 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null
+    },
+    {
+      "id": "zepto-club",
+      "name": "Zepto Club",
+      "category": "food",
+      "description": "Zepto's invite-only paid membership with free delivery, cashback and priority delivery.",
+      "websiteUrl": "https://www.zeptonow.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=zeptonow.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Launched in July 2026 after Zepto Pass and Zepto Daily were discontinued."
     },
     {
       "id": "zomato-gold",
@@ -4720,6 +4941,434 @@
       "group": "the-ken-premium-annual",
       "planType": null,
       "notes": "The last published rupee price we found is from 2019, so none is shown. Check the-ken.com/pricing."
+    },
+    {
+      "id": "times-prime-annual",
+      "serviceId": "times-prime",
+      "name": "Times Prime",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.timesprime.com/",
+      "features": [
+        "Partner memberships and vouchers",
+        "Claimed in the app"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://zoutons.com/news/times-prime-membership-price-2026",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "times-prime-annual",
+      "planType": null,
+      "notes": "Times Prime's own FAQ says plans start from ₹349 a year, while the full membership has been listed at ₹1,299; check the live price."
+    },
+    {
+      "id": "lenskart-gold-annual",
+      "serviceId": "lenskart-gold",
+      "name": "Gold",
+      "price": 500,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.lenskart.com/",
+      "features": [
+        "Buy 1 Get 1 on eyeglasses and sunglasses",
+        "Free eye test",
+        "10% off contact lenses"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.grabon.in/indulge/shopping-tips/get-lenskart-gold-membership/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "lenskart-gold-annual",
+      "planType": null,
+      "notes": "Including GST."
+    },
+    {
+      "id": "lenskart-gold-max-annual",
+      "serviceId": "lenskart-gold",
+      "name": "Gold Max",
+      "price": 800,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.lenskart.com/",
+      "features": [
+        "Everything in Gold",
+        "Cashback"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.grabon.in/indulge/shopping-tips/get-lenskart-gold-membership/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "lenskart-gold-max-annual",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "flipkart-plus",
+      "serviceId": "flipkart-membership",
+      "name": "Flipkart Plus",
+      "price": 0,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.flipkart.com/plus",
+      "features": [
+        "Free, earned by shopping",
+        "SuperCoins rewards"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://stories.flipkart.com/flipkart-black-loyalty-program-2025",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "flipkart-plus",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "flipkart-black-annual",
+      "serviceId": "flipkart-membership",
+      "name": "Flipkart Black",
+      "price": 1499,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.flipkart.com/plus",
+      "features": [
+        "YouTube Premium for a year",
+        "5% SuperCoins back up to ₹100 per order",
+        "Cleartrip and early sale benefits"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.business-standard.com/technology/tech-news/flipkart-black-subscription-youtube-premium-125082500934_1.html",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "flipkart-black-annual",
+      "planType": null,
+      "notes": "Launched at ₹990 as an introductory price."
+    },
+    {
+      "id": "tata-neupass-free",
+      "serviceId": "tata-neupass",
+      "name": "NeuPass",
+      "price": 0,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.tataneu.com/",
+      "features": [
+        "Free to join",
+        "NeuCoins on Tata brands"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.tataneu.com/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "tata-neupass-free",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "starbucks-rewards-free",
+      "serviceId": "starbucks-rewards",
+      "name": "Starbucks Rewards",
+      "price": 0,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.starbucks.in/",
+      "features": [
+        "Free to join",
+        "Stars on every purchase"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.starbucks.in/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "starbucks-rewards-free",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "myntra-insider-free",
+      "serviceId": "myntra-insider",
+      "name": "Myntra Insider",
+      "price": 0,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.myntra.com/",
+      "features": [
+        "Free to join",
+        "Tiers based on spending",
+        "Early sale access"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.myntra.com/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "myntra-insider-free",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "nykaa-prive-free",
+      "serviceId": "nykaa-prive",
+      "name": "Nykaa Privé",
+      "price": 0,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.nykaa.com/",
+      "features": [
+        "Free to join",
+        "Reward points",
+        "Tiers based on spending"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.nykaa.com/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "nykaa-prive-free",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "hm-membership-free",
+      "serviceId": "hm-membership",
+      "name": "H&M Member",
+      "price": 0,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www2.hm.com/en_in/",
+      "features": [
+        "Free to join",
+        "Points on purchases",
+        "Member offers"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www2.hm.com/en_in/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "hm-membership-free",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "ikea-family-free",
+      "serviceId": "ikea-family",
+      "name": "IKEA Family",
+      "price": 0,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.ikea.com/in/en/",
+      "features": [
+        "Free to join",
+        "Member prices",
+        "Offers"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.ikea.com/in/en/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "ikea-family-free",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "decathlon-membership-free",
+      "serviceId": "decathlon-membership",
+      "name": "Decathlon Member",
+      "price": 0,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.decathlon.in/",
+      "features": [
+        "Free to join",
+        "Points",
+        "Member offers"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.decathlon.in/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "decathlon-membership-free",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "lulu-happiness-free",
+      "serviceId": "lulu-happiness",
+      "name": "Lulu Happiness",
+      "price": 0,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.luluhypermarket.in/",
+      "features": [
+        "Free to join",
+        "Points on purchases"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.luluhypermarket.in/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "lulu-happiness-free",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "bbstar-half-yearly",
+      "serviceId": "bbstar",
+      "name": "bbstar (6 months)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "half_yearly"
+      },
+      "planUrl": "https://www.bigbasket.com/bbstar/",
+      "features": [
+        "Free delivery on orders above ₹600",
+        "Reserved delivery slots",
+        "Member-only offers"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.sbicard.com/en/personal/rewards/bbstar-membership-6-months",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "bbstar-half-yearly",
+      "planType": null,
+      "notes": "Sold for six months at a time; listings show ₹299 on offer and ₹599 otherwise, so no single price is shown."
+    },
+    {
+      "id": "zepto-club-monthly",
+      "serviceId": "zepto-club",
+      "name": "Zepto Club",
+      "price": 99,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.zeptonow.com/",
+      "features": [
+        "Free delivery on orders above ₹99",
+        "Cashback",
+        "Priority delivery"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://inc42.com/features/zeptos-retention-play-fewer-discounts-premium-carts-a-paid-club/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "zepto-club-monthly",
+      "planType": null,
+      "notes": "Introductory price; invite-only."
+    },
+    {
+      "id": "firstcry-club-annual",
+      "serviceId": "firstcry-club",
+      "name": "12 months",
+      "price": 999,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.firstcry.com/club",
+      "features": [
+        "Club prices",
+        "Free shipping on all orders",
+        "2x Club Cash"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://zoutons.com/news/firstcry-baby-products-sale-top-deals",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "firstcry-club-annual",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "shoppers-stop-black",
+      "serviceId": "shoppers-stop-first-citizen",
+      "name": "First Citizen Black",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.shoppersstop.com/",
+      "features": [
+        "Top tier",
+        "More First Citizen points per ₹ spent"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://cardinsider.com/hdfc-bank/shoppers-stop-black-hdfc-credit-card/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "shoppers-stop-black",
+      "planType": null,
+      "notes": "Shoppers Stop values Black membership at ₹4,500, but we found no published price for buying it directly."
+    },
+    {
+      "id": "licious-infiniti",
+      "serviceId": "licious-infiniti",
+      "name": "Infiniti",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.licious.in/",
+      "features": [
+        "Free delivery with no minimum order",
+        "Cashback on orders"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://theprint.in/ani-press-releases/licious-now-serving-juicy-delicious-chicken-and-seafood-with-a-side-of-infinite-benefits/1721291",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "licious-infiniti",
+      "planType": null,
+      "notes": "No published price found. Check the Licious app."
+    },
+    {
+      "id": "country-delight-daily",
+      "serviceId": "country-delight",
+      "name": "Daily delivery",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://countrydelight.in/",
+      "features": [
+        "Daily or alternate-day delivery",
+        "Pause or change anytime in the app"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "country-delight-daily",
+      "planType": null,
+      "notes": "Billed by what you order, not a fixed fee."
     }
   ],
   "offers": [

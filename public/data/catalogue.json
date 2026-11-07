@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T18:48:22.101Z",
+  "generatedAt": "2026-11-07T18:57:00.645Z",
   "version": 1,
   "services": [
     {
@@ -13,7 +13,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "aha",
@@ -26,7 +27,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Prices here are from the App Store in India; the website can differ."
+      "notes": "Prices here are from the App Store in India; the website can differ.",
+      "featured": false
     },
     {
       "id": "amazon-music-unlimited",
@@ -39,7 +41,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Since June 2026, the music included with Amazon Prime has ads and no downloads; Unlimited is the ad-free tier."
+      "notes": "Since June 2026, the music included with Amazon Prime has ads and no downloads; Unlimited is the ad-free tier.",
+      "featured": true
     },
     {
       "id": "amazon-prime",
@@ -52,7 +55,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "apple-music",
@@ -65,7 +69,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "apple-tv",
@@ -78,7 +83,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "In India, Apple TV is included with every paid iCloud+ plan since September 2026, and is also sold as a Prime Video add-on."
+      "notes": "In India, Apple TV is included with every paid iCloud+ plan since September 2026, and is also sold as a Prime Video add-on.",
+      "featured": true
     },
     {
       "id": "audible",
@@ -91,7 +97,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "bbstar",
@@ -104,7 +111,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "canva",
@@ -117,7 +125,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "chatgpt",
@@ -130,7 +139,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "chaupal",
@@ -143,7 +153,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Prices here are from the App Store in India. Also sold as a Prime Video Channels add-on."
+      "notes": "Prices here are from the App Store in India. Also sold as a Prime Video Channels add-on.",
+      "featured": false
     },
     {
       "id": "claude",
@@ -156,7 +167,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "country-delight",
@@ -169,7 +181,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "What you pay depends on what you get delivered; add your usual monthly bill as your own amount."
+      "notes": "What you pay depends on what you get delivered; add your usual monthly bill as your own amount.",
+      "featured": false
     },
     {
       "id": "coursera",
@@ -182,7 +195,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "crunchyroll",
@@ -195,7 +209,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Mega Fan includes Crunchyroll Game Vault, a catalogue of mobile games."
+      "notes": "Mega Fan includes Crunchyroll Game Vault, a catalogue of mobile games.",
+      "featured": false
     },
     {
       "id": "cultfit",
@@ -208,7 +223,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "curiositystream",
@@ -221,7 +237,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "In India it is also available through Tata Play Binge, OTTplay and Prime Video Channels."
+      "notes": "In India it is also available through Tata Play Binge, OTTplay and Prime Video Channels.",
+      "featured": false
     },
     {
       "id": "decathlon-membership",
@@ -234,7 +251,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "deezer",
@@ -247,7 +265,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Deezer has not officially launched paid plans in India."
+      "notes": "Deezer has not officially launched paid plans in India.",
+      "featured": false
     },
     {
       "id": "discovery-plus",
@@ -260,7 +279,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Annual price is often discounted during festive and Republic Day sales."
+      "notes": "Annual price is often discounted during festive and Republic Day sales.",
+      "featured": false
     },
     {
       "id": "docubay",
@@ -273,7 +293,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "dropbox",
@@ -286,7 +307,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "duolingo",
@@ -299,7 +321,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "epic-on",
@@ -312,7 +335,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Prices are from the 2020 relaunch; partner offers through PhonePe and Airtel Xstream have been lower."
+      "notes": "Prices are from the 2020 relaunch; partner offers through PhonePe and Airtel Xstream have been lower.",
+      "featured": false
     },
     {
       "id": "etv-win",
@@ -325,7 +349,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Prices here are from the App Store in India."
+      "notes": "Prices here are from the App Store in India.",
+      "featured": false
     },
     {
       "id": "fancode",
@@ -338,7 +363,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Exclusive Indian streaming home of Formula 1 until 2028. Single-match and race-weekend passes are also sold."
+      "notes": "Exclusive Indian streaming home of Formula 1 until 2028. Single-match and race-weekend passes are also sold.",
+      "featured": false
     },
     {
       "id": "fawesome",
@@ -351,7 +377,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "No paid plan."
+      "notes": "No paid plan.",
+      "featured": false
     },
     {
       "id": "firstcry-club",
@@ -364,7 +391,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "3, 6 and 12-month plans; often free or discounted for frequent shoppers."
+      "notes": "3, 6 and 12-month plans; often free or discounted for frequent shoppers.",
+      "featured": false
     },
     {
       "id": "flipkart-membership",
@@ -377,7 +405,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Flipkart Black replaced Flipkart VIP in August 2025."
+      "notes": "Flipkart Black replaced Flipkart VIP in August 2025.",
+      "featured": false
     },
     {
       "id": "gaana",
@@ -390,7 +419,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Gaana Plus often runs ₹1 trials and discounted annual plans."
+      "notes": "Gaana Plus often runs ₹1 trials and discounted annual plans.",
+      "featured": false
     },
     {
       "id": "google-ai",
@@ -403,7 +433,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "google-one",
@@ -416,7 +447,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "hm-membership",
@@ -429,7 +461,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "headfone",
@@ -442,7 +475,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "hoichoi",
@@ -455,7 +489,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Also bundled with some Jio prepaid plans."
+      "notes": "Also bundled with some Jio prepaid plans.",
+      "featured": false
     },
     {
       "id": "hungama-play",
@@ -468,7 +503,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Prices are as stated in the Hungama Play App Store listing for India."
+      "notes": "Prices are as stated in the Hungama Play App Store listing for India.",
+      "featured": false
     },
     {
       "id": "icloud-plus",
@@ -481,7 +517,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": "Apple TV and Apple Arcade were added to every paid iCloud+ plan in India in September 2026."
+      "notes": "Apple TV and Apple Arcade were added to every paid iCloud+ plan in India in September 2026.",
+      "featured": true
     },
     {
       "id": "ikea-family",
@@ -494,7 +531,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "jiohotstar",
@@ -507,7 +545,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "jiosaavn",
@@ -520,7 +559,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "JioSaavn Pro is free with many Jio prepaid recharges."
+      "notes": "JioSaavn Pro is free with many Jio prepaid recharges.",
+      "featured": true
     },
     {
       "id": "kanccha-lannka",
@@ -533,7 +573,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Also included in some JioTV Premium and Airtel Xstream packs."
+      "notes": "Also included in some JioTV Premium and Airtel Xstream packs.",
+      "featured": false
     },
     {
       "id": "kindle-unlimited",
@@ -546,7 +587,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "klikk",
@@ -559,7 +601,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Also available through Tata Play Binge."
+      "notes": "Also available through Tata Play Binge.",
+      "featured": false
     },
     {
       "id": "kuku-fm",
@@ -572,7 +615,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Prices here are from the App Store in India. Discounted annual offers are common."
+      "notes": "Prices here are from the App Store in India. Discounted annual offers are common.",
+      "featured": false
     },
     {
       "id": "kuku-tv",
@@ -585,7 +629,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "lenskart-gold",
@@ -598,7 +643,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Often free through Times Prime, Swiggy One, CRED or UPI rewards."
+      "notes": "Often free through Times Prime, Swiggy One, CRED or UPI rewards.",
+      "featured": false
     },
     {
       "id": "licious-infiniti",
@@ -611,7 +657,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Replaced the earlier Meatopia membership."
+      "notes": "Replaced the earlier Meatopia membership.",
+      "featured": false
     },
     {
       "id": "linkedin-premium",
@@ -624,7 +671,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "lionsgate-play",
@@ -637,7 +685,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Also bundled with some Jio, Airtel and Vi plans."
+      "notes": "Also bundled with some Jio, Airtel and Vi plans.",
+      "featured": false
     },
     {
       "id": "lulu-happiness",
@@ -650,7 +699,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "manoramamax",
@@ -663,7 +713,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Also sold as a Prime Video Channels add-on, which works only inside Prime Video."
+      "notes": "Also sold as a Prime Video Channels add-on, which works only inside Prime Video.",
+      "featured": false
     },
     {
       "id": "microsoft-365",
@@ -676,7 +727,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "mubi",
@@ -689,7 +741,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "myntra-insider",
@@ -702,7 +755,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "nammaflix",
@@ -715,7 +769,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "A ₹19 weekly pack is also sold. Prices here are from the App Store in India."
+      "notes": "A ₹19 weekly pack is also sold. Prices here are from the App Store in India.",
+      "featured": false
     },
     {
       "id": "netflix",
@@ -728,7 +783,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "notion",
@@ -741,7 +797,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": "Billed in US dollars."
+      "notes": "Billed in US dollars.",
+      "featured": false
     },
     {
       "id": "nykaa-prive",
@@ -754,7 +811,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "perplexity",
@@ -767,7 +825,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": "Recurring plans are billed in US dollars for users in India."
+      "notes": "Recurring plans are billed in US dollars for users in India.",
+      "featured": false
     },
     {
       "id": "planet-marathi",
@@ -780,7 +839,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Some new films are rented separately for about ₹99."
+      "notes": "Some new films are rented separately for about ₹99.",
+      "featured": false
     },
     {
       "id": "playstation-plus",
@@ -793,7 +853,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "pocket-fm",
@@ -806,7 +867,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Most episodes are unlocked with coins bought in packs (from about ₹39); a Premium subscription is also sold. Track coin spending as a custom subscription if it's regular."
+      "notes": "Most episodes are unlocked with coins bought in packs (from about ₹39); a Premium subscription is also sold. Track coin spending as a custom subscription if it's regular.",
+      "featured": false
     },
     {
       "id": "pratilipi-fm",
@@ -819,7 +881,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Pratilipi Premium (for reading) is a separate subscription."
+      "notes": "Pratilipi Premium (for reading) is a separate subscription.",
+      "featured": false
     },
     {
       "id": "shemaroome",
@@ -832,7 +895,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Language packs (Gujarati, Marathi, Punjabi and more) are sold separately from the full Premium plan."
+      "notes": "Language packs (Gujarati, Marathi, Punjabi and more) are sold separately from the full Premium plan.",
+      "featured": false
     },
     {
       "id": "shoppers-stop-first-citizen",
@@ -845,7 +909,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Higher tiers often come free with Shoppers Stop co-branded credit cards from HDFC Bank, RBL Bank and Axis Bank."
+      "notes": "Higher tiers often come free with Shoppers Stop co-branded credit cards from HDFC Bank, RBL Bank and Axis Bank.",
+      "featured": false
     },
     {
       "id": "shortstv",
@@ -858,7 +923,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Also sold through Prime Video Channels, Airtel Xstream and DTH packs."
+      "notes": "Also sold through Prime Video Channels, Airtel Xstream and DTH packs.",
+      "featured": false
     },
     {
       "id": "sonyliv",
@@ -871,7 +937,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "soundcloud",
@@ -884,7 +951,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "SoundCloud says buying on its website or Android app costs less than through Apple, which adds about 30%."
+      "notes": "SoundCloud says buying on its website or Android app costs less than through Apple, which adds about 30%.",
+      "featured": false
     },
     {
       "id": "spotify",
@@ -897,7 +965,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "stage",
@@ -910,7 +979,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "New users usually start with a ₹1 trial for 7 days. Also on Tata Play Binge."
+      "notes": "New users usually start with a ₹1 trial for 7 days. Also on Tata Play Binge.",
+      "featured": false
     },
     {
       "id": "starbucks-rewards",
@@ -923,7 +993,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "storytel",
@@ -936,7 +1007,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Prices here are from the App Store in India."
+      "notes": "Prices here are from the App Store in India.",
+      "featured": false
     },
     {
       "id": "sun-nxt",
@@ -949,7 +1021,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Also bundled with some Vi plans."
+      "notes": "Also bundled with some Vi plans.",
+      "featured": false
     },
     {
       "id": "swiggy-one",
@@ -962,7 +1035,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "tata-neupass",
@@ -975,7 +1049,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": null
+      "notes": null,
+      "featured": false
     },
     {
       "id": "the-ken",
@@ -988,7 +1063,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "An app-only monthly plan is also sold."
+      "notes": "An app-only monthly plan is also sold.",
+      "featured": false
     },
     {
       "id": "tidal",
@@ -1001,7 +1077,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "TIDAL is not officially available in India."
+      "notes": "TIDAL is not officially available in India.",
+      "featured": false
     },
     {
       "id": "times-prime",
@@ -1014,7 +1091,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Benefits must be claimed one by one in the Times Prime app."
+      "notes": "Benefits must be claimed one by one in the Times Prime app.",
+      "featured": false
     },
     {
       "id": "truecaller",
@@ -1027,7 +1105,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "ultra-jhakaas",
@@ -1040,7 +1119,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "A weekly plan from ₹19 was added in 2026."
+      "notes": "A weekly plan from ₹19 was added in 2026.",
+      "featured": false
     },
     {
       "id": "viki",
@@ -1053,7 +1133,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Free with ads; Viki Pass removes ads."
+      "notes": "Free with ads; Viki Pass removes ads.",
+      "featured": false
     },
     {
       "id": "watcho",
@@ -1066,7 +1147,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Works for Dish TV, d2h and non-Dish customers."
+      "notes": "Works for Dish TV, d2h and non-Dish customers.",
+      "featured": false
     },
     {
       "id": "youtube-premium",
@@ -1079,7 +1161,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "zee5",
@@ -1092,7 +1175,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     },
     {
       "id": "zepto-club",
@@ -1105,7 +1189,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-08",
-      "notes": "Launched in July 2026 after Zepto Pass and Zepto Daily were discontinued."
+      "notes": "Launched in July 2026 after Zepto Pass and Zepto Daily were discontinued.",
+      "featured": false
     },
     {
       "id": "zomato-gold",
@@ -1118,7 +1203,8 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
-      "notes": null
+      "notes": null,
+      "featured": true
     }
   ],
   "plans": [

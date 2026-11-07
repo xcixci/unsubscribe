@@ -1185,3 +1185,13 @@ dialog .picker__grid {
   gap: var(--s-3);
   align-content: start;
 }
+
+/* Explore: "Show more" under the grid */
+.show-more {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  margin-top: 32px;
+  text-align: center;
+}

@@ -13,7 +13,7 @@ export const CATEGORIES = [
 export const COLUMNS = {
   services: {
     required: ['service_id', 'service_name', 'category', 'description', 'website_url', 'logo_url', 'country', 'status', 'last_updated'],
-    optional: ['notes'],
+    optional: ['notes', 'featured'],
   },
   plans: {
     required: ['plan_id', 'service_id', 'plan_name', 'price', 'currency', 'billing_frequency', 'billing_period_months', 'plan_url', 'features', 'last_verified', 'price_source_url', 'status'],
@@ -53,6 +53,15 @@ class Report {
 
 const s = (v) => (v === undefined || v === null ? '' : String(v).trim());
 const orNull = (v) => (s(v) === '' ? null : s(v));
+
+/** `featured` column: "yes" puts a service in the first page of Explore. Blank or "no" = not featured. */
+function featuredFlag(where, raw, report) {
+  const v = (raw ?? '').toString().trim().toLowerCase();
+  if (v === '' || v === 'no' || v === 'false') return false;
+  if (v === 'yes' || v === 'true') return true;
+  report.error(where, `featured "${raw}" must be yes or blank`);
+  return false;
+}
 
 export function isValidDate(v) {
   if (!DATE.test(v)) return false;
@@ -201,6 +210,7 @@ export function buildCatalogue(csv, options = {}) {
       status: STATUS.includes(status) ? status : 'active',
       lastUpdated: date(where, 'last_updated', r.last_updated, report, today),
       notes: orNull(r.notes),
+      featured: featuredFlag(where, r.featured, report),
     };
   });
   const serviceIds = new Set(services.map((x) => x.id));

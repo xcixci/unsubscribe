@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
 import type { CategoryId, Service } from '../domain/types';
 import { CATEGORIES, categoryLabel, isCategoryId } from '../domain/categories';
@@ -12,7 +12,10 @@ import { VerificationBadge } from '../components/Badges';
 import { SubscriptionForm, type FormMode } from '../components/SubscriptionForm';
 import { matchesQuery } from '../components/ServicePicker';
 
-type Sort = 'name' | 'price-asc' | 'price-desc' | 'category';
+type Sort = 'popular' | 'name' | 'price-asc' | 'price-desc' | 'category';
+
+/** How many cards Explore shows before "Show more". */
+export const PAGE_SIZE = 24;
 
 export function Explore() {
   const { catalogue, index } = useCatalogue();
@@ -20,8 +23,11 @@ export function Explore() {
   const q = params.get('q') ?? '';
   const catParam = params.get('cat');
   const cat: CategoryId | null = isCategoryId(catParam) ? catParam : null;
-  const sort = (['name', 'price-asc', 'price-desc', 'category'].includes(params.get('sort') ?? '') ? params.get('sort') : 'name') as Sort;
+  const sort = (['name', 'price-asc', 'price-desc', 'category'].includes(params.get('sort') ?? '') ? params.get('sort') : 'popular') as Sort;
   const [form, setForm] = useState<FormMode | null>(null);
+  const [shown, setShown] = useState(PAGE_SIZE);
+  // A new search, filter or sort starts from the first page again.
+  useEffect(() => setShown(PAGE_SIZE), [q, cat, sort]);
 
   const set = (key: string, value: string | null) => {
     const next = new URLSearchParams(params);
@@ -50,6 +56,7 @@ export function Explore() {
         if (pb === null) return -1;
         return sort === 'price-asc' ? pa - pb : pb - pa;
       }
+      if (sort === 'popular' && !!a.featured !== !!b.featured) return a.featured ? -1 : 1;
       return a.name.localeCompare(b.name);
     });
   }, [active, q, cat, sort, index]);
@@ -77,7 +84,8 @@ export function Explore() {
           <label htmlFor="explore-sort" className="visually-hidden">
             Sort by
           </label>
-          <select id="explore-sort" className="select" value={sort} onChange={(e) => set('sort', e.target.value === 'name' ? null : e.target.value)}>
+          <select id="explore-sort" className="select" value={sort} onChange={(e) => set('sort', e.target.value === 'popular' ? null : e.target.value)}>
+            <option value="popular">Sort: Popular first</option>
             <option value="name">Sort: Name A–Z</option>
             <option value="price-asc">Sort: Lowest starting price</option>
             <option value="price-desc">Sort: Highest starting price</option>
@@ -119,8 +127,9 @@ export function Explore() {
           </div>
         </div>
       ) : (
+        <>
         <div className="service-grid">
-          {results.map((s) => (
+          {results.slice(0, shown).map((s) => (
             <ServiceCard key={s.id} service={s} onAdd={() => setForm({ kind: 'add', serviceId: s.id })} />
           ))}
           <article className="service-card service-card--custom">
@@ -132,6 +141,17 @@ export function Explore() {
             </button>
           </article>
         </div>
+        {results.length > shown && (
+          <div className="show-more">
+            <p className="muted small">
+              Showing {shown} of {results.length}. Search or pick a category to find one faster.
+            </p>
+            <button type="button" className="btn btn--ghost" onClick={() => setShown((n) => n + PAGE_SIZE)}>
+              Show {Math.min(PAGE_SIZE, results.length - shown)} more
+            </button>
+          </div>
+        )}
+        </>
       )}
 
       <SubscriptionForm mode={form} onClose={() => setForm(null)} />

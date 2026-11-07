@@ -74,10 +74,21 @@ describe('catalogue build', () => {
 
   it('drops columns that are not meant to be published', () => {
     const csv = real();
-    csv.services = csv.services.replace('notes\n', 'notes,private_contact\n');
+    csv.services = csv.services.replace('notes,featured\n', 'notes,featured,private_contact\n');
     const { catalogue, warnings } = buildCatalogue(csv, { today: '2026-11-07' });
     expect(JSON.stringify(catalogue)).not.toContain('private_contact');
     expect(warnings.some((w: string) => w.includes('private_contact'))).toBe(true);
+  });
+
+  it('reads the featured flag and rejects anything but yes or blank', () => {
+    const { catalogue } = buildCatalogue(real());
+    const featured = catalogue.services.filter((x: { featured: boolean }) => x.featured);
+    expect(featured.length).toBeGreaterThan(10);
+    expect(featured.length).toBeLessThanOrEqual(30);
+    const csv = real();
+    csv.services = csv.services.replace(/,yes\n/, ',maybe\n');
+    const { errors } = buildCatalogue(csv);
+    expect(errors.some((e: string) => e.includes('featured'))).toBe(true);
   });
 
   it('supports day-based telecom cycles', () => {

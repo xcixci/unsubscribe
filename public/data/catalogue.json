@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T12:25:13.434Z",
+  "generatedAt": "2026-11-07T18:42:12.416Z",
   "version": 1,
   "services": [
     {
@@ -14,6 +14,19 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null
+    },
+    {
+      "id": "aha",
+      "name": "aha",
+      "category": "ott",
+      "description": "Telugu and Tamil films, web series, originals and shows such as Telugu Indian Idol.",
+      "websiteUrl": "https://www.aha.video/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=aha.video&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Prices here are from the App Store in India; the website can differ."
     },
     {
       "id": "amazon-prime",
@@ -40,6 +53,19 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null
+    },
+    {
+      "id": "apple-tv",
+      "name": "Apple TV",
+      "category": "ott",
+      "description": "Apple Original series and films such as Severance, Ted Lasso and F1 The Movie. Formerly Apple TV+.",
+      "websiteUrl": "https://tv.apple.com/in",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=tv.apple.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "In India, Apple TV is included with every paid iCloud+ plan since September 2026, and is also sold as a Prime Video add-on."
     },
     {
       "id": "audible",
@@ -81,6 +107,19 @@
       "notes": null
     },
     {
+      "id": "chaupal",
+      "name": "Chaupal",
+      "category": "ott",
+      "description": "Punjabi, Haryanvi and Bhojpuri films and web series, ad-free.",
+      "websiteUrl": "https://chaupal.tv/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=chaupal.tv&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Prices here are from the App Store in India. Also sold as a Prime Video Channels add-on."
+    },
+    {
       "id": "claude",
       "name": "Claude",
       "category": "ai",
@@ -107,6 +146,19 @@
       "notes": null
     },
     {
+      "id": "crunchyroll",
+      "name": "Crunchyroll",
+      "category": "ott",
+      "description": "Anime streaming with new episodes soon after they air in Japan, plus dubs and manga.",
+      "websiteUrl": "https://www.crunchyroll.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=crunchyroll.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Mega Fan includes Crunchyroll Game Vault, a catalogue of mobile games."
+    },
+    {
       "id": "cultfit",
       "name": "cult.fit (cultpass)",
       "category": "fitness",
@@ -117,6 +169,45 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "curiositystream",
+      "name": "CuriosityStream",
+      "category": "ott",
+      "description": "Science, history, nature and technology documentaries.",
+      "websiteUrl": "https://curiositystream.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=curiositystream.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "In India it is also available through Tata Play Binge, OTTplay and Prime Video Channels."
+    },
+    {
+      "id": "discovery-plus",
+      "name": "discovery+",
+      "category": "ott",
+      "description": "Documentaries and real-life shows from Discovery, Animal Planet, TLC, HGTV and more.",
+      "websiteUrl": "https://www.discoveryplus.in/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=discoveryplus.in&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Annual price is often discounted during festive and Republic Day sales."
+    },
+    {
+      "id": "docubay",
+      "name": "DocuBay",
+      "category": "ott",
+      "description": "Curated documentaries from around the world on science, nature, history and society.",
+      "websiteUrl": "https://www.docubay.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=docubay.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
       "notes": null
     },
     {
@@ -146,6 +237,58 @@
       "notes": null
     },
     {
+      "id": "epic-on",
+      "name": "EPIC ON",
+      "category": "ott",
+      "description": "Indian history, mythology, culture and food shows, documentaries and films from the EPIC channel.",
+      "websiteUrl": "https://www.epicon.in/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=epicon.in&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Prices are from the 2020 relaunch; partner offers through PhonePe and Airtel Xstream have been lower."
+    },
+    {
+      "id": "etv-win",
+      "name": "ETV Win",
+      "category": "ott",
+      "description": "Telugu films, ETV serials and reality shows, originals and live TV.",
+      "websiteUrl": "https://www.etvwin.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=etvwin.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Prices here are from the App Store in India."
+    },
+    {
+      "id": "fancode",
+      "name": "FanCode",
+      "category": "ott",
+      "description": "Live sport streaming in India, including Formula 1, MotoGP, cricket and football.",
+      "websiteUrl": "https://www.fancode.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=fancode.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Exclusive Indian streaming home of Formula 1 until 2028. Single-match and race-weekend passes are also sold."
+    },
+    {
+      "id": "fawesome",
+      "name": "Fawesome",
+      "category": "ott",
+      "description": "Free, ad-supported films and TV shows.",
+      "websiteUrl": "https://fawesome.tv/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=fawesome.tv&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "No paid plan."
+    },
+    {
       "id": "google-ai",
       "name": "Google AI (Gemini)",
       "category": "ai",
@@ -170,6 +313,32 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null
+    },
+    {
+      "id": "hoichoi",
+      "name": "hoichoi",
+      "category": "ott",
+      "description": "Bengali films, web series and SVF originals.",
+      "websiteUrl": "https://www.hoichoi.tv/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=hoichoi.tv&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Also bundled with some Jio prepaid plans."
+    },
+    {
+      "id": "hungama-play",
+      "name": "Hungama Play",
+      "category": "ott",
+      "description": "Bollywood, Hollywood and regional films, TV shows, kids content and music videos.",
+      "websiteUrl": "https://www.hungama.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=hungama.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Prices are as stated in the Hungama Play App Store listing for India."
     },
     {
       "id": "icloud-plus",
@@ -198,6 +367,19 @@
       "notes": null
     },
     {
+      "id": "kanccha-lannka",
+      "name": "Kanccha Lannka",
+      "category": "ott",
+      "description": "Odia web series and films, with new releases every Friday.",
+      "websiteUrl": "https://www.kancchalannka.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=kancchalannka.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Also included in some JioTV Premium and Airtel Xstream packs."
+    },
+    {
       "id": "kindle-unlimited",
       "name": "Kindle Unlimited",
       "category": "news",
@@ -209,6 +391,19 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null
+    },
+    {
+      "id": "klikk",
+      "name": "KLiKK",
+      "category": "ott",
+      "description": "Bengali films from classics to new releases, original web series and short films.",
+      "websiteUrl": "https://www.klikk.tv/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=klikk.tv&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Also available through Tata Play Binge."
     },
     {
       "id": "linkedin-premium",
@@ -224,6 +419,32 @@
       "notes": null
     },
     {
+      "id": "lionsgate-play",
+      "name": "Lionsgate Play",
+      "category": "ott",
+      "description": "Hollywood films and international series from Lionsgate and Starz, many dubbed into Indian languages.",
+      "websiteUrl": "https://www.lionsgateplay.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=lionsgateplay.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Also bundled with some Jio, Airtel and Vi plans."
+    },
+    {
+      "id": "manoramamax",
+      "name": "manoramaMAX",
+      "category": "ott",
+      "description": "Malayalam films, Mazhavil Manorama shows before TV, MAX Originals and Manorama News.",
+      "websiteUrl": "https://www.manoramamax.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=manoramamax.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Also sold as a Prime Video Channels add-on, which works only inside Prime Video."
+    },
+    {
       "id": "microsoft-365",
       "name": "Microsoft 365",
       "category": "productivity",
@@ -235,6 +456,32 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null
+    },
+    {
+      "id": "mubi",
+      "name": "MUBI",
+      "category": "ott",
+      "description": "Hand-picked world cinema, art-house and classic films, with Indian and international collections.",
+      "websiteUrl": "https://mubi.com/en/in",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=mubi.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null
+    },
+    {
+      "id": "nammaflix",
+      "name": "Namma Flix",
+      "category": "ott",
+      "description": "Kannada films, original shows and music.",
+      "websiteUrl": "https://www.nammaflix.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=nammaflix.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "A ₹19 weekly pack is also sold. Prices here are from the App Store in India."
     },
     {
       "id": "netflix",
@@ -276,6 +523,19 @@
       "notes": "Recurring plans are billed in US dollars for users in India."
     },
     {
+      "id": "planet-marathi",
+      "name": "Planet Marathi",
+      "category": "ott",
+      "description": "Marathi films, web series, theatre, music and originals.",
+      "websiteUrl": "https://www.planetmarathi.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=planetmarathi.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Some new films are rented separately for about ₹99."
+    },
+    {
       "id": "playstation-plus",
       "name": "PlayStation Plus",
       "category": "gaming",
@@ -287,6 +547,32 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null
+    },
+    {
+      "id": "shemaroome",
+      "name": "ShemarooMe",
+      "category": "ott",
+      "description": "Bollywood classics and new films, Gujarati, Marathi and Punjabi content, devotional and kids shows.",
+      "websiteUrl": "https://www.shemaroome.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=shemaroome.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Language packs (Gujarati, Marathi, Punjabi and more) are sold separately from the full Premium plan."
+    },
+    {
+      "id": "shortstv",
+      "name": "ShortsTV",
+      "category": "ott",
+      "description": "Short films from around the world, including Oscar-nominated shorts.",
+      "websiteUrl": "https://shorts.tv/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=shorts.tv&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Also sold through Prime Video Channels, Airtel Xstream and DTH packs."
     },
     {
       "id": "sonyliv",
@@ -315,6 +601,32 @@
       "notes": null
     },
     {
+      "id": "stage",
+      "name": "STAGE",
+      "category": "ott",
+      "description": "Haryanvi, Rajasthani and Bhojpuri films, web series and micro-dramas.",
+      "websiteUrl": "https://www.stage.in/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=stage.in&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "New users usually start with a ₹1 trial for 7 days. Also on Tata Play Binge."
+    },
+    {
+      "id": "sun-nxt",
+      "name": "Sun NXT",
+      "category": "ott",
+      "description": "Tamil, Telugu, Malayalam and Kannada films, Sun TV shows and live Sun channels.",
+      "websiteUrl": "https://www.sunnxt.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=sunnxt.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Also bundled with some Vi plans."
+    },
+    {
       "id": "swiggy-one",
       "name": "Swiggy One",
       "category": "food",
@@ -339,6 +651,45 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null
+    },
+    {
+      "id": "ultra-jhakaas",
+      "name": "Ultra Jhakaas",
+      "category": "ott",
+      "description": "Marathi films, originals and theatre, plus Hollywood and South Indian films dubbed in Marathi.",
+      "websiteUrl": "https://www.ultrajhakaas.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=ultrajhakaas.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "A weekly plan from ₹19 was added in 2026."
+    },
+    {
+      "id": "viki",
+      "name": "Viki",
+      "category": "ott",
+      "description": "Korean, Chinese, Japanese and other Asian dramas and films with fan-made subtitles.",
+      "websiteUrl": "https://www.viki.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=viki.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Free with ads; Viki Pass removes ads."
+    },
+    {
+      "id": "watcho",
+      "name": "Watcho",
+      "category": "ott",
+      "description": "Dish TV's streaming app: Watcho originals plus packs that bundle several other OTT apps.",
+      "websiteUrl": "https://www.watcho.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=watcho.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Works for Dish TV, d2h and non-Dish customers."
     },
     {
       "id": "youtube-premium",
@@ -2590,6 +2941,1189 @@
       "group": "linkedin-business-monthly",
       "planType": null,
       "notes": "Price shown at checkout; LinkedIn's India prices vary by plan and offer."
+    },
+    {
+      "id": "apple-tv-monthly",
+      "serviceId": "apple-tv",
+      "name": "Apple TV",
+      "price": 99,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://tv.apple.com/in",
+      "features": [
+        "Apple Originals",
+        "Family Sharing with up to 5 people",
+        "7-day free trial for new subscribers"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.cloudspress.com/?p=426265",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "apple-tv-monthly",
+      "planType": null,
+      "notes": "Free with any paid iCloud+ plan in India."
+    },
+    {
+      "id": "lionsgate-play-quarterly",
+      "serviceId": "lionsgate-play",
+      "name": "3 months",
+      "price": 399,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.lionsgateplay.com/",
+      "features": [
+        "HD 1080p",
+        "Ad-free"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.filmibeat.com/lionsgate-play-subscription-price-plans-63",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "lionsgate-play",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "lionsgate-play-annual",
+      "serviceId": "lionsgate-play",
+      "name": "1 year",
+      "price": 699,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.lionsgateplay.com/",
+      "features": [
+        "HD 1080p",
+        "Ad-free"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.filmibeat.com/lionsgate-play-subscription-price-plans-63",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "lionsgate-play",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "discovery-plus-monthly",
+      "serviceId": "discovery-plus",
+      "name": "Premium monthly",
+      "price": 199,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.discoveryplus.in/",
+      "features": [
+        "Ad-free premium shows",
+        "1 screen"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.digit.in/digit-binge/ott/discovery-plus/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "discovery-plus-premium",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "discovery-plus-annual",
+      "serviceId": "discovery-plus",
+      "name": "Premium yearly",
+      "price": 499,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.discoveryplus.in/",
+      "features": [
+        "Ad-free premium shows",
+        "1 screen"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.medianews4u.com/?p=2446901",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "discovery-plus-premium",
+      "planType": null,
+      "notes": "Regular price; sales have brought it down to ₹299."
+    },
+    {
+      "id": "sun-nxt-basic-annual",
+      "serviceId": "sun-nxt",
+      "name": "Basic",
+      "price": 579,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.sunnxt.com/",
+      "features": [
+        "1 screen, mobile only",
+        "With ads",
+        "No downloads"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.gizbot.com/sun-nxt-subscription-plans.html",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "sun-nxt-basic-annual",
+      "planType": "mobile",
+      "notes": null
+    },
+    {
+      "id": "sun-nxt-premium-annual",
+      "serviceId": "sun-nxt",
+      "name": "Premium",
+      "price": 899,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.sunnxt.com/",
+      "features": [
+        "4 screens, mobile and TV",
+        "Downloads",
+        "Casting"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.gizbot.com/sun-nxt-subscription-plans.html",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "sun-nxt-premium-annual",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "hoichoi-annual",
+      "serviceId": "hoichoi",
+      "name": "Annual",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.hoichoi.tv/subscribe",
+      "features": [
+        "Ad-free",
+        "Downloads"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://support.hoichoi.tv/support/solutions/articles/35000132720",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "hoichoi-annual",
+      "planType": null,
+      "notes": "Recent third-party listings disagree on the price, so none is shown. Check hoichoi.tv/subscribe."
+    },
+    {
+      "id": "aha-gold",
+      "serviceId": "aha",
+      "name": "aha Gold",
+      "price": 899,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.aha.video/",
+      "features": [
+        "Telugu and Tamil",
+        "4K and Dolby",
+        "Ad-free"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apple.co/3LxQqjT",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "aha-gold",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "aha-telugu-premium-annual",
+      "serviceId": "aha",
+      "name": "Telugu Annual Premium",
+      "price": 699,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.aha.video/",
+      "features": [
+        "Telugu",
+        "Full HD, 5.1 sound",
+        "Ad-free"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apple.co/3LxQqjT",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "aha-telugu-premium-annual",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "aha-telugu-annual",
+      "serviceId": "aha",
+      "name": "Telugu Annual",
+      "price": 399,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.aha.video/",
+      "features": [
+        "Telugu"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apple.co/3LxQqjT",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "aha-telugu",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "aha-telugu-quarterly",
+      "serviceId": "aha",
+      "name": "Telugu Quarterly",
+      "price": 199,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.aha.video/",
+      "features": [
+        "Telugu"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apple.co/3LxQqjT",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "aha-telugu",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "aha-tamil-annual",
+      "serviceId": "aha",
+      "name": "Tamil Annual",
+      "price": 299,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.aha.video/",
+      "features": [
+        "Tamil"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apple.co/3LxQqjT",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "aha-tamil",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "aha-tamil-quarterly",
+      "serviceId": "aha",
+      "name": "Tamil Quarterly",
+      "price": 99,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.aha.video/",
+      "features": [
+        "Tamil"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apple.co/3LxQqjT",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "aha-tamil",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "fancode-unlimited-monthly",
+      "serviceId": "fancode",
+      "name": "Unlimited Livestream Pass (monthly)",
+      "price": 199,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.fancode.com/",
+      "features": [
+        "Every sport on FanCode"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.autocarindia.com/motor-sports-news-amp/f1-2026-fancode-f1-tv-india-subscription-prices-439142",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "fancode-unlimited",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "fancode-unlimited-annual",
+      "serviceId": "fancode",
+      "name": "Unlimited Livestream Pass (yearly)",
+      "price": 1499,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.fancode.com/",
+      "features": [
+        "Every sport on FanCode"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.autocarindia.com/motor-sports-news-amp/f1-2026-fancode-f1-tv-india-subscription-prices-439142",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "fancode-unlimited",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "fancode-f1-season",
+      "serviceId": "fancode",
+      "name": "F1 Season Pass",
+      "price": 899,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.fancode.com/",
+      "features": [
+        "Every F1, F2, F3 and F1 Academy session",
+        "Full replays"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.autocarindia.com/motor-sports-news-amp/f1-2026-fancode-f1-tv-india-subscription-prices-439142",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "fancode-f1-season",
+      "planType": null,
+      "notes": "Covers one season."
+    },
+    {
+      "id": "fancode-motorsports-annual",
+      "serviceId": "fancode",
+      "name": "Motorsports Pass",
+      "price": 999,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.fancode.com/",
+      "features": [
+        "Everything in the F1 Season Pass",
+        "MotoGP"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.autocarindia.com/motor-sports-news-amp/f1-2026-fancode-f1-tv-india-subscription-prices-439142",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "fancode-motorsports-annual",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "crunchyroll-fan",
+      "serviceId": "crunchyroll",
+      "name": "Fan",
+      "price": 79,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.crunchyroll.com/premium",
+      "features": [
+        "Ad-free",
+        "Full library and new simulcasts",
+        "1 stream"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://advanced-television.com/?p=201594",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "crunchyroll-fan",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "crunchyroll-mega-fan",
+      "serviceId": "crunchyroll",
+      "name": "Mega Fan",
+      "price": 99,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.crunchyroll.com/premium",
+      "features": [
+        "Everything in Fan",
+        "Offline viewing",
+        "4 streams at once",
+        "Game Vault"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://advanced-television.com/?p=201594",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "crunchyroll-mega-fan",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "mubi-monthly",
+      "serviceId": "mubi",
+      "name": "MUBI",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://mubi.com/en/in",
+      "features": [
+        "Curated films",
+        "Annual billing available"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "mubi-monthly",
+      "planType": null,
+      "notes": "No recent rupee price found from a reliable source. Check mubi.com."
+    },
+    {
+      "id": "curiositystream-standard",
+      "serviceId": "curiositystream",
+      "name": "Standard",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://curiositystream.com/",
+      "features": [
+        "Full documentary library",
+        "Offline viewing"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "curiositystream-standard",
+      "planType": null,
+      "notes": "No rupee price found for buying directly. Check curiositystream.com or your Tata Play Binge or OTTplay pack."
+    },
+    {
+      "id": "shemaroome-premium-quarterly",
+      "serviceId": "shemaroome",
+      "name": "Premium (3 months)",
+      "price": 449,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.shemaroome.com/",
+      "features": [
+        "All ShemarooMe content",
+        "Ad-free"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.bajajfinserv.in/shemaroome-subscription-bill-payment",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "shemaroome-premium-quarterly",
+      "planType": null,
+      "notes": "Annual plan prices vary widely between listings, so none is shown."
+    },
+    {
+      "id": "manoramamax-quarterly",
+      "serviceId": "manoramamax",
+      "name": "Premium (3 months)",
+      "price": 599,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.manoramamax.com/faq.html?lang=eng",
+      "features": [
+        "Full movie library",
+        "At least 8 premieres a month",
+        "4K and Dolby Audio"
+      ],
+      "lastVerified": "2026-11-08",
+      "priceSourceUrl": "https://www.manoramamax.com/faq.html?lang=eng",
+      "status": "active",
+      "verification": "verified",
+      "group": "manoramamax-premium",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "manoramamax-annual",
+      "serviceId": "manoramamax",
+      "name": "Premium (1 year)",
+      "price": 1199,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.manoramamax.com/faq.html?lang=eng",
+      "features": [
+        "Full movie library",
+        "At least 8 premieres a month",
+        "4K and Dolby Audio"
+      ],
+      "lastVerified": "2026-11-08",
+      "priceSourceUrl": "https://www.manoramamax.com/faq.html?lang=eng",
+      "status": "active",
+      "verification": "verified",
+      "group": "manoramamax-premium",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "docubay-annual",
+      "serviceId": "docubay",
+      "name": "Annual",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.docubay.com/",
+      "features": [
+        "Unlimited downloads",
+        "2 streams",
+        "4K titles"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "docubay-annual",
+      "planType": null,
+      "notes": "Recent listings disagree on the price, so none is shown. Check docubay.com."
+    },
+    {
+      "id": "etv-win-monthly",
+      "serviceId": "etv-win",
+      "name": "Premium monthly",
+      "price": 99,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.etvwin.com/",
+      "features": [
+        "Full HD",
+        "3 screens",
+        "Live TV"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/in/app/etv-win/id1245077673",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "etv-win-premium",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "etv-win-annual",
+      "serviceId": "etv-win",
+      "name": "Premium yearly",
+      "price": 499,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.etvwin.com/",
+      "features": [
+        "Full HD",
+        "3 screens",
+        "Live TV"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/in/app/etv-win/id1245077673",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "etv-win-premium",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "planet-marathi-annual",
+      "serviceId": "planet-marathi",
+      "name": "Annual",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.planetmarathi.com/",
+      "features": [
+        "All premium content",
+        "1080p"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/in/app/planet-marathi/id1571116191",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "planet-marathi-annual",
+      "planType": null,
+      "notes": "The App Store in India lists two annual plans, at ₹369 and ₹499, without saying how they differ."
+    },
+    {
+      "id": "chaupal-mobile",
+      "serviceId": "chaupal",
+      "name": "Mobile only",
+      "price": 149,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://chaupal.tv/",
+      "features": [
+        "1 phone or tablet"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/in/app/chaupal/id1580581377",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "chaupal-mobile",
+      "planType": "mobile",
+      "notes": null
+    },
+    {
+      "id": "chaupal-premium-half-yearly",
+      "serviceId": "chaupal",
+      "name": "Premium (6 months)",
+      "price": 499,
+      "currency": "INR",
+      "billing": {
+        "frequency": "half_yearly"
+      },
+      "planUrl": "https://chaupal.tv/",
+      "features": [
+        "All devices"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/in/app/chaupal/id1580581377",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "chaupal-premium",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "chaupal-premium-annual",
+      "serviceId": "chaupal",
+      "name": "Premium (yearly)",
+      "price": 799,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://chaupal.tv/",
+      "features": [
+        "2 screens",
+        "All devices"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/in/app/chaupal/id1580581377",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "chaupal-premium",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "chaupal-gold-annual",
+      "serviceId": "chaupal",
+      "name": "Gold (yearly)",
+      "price": 999,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://chaupal.tv/",
+      "features": [
+        "3 screens",
+        "All devices"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/in/app/chaupal/id1580581377",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "chaupal-gold-annual",
+      "planType": "family",
+      "notes": null
+    },
+    {
+      "id": "klikk-premium",
+      "serviceId": "klikk",
+      "name": "Premium",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.klikk.tv/",
+      "features": [
+        "Full Bengali library"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "klikk-premium",
+      "planType": null,
+      "notes": "No current rupee price found from a reliable source. Check klikk.tv."
+    },
+    {
+      "id": "ultra-jhakaas-monthly",
+      "serviceId": "ultra-jhakaas",
+      "name": "Monthly",
+      "price": 59,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.ultrajhakaas.com/",
+      "features": [
+        "All premium content"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.ultraindia.com/news_event/dive-into-a-world-of-marathi-excellence-with-ultra-jhakaas/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "ultra-jhakaas",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "ultra-jhakaas-quarterly",
+      "serviceId": "ultra-jhakaas",
+      "name": "Quarterly",
+      "price": 149,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.ultrajhakaas.com/",
+      "features": [
+        "All premium content"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.ultraindia.com/news_event/dive-into-a-world-of-marathi-excellence-with-ultra-jhakaas/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "ultra-jhakaas",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "ultra-jhakaas-annual",
+      "serviceId": "ultra-jhakaas",
+      "name": "Annual",
+      "price": 299,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.ultrajhakaas.com/",
+      "features": [
+        "All premium content",
+        "Whole family"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.ultraindia.com/news_event/dive-into-a-world-of-marathi-excellence-with-ultra-jhakaas/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "ultra-jhakaas",
+      "planType": null,
+      "notes": "Announced in 2023 as a discounted price."
+    },
+    {
+      "id": "hungama-play-monthly",
+      "serviceId": "hungama-play",
+      "name": "30 days",
+      "price": 99,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.hungama.com/",
+      "features": [
+        "Ad-free",
+        "Unlimited downloads"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/app/id959839618",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "hungama-play",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "hungama-play-quarterly",
+      "serviceId": "hungama-play",
+      "name": "90 days",
+      "price": 249,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.hungama.com/",
+      "features": [
+        "Ad-free",
+        "Unlimited downloads"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/app/id959839618",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "hungama-play",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "hungama-play-annual",
+      "serviceId": "hungama-play",
+      "name": "1 year",
+      "price": 799,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.hungama.com/",
+      "features": [
+        "Ad-free",
+        "Unlimited downloads"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/app/id959839618",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "hungama-play",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "watcho-packs",
+      "serviceId": "watcho",
+      "name": "OTT packs",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.watcho.com/",
+      "features": [
+        "Bundles apps such as Sony LIV, ZEE5, Lionsgate Play and FanCode, depending on the pack"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "watcho-packs",
+      "planType": null,
+      "notes": "Prices depend on the pack and change often. Check watcho.com."
+    },
+    {
+      "id": "stage-quarterly",
+      "serviceId": "stage",
+      "name": "3 months",
+      "price": 399,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.stage.in/",
+      "features": [
+        "Choose Haryanvi, Rajasthani or Bhojpuri",
+        "Ad-free"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.business-standard.com/entertainment/in-plain-language-few-small-players-shaping-streaming-biz-beyond-hindi-125061901441_1.html",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "stage-quarterly",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "kanccha-lannka-quarterly",
+      "serviceId": "kanccha-lannka",
+      "name": "Quarterly",
+      "price": 199,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.kancchalannka.com/",
+      "features": [
+        "Ad-free",
+        "HD"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.grabon.in/kanccha-lannka-coupons/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "kanccha-lannka",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "kanccha-lannka-annual",
+      "serviceId": "kanccha-lannka",
+      "name": "Annual",
+      "price": 399,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.kancchalannka.com/",
+      "features": [
+        "Ad-free",
+        "HD"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.grabon.in/kanccha-lannka-coupons/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "kanccha-lannka",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "epic-on-monthly",
+      "serviceId": "epic-on",
+      "name": "1 month",
+      "price": 59,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.epicon.in/",
+      "features": [
+        "Full premium library"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.medianews4u.com/?p=2266124",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "epic-on",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "epic-on-quarterly",
+      "serviceId": "epic-on",
+      "name": "3 months",
+      "price": 159,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.epicon.in/",
+      "features": [
+        "Full premium library"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.medianews4u.com/?p=2266124",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "epic-on",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "epic-on-half-yearly",
+      "serviceId": "epic-on",
+      "name": "6 months",
+      "price": 299,
+      "currency": "INR",
+      "billing": {
+        "frequency": "half_yearly"
+      },
+      "planUrl": "https://www.epicon.in/",
+      "features": [
+        "Full premium library"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.medianews4u.com/?p=2266124",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "epic-on",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "epic-on-annual",
+      "serviceId": "epic-on",
+      "name": "1 year",
+      "price": 499,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.epicon.in/",
+      "features": [
+        "Full premium library"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.medianews4u.com/?p=2266124",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "epic-on",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "nammaflix-premium-monthly",
+      "serviceId": "nammaflix",
+      "name": "Premium Pack",
+      "price": 49,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.nammaflix.com/",
+      "features": [
+        "All Kannada movies"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/in/app/namma-flix/id1527901906",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "nammaflix",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "nammaflix-vip-annual",
+      "serviceId": "nammaflix",
+      "name": "VIP Pack",
+      "price": 399,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.nammaflix.com/",
+      "features": [
+        "All Kannada movies"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/in/app/namma-flix/id1527901906",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "nammaflix",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "shortstv-monthly",
+      "serviceId": "shortstv",
+      "name": "ShortsTV+ Standard (monthly)",
+      "price": 99,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://shorts.tv/",
+      "features": [
+        "Ad-free short films",
+        "14-day free trial"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/in/app/shortstv/id1383257640",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "shortstv-standard",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "shortstv-annual",
+      "serviceId": "shortstv",
+      "name": "ShortsTV+ Standard (yearly)",
+      "price": 499,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://shorts.tv/",
+      "features": [
+        "Ad-free short films",
+        "14-day free trial"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/in/app/shortstv/id1383257640",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "shortstv-standard",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "viki-pass-standard",
+      "serviceId": "viki",
+      "name": "Viki Pass Standard",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.viki.com/pass",
+      "features": [
+        "Ad-free",
+        "HD"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "viki-pass-standard",
+      "planType": null,
+      "notes": "No reliable rupee price found. Check viki.com/pass."
+    },
+    {
+      "id": "fawesome-free",
+      "serviceId": "fawesome",
+      "name": "Free with ads",
+      "price": 0,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://fawesome.tv/",
+      "features": [
+        "Free to watch",
+        "With ads"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://fawesome.tv/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "fawesome-free",
+      "planType": null,
+      "notes": null
     }
   ],
   "offers": [

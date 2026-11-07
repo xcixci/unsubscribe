@@ -50,7 +50,7 @@ Required columns are in **bold**. Dates are always `YYYY-MM-DD`. Lists inside a 
 |---|---|
 | **service_id** | e.g. `netflix`. Unique. |
 | **service_name** | Display name. |
-| **category** | One of `ott, music, ai, productivity, design, cloud, gaming, education, news, fitness, shopping, food, security, other`. |
+| **category** | One of `ott, music, ai, productivity, design, developer, cloud, gaming, education, news, fitness, shopping, food, travel, finance, social, security, other`. |
 | **description** | One sentence, plain words. |
 | **website_url** | Official site. |
 | **logo_url** | A direct image URL (PNG/JPG/SVG/ICO). Never the website URL — the build rejects that. The launch catalogue uses Google's favicon service (`https://www.google.com/s2/favicons?domain=…&sz=128`); replace with official logo files when you have them. |
@@ -64,7 +64,7 @@ Required columns are in **bold**. Dates are always `YYYY-MM-DD`. Lists inside a 
 | Column | Notes |
 |---|---|
 | **plan_id**, **service_id**, **plan_name** | `service_id` must exist in SERVICES. |
-| **price** | Rupees, e.g. `649` or `638.38`. **Blank if there is no reliable rupee price** (e.g. billed in USD, or set per user and city). |
+| **price** | Rupees, e.g. `649` or `638.38`. `0` for something free to join (shown as "Free"). **Blank if there is no reliable rupee price** (e.g. billed in USD, or set per user and city). |
 | **currency** | `INR` (only INR is supported in this release). |
 | **billing_frequency** | `monthly, quarterly, half_yearly, annual, custom`. |
 | **billing_period_months** | 1, 3, 6 or 12 (must match the frequency). For `custom` by months, the number of months. |

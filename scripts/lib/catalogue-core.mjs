@@ -5,8 +5,9 @@ import Papa from 'papaparse';
 export const CATALOGUE_VERSION = 1;
 
 export const CATEGORIES = [
-  'ott', 'music', 'ai', 'productivity', 'design', 'cloud', 'gaming',
-  'education', 'news', 'fitness', 'shopping', 'food', 'security', 'other',
+  'ott', 'music', 'ai', 'productivity', 'design', 'developer', 'cloud', 'gaming',
+  'education', 'news', 'fitness', 'shopping', 'food', 'travel', 'finance', 'social',
+  'security', 'other',
 ];
 
 export const COLUMNS = {
@@ -159,7 +160,8 @@ function uniqueIds(name, rows, key, report) {
  */
 export function buildCatalogue(csv, options = {}) {
   const report = new Report();
-  const today = options.today ?? new Date().toISOString().slice(0, 10);
+  // Prices are checked from India, so "today" is the date in India (UTC+5:30), not UTC.
+  const today = options.today ?? new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Kolkata' }).format(new Date());
   const logos = options.logos ?? {};
   const parsed = {};
   for (const name of ['services', 'plans', 'offers', 'bundles']) {

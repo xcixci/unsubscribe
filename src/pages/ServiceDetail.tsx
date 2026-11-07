@@ -129,7 +129,12 @@ function PlanRow({ plan, onAdd }: { plan: Plan; onAdd: () => void }) {
         {plan.notes && <p className="small muted">{plan.notes}</p>}
       </div>
       <dl className="plan-row__money">
-        {plan.price !== null ? (
+        {plan.price === 0 ? (
+          <div>
+            <dt>Listed price</dt>
+            <dd className="num plan-row__price">Free</dd>
+          </div>
+        ) : plan.price !== null ? (
           <>
             <div>
               <dt>Listed price</dt>

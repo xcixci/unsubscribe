@@ -12,6 +12,7 @@ export type CategoryId =
   | 'ai'
   | 'productivity'
   | 'design'
+  | 'developer'
   | 'cloud'
   | 'gaming'
   | 'education'
@@ -19,6 +20,9 @@ export type CategoryId =
   | 'fitness'
   | 'shopping'
   | 'food'
+  | 'travel'
+  | 'finance'
+  | 'social'
   | 'security'
   | 'other';
 

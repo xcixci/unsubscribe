@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
 import type { CategoryId, Service } from '../domain/types';
 import { CATEGORIES, categoryLabel, isCategoryId } from '../domain/categories';
-import { activePlans, startingMonthly, startingPlan } from '../domain/catalogueQueries';
+import { activePlans, isFreeOnly, startingMonthly, startingPlan } from '../domain/catalogueQueries';
 import { inr } from '../domain/money';
 import { useCatalogue } from '../state/CatalogueContext';
 import { useSubscriptions } from '../state/SubscriptionsContext';
@@ -166,7 +166,11 @@ function ServiceCard({ service, onAdd }: { service: Service; onAdd: () => void }
       </div>
       <p className="service-card__desc">{service.description}</p>
       <div className="service-card__price">
-        {start && startMonthly !== null ? (
+        {isFreeOnly(index, service.id) ? (
+          <span>
+            <strong>Free to join</strong>
+          </span>
+        ) : start && startMonthly !== null ? (
           <>
             <span>
               From <strong className="num">{inr(startMonthly)}</strong>

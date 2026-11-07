@@ -7,12 +7,23 @@ export function activePlans(idx: CatalogueIndex, serviceId: string): Plan[] {
   return (idx.plansByService.get(serviceId) ?? []).filter((p) => p.status === 'active');
 }
 
-/** The plan with the lowest monthly equivalent among priced, active plans. */
+/** True when every priced, active plan costs nothing (e.g. a free loyalty programme). */
+export function isFreeOnly(idx: CatalogueIndex, serviceId: string): boolean {
+  const priced = activePlans(idx, serviceId).filter((p) => p.price !== null);
+  return priced.length > 0 && priced.every((p) => p.price === 0);
+}
+
+/**
+ * The plan with the lowest monthly equivalent among priced, active plans.
+ * Free tiers are skipped when the service also has paid plans, so "From ₹X"
+ * describes what paying costs.
+ */
 export function startingPlan(idx: CatalogueIndex, serviceId: string): Plan | null {
+  const hasPaid = activePlans(idx, serviceId).some((p) => p.price !== null && p.price > 0);
   let best: Plan | null = null;
   let bestMonthly = Infinity;
   for (const p of activePlans(idx, serviceId)) {
-    if (p.price === null) continue;
+    if (p.price === null || (hasPaid && p.price === 0)) continue;
     const m = monthlyEquivalent(p.price, p.billing);
     if (m < bestMonthly) {
       best = p;
@@ -28,6 +39,7 @@ export function startingMonthly(idx: CatalogueIndex, serviceId: string): number 
 }
 
 export function priceLabel(price: number, cycle: Plan['billing']): string {
+  if (price === 0) return 'Free';
   return `${inrPrice(price)}${cycleSuffix(cycle)}`;
 }
 

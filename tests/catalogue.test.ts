@@ -10,14 +10,14 @@ const real = () => ({ services: read('csv', 'services'), plans: read('csv', 'pla
 
 describe('catalogue build', () => {
   it('builds the shipped catalogue with no errors', () => {
-    const { catalogue, errors } = buildCatalogue(real(), { today: '2026-11-07' });
+    const { catalogue, errors } = buildCatalogue(real());
     expect(errors).toEqual([]);
     expect(catalogue.services.length).toBeGreaterThanOrEqual(25);
     expect(catalogue.plans.length).toBeGreaterThan(50);
   });
 
-  it('covers every category from the brief', () => {
-    const { catalogue } = buildCatalogue(real(), { today: '2026-11-07' });
+  it('covers every category from the original brief', () => {
+    const { catalogue } = buildCatalogue(real());
     const cats = new Set(catalogue.services.map((s: { category: string }) => s.category));
     for (const c of ['ott', 'music', 'ai', 'productivity', 'design', 'cloud', 'gaming', 'education', 'news', 'fitness', 'shopping', 'food', 'security', 'other']) {
       expect(cats.has(c)).toBe(true);
@@ -25,7 +25,7 @@ describe('catalogue build', () => {
   });
 
   it('never marks a plan verified without a price, a source and a date', () => {
-    const { catalogue } = buildCatalogue(real(), { today: '2026-11-07' });
+    const { catalogue } = buildCatalogue(real());
     for (const p of catalogue.plans) {
       if (p.verification === 'verified') {
         expect(p.price).not.toBeNull();
@@ -81,7 +81,7 @@ describe('catalogue build', () => {
   });
 
   it('supports day-based telecom cycles', () => {
-    const { catalogue } = buildCatalogue(real(), { today: '2026-11-07' });
+    const { catalogue } = buildCatalogue(real());
     const jio = catalogue.bundles.find((b: { id: string }) => b.id === 'jio-prepaid-1299');
     expect(jio.billing).toEqual({ frequency: 'custom', interval: { unit: 'days', count: 84 } });
   });

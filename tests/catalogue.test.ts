@@ -74,21 +74,28 @@ describe('catalogue build', () => {
 
   it('drops columns that are not meant to be published', () => {
     const csv = real();
-    csv.services = csv.services.replace('notes,featured\n', 'notes,featured,private_contact\n');
+    csv.services = csv.services.replace('notes,rank\n', 'notes,rank,private_contact\n');
     const { catalogue, warnings } = buildCatalogue(csv, { today: '2026-11-07' });
     expect(JSON.stringify(catalogue)).not.toContain('private_contact');
     expect(warnings.some((w: string) => w.includes('private_contact'))).toBe(true);
   });
 
-  it('reads the featured flag and rejects anything but yes or blank', () => {
+  it('reads ranks and rejects anything but a whole number or blank', () => {
     const { catalogue } = buildCatalogue(real());
-    const featured = catalogue.services.filter((x: { featured: boolean }) => x.featured);
-    expect(featured.length).toBeGreaterThan(10);
-    expect(featured.length).toBeLessThanOrEqual(30);
+    const ranked = catalogue.services.filter((x: { rank: number | null }) => x.rank !== null);
+    expect(ranked.length).toBeGreaterThan(20);
+    // Every category with ranked services has a number 1, and no rank is used twice in a category.
+    const seen = new Set<string>();
+    for (const x of ranked as { category: string; rank: number }[]) {
+      const key = `${x.category}:${x.rank}`;
+      expect(seen.has(key)).toBe(false);
+      seen.add(key);
+    }
+    for (const key of seen) expect(seen.has(`${key.split(':')[0]}:1`)).toBe(true);
     const csv = real();
-    csv.services = csv.services.replace(/,yes\n/, ',maybe\n');
+    csv.services = csv.services.replace(/,1\n/, ',top\n');
     const { errors } = buildCatalogue(csv);
-    expect(errors.some((e: string) => e.includes('featured'))).toBe(true);
+    expect(errors.some((e: string) => e.includes('rank'))).toBe(true);
   });
 
   it('supports day-based telecom cycles', () => {

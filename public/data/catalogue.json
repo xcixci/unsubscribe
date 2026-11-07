@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T19:06:27.724Z",
+  "generatedAt": "2026-11-07T19:16:38.677Z",
   "version": 1,
   "services": [
     {
@@ -14,7 +14,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Mahapack prices vary by exam and are often discounted.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "adobe-cc",
@@ -28,7 +28,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 2
     },
     {
       "id": "aha",
@@ -42,7 +42,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Prices here are from the App Store in India; the website can differ.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "amazon-music-unlimited",
@@ -56,7 +56,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Since June 2026, the music included with Amazon Prime has ads and no downloads; Unlimited is the ad-free tier.",
-      "featured": true
+      "rank": 3
     },
     {
       "id": "amazon-prime",
@@ -70,7 +70,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 1
     },
     {
       "id": "apollo-circle",
@@ -84,7 +84,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Often free with Airtel recharges and card offers.",
-      "featured": false
+      "rank": 5
     },
     {
       "id": "apple-music",
@@ -98,7 +98,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 4
     },
     {
       "id": "apple-tv",
@@ -112,7 +112,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "In India, Apple TV is included with every paid iCloud+ plan since September 2026, and is also sold as a Prime Video add-on.",
-      "featured": true
+      "rank": 6
     },
     {
       "id": "audible",
@@ -126,7 +126,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": false
+      "rank": 6
     },
     {
       "id": "babbel",
@@ -140,7 +140,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "bbstar",
@@ -154,7 +154,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": 4
     },
     {
       "id": "brilliant",
@@ -168,7 +168,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "business-standard",
@@ -182,7 +182,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "calm",
@@ -196,7 +196,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": 6
     },
     {
       "id": "canva",
@@ -210,7 +210,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 1
     },
     {
       "id": "centr",
@@ -224,7 +224,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "chatgpt",
@@ -238,7 +238,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 1
     },
     {
       "id": "chaupal",
@@ -252,7 +252,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Prices here are from the App Store in India. Also sold as a Prime Video Channels add-on.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "chess-com",
@@ -266,7 +266,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Chess.com Lessons is part of these memberships.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "claude",
@@ -280,7 +280,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 3
     },
     {
       "id": "country-delight",
@@ -294,7 +294,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "What you pay depends on what you get delivered; add your usual monthly bill as your own amount.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "coursera",
@@ -308,7 +308,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": false
+      "rank": 2
     },
     {
       "id": "crunchyroll",
@@ -322,7 +322,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Mega Fan includes Crunchyroll Game Vault, a catalogue of mobile games.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "cultfit",
@@ -336,7 +336,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 1
     },
     {
       "id": "curiositystream",
@@ -350,7 +350,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "In India it is also available through Tata Play Binge, OTTplay and Prime Video Channels.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "datacamp",
@@ -364,7 +364,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "decathlon-membership",
@@ -378,7 +378,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "deezer",
@@ -392,7 +392,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Deezer has not officially launched paid plans in India.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "discovery-plus",
@@ -406,7 +406,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Annual price is often discounted during festive and Republic Day sales.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "docubay",
@@ -420,7 +420,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "dropbox",
@@ -434,7 +434,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": false
+      "rank": 3
     },
     {
       "id": "duolingo",
@@ -448,7 +448,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": false
+      "rank": 1
     },
     {
       "id": "epic-on",
@@ -462,7 +462,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Prices are from the 2020 relaunch; partner offers through PhonePe and Airtel Xstream have been lower.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "et-prime",
@@ -476,7 +476,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Often bundled with Times Prime and credit card offers.",
-      "featured": false
+      "rank": 5
     },
     {
       "id": "etv-win",
@@ -490,7 +490,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Prices here are from the App Store in India.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "fancode",
@@ -504,7 +504,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Exclusive Indian streaming home of Formula 1 until 2028. Single-match and race-weekend passes are also sold.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "fawesome",
@@ -518,7 +518,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "No paid plan.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "financial-times",
@@ -532,7 +532,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Moneycontrol Pro has included FT access in some periods.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "firstcry-club",
@@ -546,7 +546,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "3, 6 and 12-month plans; often free or discounted for frequent shoppers.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "fittr",
@@ -560,7 +560,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Coach plan prices depend on the coach and duration.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "flipkart-membership",
@@ -574,7 +574,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Flipkart Black replaced Flipkart VIP in August 2025.",
-      "featured": false
+      "rank": 2
     },
     {
       "id": "flo",
@@ -588,7 +588,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "gaana",
@@ -602,7 +602,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Gaana Plus often runs ₹1 trials and discounted annual plans.",
-      "featured": false
+      "rank": 5
     },
     {
       "id": "garmin-connect-plus",
@@ -616,7 +616,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Garmin Connect itself stays free.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "google-ai",
@@ -630,7 +630,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 2
     },
     {
       "id": "google-one",
@@ -644,7 +644,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 1
     },
     {
       "id": "goqii",
@@ -658,7 +658,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Personal Care (coaching) renews separately from the tracker.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "hm-membership",
@@ -672,7 +672,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "headfone",
@@ -686,7 +686,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "headspace",
@@ -700,7 +700,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Times Prime has included Headspace for 6 months.",
-      "featured": false
+      "rank": 4
     },
     {
       "id": "healthifyme",
@@ -714,7 +714,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "HealthifyMe Transform is the coach-led programme. Coach plan prices are quoted per person.",
-      "featured": false
+      "rank": 2
     },
     {
       "id": "hindustan-times",
@@ -728,7 +728,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "hoichoi",
@@ -742,7 +742,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Also bundled with some Jio prepaid plans.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "hungama-play",
@@ -756,7 +756,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Prices are as stated in the Hungama Play App Store listing for India.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "icloud-plus",
@@ -770,7 +770,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": "Apple TV and Apple Arcade were added to every paid iCloud+ plan in India in September 2026.",
-      "featured": true
+      "rank": 2
     },
     {
       "id": "ikea-family",
@@ -784,7 +784,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "india-today",
@@ -798,7 +798,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "India Today and India Today Magazine are one entry.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "insight-timer",
@@ -812,7 +812,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Most content is free.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "jiohotstar",
@@ -826,7 +826,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 1
     },
     {
       "id": "jiosaavn",
@@ -840,7 +840,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "JioSaavn Pro is free with many Jio prepaid recharges.",
-      "featured": true
+      "rank": 2
     },
     {
       "id": "kanccha-lannka",
@@ -854,7 +854,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Also included in some JioTV Premium and Airtel Xstream packs.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "kindle-unlimited",
@@ -868,7 +868,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": false
+      "rank": 1
     },
     {
       "id": "klikk",
@@ -882,7 +882,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Also available through Tata Play Binge.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "kuku-fm",
@@ -896,7 +896,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Prices here are from the App Store in India. Discounted annual offers are common.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "kuku-tv",
@@ -910,7 +910,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "lenskart-gold",
@@ -924,7 +924,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Often free through Times Prime, Swiggy One, CRED or UPI rewards.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "licious-infiniti",
@@ -938,7 +938,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Replaced the earlier Meatopia membership.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "linkedin-learning",
@@ -952,7 +952,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Included with most LinkedIn Premium plans.",
-      "featured": false
+      "rank": 6
     },
     {
       "id": "linkedin-premium",
@@ -966,7 +966,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 1
     },
     {
       "id": "lionsgate-play",
@@ -980,7 +980,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Also bundled with some Jio, Airtel and Vi plans.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "lulu-happiness",
@@ -994,7 +994,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "magzter-gold",
@@ -1008,7 +1008,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "manoramamax",
@@ -1022,7 +1022,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Also sold as a Prime Video Channels add-on, which works only inside Prime Video.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "marrow",
@@ -1036,7 +1036,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Plan validity is often tied to the NEET PG exam date.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "masterclass",
@@ -1050,7 +1050,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Annual plans only; often runs 2-for-1 gift offers.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "memrise",
@@ -1064,7 +1064,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "microsoft-365",
@@ -1078,7 +1078,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 1
     },
     {
       "id": "mint",
@@ -1092,7 +1092,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Some broker and research subscriptions include Mint Premium free.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "moneycontrol-pro",
@@ -1106,7 +1106,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Coupon prices are common and usually well below the list price.",
-      "featured": false
+      "rank": 3
     },
     {
       "id": "mubi",
@@ -1120,7 +1120,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "myfitnesspal",
@@ -1134,7 +1134,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "myntra-insider",
@@ -1148,7 +1148,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": 4
     },
     {
       "id": "nammaflix",
@@ -1162,7 +1162,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "A ₹19 weekly pack is also sold. Prices here are from the App Store in India.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "netflix",
@@ -1176,7 +1176,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 2
     },
     {
       "id": "newslaundry",
@@ -1190,7 +1190,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "nike-training-club",
@@ -1204,7 +1204,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Free to use.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "notion",
@@ -1218,7 +1218,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": "Billed in US dollars.",
-      "featured": false
+      "rank": 2
     },
     {
       "id": "nykaa-prive",
@@ -1232,7 +1232,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "oura",
@@ -1246,7 +1246,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "The ring is a one-time purchase; the membership renews.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "perplexity",
@@ -1260,7 +1260,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": "Recurring plans are billed in US dollars for users in India.",
-      "featured": false
+      "rank": 4
     },
     {
       "id": "pharmeasy-plus",
@@ -1274,7 +1274,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "physics-wallah",
@@ -1288,7 +1288,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Sold as course batches rather than a subscription.",
-      "featured": false
+      "rank": 5
     },
     {
       "id": "planet-marathi",
@@ -1302,7 +1302,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Some new films are rented separately for about ₹99.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "playstation-plus",
@@ -1316,7 +1316,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": false
+      "rank": 1
     },
     {
       "id": "pocket-fm",
@@ -1330,7 +1330,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Most episodes are unlocked with coins bought in packs (from about ₹39); a Premium subscription is also sold. Track coin spending as a custom subscription if it's regular.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "practo-plus",
@@ -1344,7 +1344,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Check what Practo currently offers before paying; the plan has changed over time.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "pratilipi-fm",
@@ -1358,7 +1358,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Pratilipi Premium (for reading) is a separate subscription.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "prepladder",
@@ -1372,7 +1372,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Plans are priced per exam and duration.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "shemaroome",
@@ -1386,7 +1386,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Language packs (Gujarati, Marathi, Punjabi and more) are sold separately from the full Premium plan.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "shoppers-stop-first-citizen",
@@ -1400,7 +1400,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Higher tiers often come free with Shoppers Stop co-branded credit cards from HDFC Bank, RBL Bank and Axis Bank.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "shortstv",
@@ -1414,7 +1414,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Also sold through Prime Video Channels, Airtel Xstream and DTH packs.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "simply",
@@ -1428,7 +1428,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "One Simply subscription can cover Piano, Guitar and Sing.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "skillshare",
@@ -1442,7 +1442,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Mostly sold as an annual membership.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "sleep-cycle",
@@ -1456,7 +1456,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "sonyliv",
@@ -1470,7 +1470,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 4
     },
     {
       "id": "soundcloud",
@@ -1484,7 +1484,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "SoundCloud says buying on its website or Android app costs less than through Apple, which adds about 30%.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "spotify",
@@ -1498,7 +1498,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 1
     },
     {
       "id": "stage",
@@ -1512,7 +1512,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "New users usually start with a ₹1 trial for 7 days. Also on Tata Play Binge.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "starbucks-rewards",
@@ -1526,7 +1526,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "storytel",
@@ -1540,7 +1540,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Prices here are from the App Store in India.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "strava",
@@ -1554,7 +1554,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": 3
     },
     {
       "id": "sun-nxt",
@@ -1568,7 +1568,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Also bundled with some Vi plans.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "swiggy-one",
@@ -1582,7 +1582,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 1
     },
     {
       "id": "tata-1mg-care-plan",
@@ -1596,7 +1596,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "tata-neupass",
@@ -1610,7 +1610,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "testbook",
@@ -1624,7 +1624,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Pass, Pass Pro, Pro Max and Elite were merged into one Testbook Pass.",
-      "featured": false
+      "rank": 4
     },
     {
       "id": "the-athletic",
@@ -1638,7 +1638,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Included in NYT All Access.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "the-economist",
@@ -1652,7 +1652,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "the-hindu",
@@ -1666,7 +1666,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Frequent sales on annual plans; a student plan is offered.",
-      "featured": false
+      "rank": 2
     },
     {
       "id": "indian-express",
@@ -1680,7 +1680,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Annual plans are often discounted heavily.",
-      "featured": false
+      "rank": 4
     },
     {
       "id": "the-ken",
@@ -1694,7 +1694,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "An app-only monthly plan is also sold.",
-      "featured": false
+      "rank": 6
     },
     {
       "id": "the-morning-context",
@@ -1708,7 +1708,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "nytimes",
@@ -1722,7 +1722,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Usually billed in US dollars from India.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "wsj",
@@ -1736,7 +1736,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Usually billed in US dollars from India.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "tidal",
@@ -1750,7 +1750,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "TIDAL is not officially available in India.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "times-prime",
@@ -1764,7 +1764,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Benefits must be claimed one by one in the Times Prime app.",
-      "featured": false
+      "rank": 3
     },
     {
       "id": "toi-plus",
@@ -1778,7 +1778,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "truecaller",
@@ -1792,7 +1792,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 1
     },
     {
       "id": "udemy",
@@ -1806,7 +1806,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Single Udemy courses are also sold separately, often on sale.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "ultra-jhakaas",
@@ -1820,7 +1820,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "A weekly plan from ₹19 was added in 2026.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "ultrahuman",
@@ -1834,7 +1834,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "The Ring has no monthly fee.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "unacademy",
@@ -1848,7 +1848,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Prices are set per exam goal and duration, so check the goal you study for.",
-      "featured": false
+      "rank": 3
     },
     {
       "id": "viki",
@@ -1862,7 +1862,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Free with ads; Viki Pass removes ads.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "waking-up",
@@ -1876,7 +1876,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Offers free access to anyone who says they can't afford it.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "watcho",
@@ -1890,7 +1890,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Works for Dish TV, d2h and non-Dish customers.",
-      "featured": false
+      "rank": null
     },
     {
       "id": "whoop",
@@ -1904,7 +1904,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
-      "featured": false
+      "rank": null
     },
     {
       "id": "youtube-premium",
@@ -1918,7 +1918,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 3
     },
     {
       "id": "zee5",
@@ -1932,7 +1932,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 5
     },
     {
       "id": "zepto-club",
@@ -1946,7 +1946,7 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Launched in July 2026 after Zepto Pass and Zepto Daily were discontinued.",
-      "featured": false
+      "rank": 3
     },
     {
       "id": "zomato-gold",
@@ -1960,7 +1960,7 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null,
-      "featured": true
+      "rank": 2
     }
   ],
   "plans": [

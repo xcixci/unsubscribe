@@ -13,7 +13,7 @@ export const CATEGORIES = [
 export const COLUMNS = {
   services: {
     required: ['service_id', 'service_name', 'category', 'description', 'website_url', 'logo_url', 'country', 'status', 'last_updated'],
-    optional: ['notes', 'featured'],
+    optional: ['notes', 'rank'],
   },
   plans: {
     required: ['plan_id', 'service_id', 'plan_name', 'price', 'currency', 'billing_frequency', 'billing_period_months', 'plan_url', 'features', 'last_verified', 'price_source_url', 'status'],
@@ -54,13 +54,16 @@ class Report {
 const s = (v) => (v === undefined || v === null ? '' : String(v).trim());
 const orNull = (v) => (s(v) === '' ? null : s(v));
 
-/** `featured` column: "yes" puts a service in the first page of Explore. Blank or "no" = not featured. */
-function featuredFlag(where, raw, report) {
-  const v = (raw ?? '').toString().trim().toLowerCase();
-  if (v === '' || v === 'no' || v === 'false') return false;
-  if (v === 'yes' || v === 'true') return true;
-  report.error(where, `featured "${raw}" must be yes or blank`);
-  return false;
+/**
+ * `rank` column: where a service sits in its category on Explore (1 = most popular).
+ * The top three of each category are shown on the Explore front page. Blank = unranked.
+ */
+function rankValue(where, raw, report) {
+  const v = s(raw);
+  if (v === '') return null;
+  if (/^\d{1,2}$/.test(v) && Number(v) >= 1) return Number(v);
+  report.error(where, `rank "${raw}" must be a whole number from 1 to 99, or blank`);
+  return null;
 }
 
 export function isValidDate(v) {
@@ -210,7 +213,7 @@ export function buildCatalogue(csv, options = {}) {
       status: STATUS.includes(status) ? status : 'active',
       lastUpdated: date(where, 'last_updated', r.last_updated, report, today),
       notes: orNull(r.notes),
-      featured: featuredFlag(where, r.featured, report),
+      rank: rankValue(where, r.rank, report),
     };
   });
   const serviceIds = new Set(services.map((x) => x.id));

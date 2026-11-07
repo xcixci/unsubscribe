@@ -1,4 +1,4 @@
-import type { Bundle, Catalogue, Plan, Service } from './types';
+import type { Bundle, Catalogue, CategoryId, Plan, Service } from './types';
 import { annualEquivalent, cycleSuffix, monthlyEquivalent } from './billing';
 import { inrPrice } from './money';
 import type { CatalogueIndex } from './spending';
@@ -105,4 +105,22 @@ export function compareBundle(b: Bundle, idx: CatalogueIndex): BundleComparison 
     pricedPlans,
     unpricedServiceIds: b.includedServiceIds.filter((id) => !pricedServices.has(id)),
   };
+}
+
+/** Most popular first: ranked services by rank, then the rest A–Z. */
+export function byPopularity(a: Service, b: Service): number {
+  const ra = a.rank ?? Infinity;
+  const rb = b.rank ?? Infinity;
+  if (ra !== rb) return ra - rb;
+  return a.name.localeCompare(b.name);
+}
+
+/** The `n` most popular services in each category, in category order, skipping empty categories. */
+export function popularByCategory(services: Service[], order: readonly CategoryId[], n: number) {
+  return order
+    .map((category) => {
+      const all = services.filter((s) => s.category === category).sort(byPopularity);
+      return { category, total: all.length, top: all.slice(0, n) };
+    })
+    .filter((g) => g.total > 0);
 }

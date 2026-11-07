@@ -7,20 +7,21 @@ export interface CategoryInfo {
   short: string;
 }
 
+/** In the order Explore shows them: what most people in India pay for comes first. */
 export const CATEGORIES: CategoryInfo[] = [
   { id: 'ott', label: 'OTT & video streaming', short: 'Video' },
   { id: 'music', label: 'Music & audio', short: 'Music & audio' },
-  { id: 'ai', label: 'AI tools & assistants', short: 'AI' },
-  { id: 'productivity', label: 'Productivity & office', short: 'Productivity' },
-  { id: 'design', label: 'Design & creative', short: 'Design' },
-  { id: 'developer', label: 'Developer tools & hosting', short: 'Developer' },
-  { id: 'cloud', label: 'Cloud storage', short: 'Cloud' },
-  { id: 'gaming', label: 'Gaming', short: 'Gaming' },
-  { id: 'education', label: 'Education & learning', short: 'Learning' },
-  { id: 'news', label: 'News & reading', short: 'Reading' },
-  { id: 'fitness', label: 'Health, fitness & wellness', short: 'Health & fitness' },
   { id: 'shopping', label: 'Shopping memberships', short: 'Shopping' },
   { id: 'food', label: 'Food, grocery & lifestyle', short: 'Food & grocery' },
+  { id: 'ai', label: 'AI tools & assistants', short: 'AI' },
+  { id: 'education', label: 'Education & learning', short: 'Learning' },
+  { id: 'fitness', label: 'Health, fitness & wellness', short: 'Health & fitness' },
+  { id: 'news', label: 'News & reading', short: 'Reading' },
+  { id: 'cloud', label: 'Cloud storage', short: 'Cloud' },
+  { id: 'productivity', label: 'Productivity & office', short: 'Productivity' },
+  { id: 'design', label: 'Design & creative', short: 'Design' },
+  { id: 'gaming', label: 'Gaming', short: 'Gaming' },
+  { id: 'developer', label: 'Developer tools & hosting', short: 'Developer' },
   { id: 'travel', label: 'Travel & transport', short: 'Travel' },
   { id: 'finance', label: 'Finance & investing', short: 'Finance' },
   { id: 'social', label: 'Dating & social', short: 'Social' },

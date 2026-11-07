@@ -58,7 +58,7 @@ Required columns are in **bold**. Dates are always `YYYY-MM-DD`. Lists inside a 
 | **status** | `active` or `inactive` (inactive services are hidden). |
 | **last_updated** | Date the row was last edited. |
 | notes | Shown on the service page. |
-| featured | `yes` shows the service on the first page of Explore ("Popular first"). Keep it to about 24, the services most people pay for. Blank for everything else. |
+| rank | Popularity within the category: `1` is the most popular. Explore opens on the top 3 of each category (top 2 on phones), and "Popular first" sorts by rank. Give each category its own 1, 2, 3…; leave less-known services blank. |
 
 ### PLANS
 

@@ -57,8 +57,8 @@ export interface Service {
   status: 'active' | 'inactive';
   lastUpdated: string | null;
   notes: string | null;
-  /** Shown first in Explore; set with the `featured` column in SERVICES. */
-  featured?: boolean;
+  /** Popularity within its category (1 = most popular); set with the `rank` column in SERVICES. */
+  rank?: number | null;
 }
 
 export interface Plan {

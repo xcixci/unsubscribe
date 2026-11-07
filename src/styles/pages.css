@@ -1195,3 +1195,43 @@ dialog .picker__grid {
   margin-top: 32px;
   text-align: center;
 }
+
+/* Explore front page: each category's most popular services. */
+.explore-group {
+  margin-top: var(--s-7);
+}
+.explore-group:first-of-type {
+  margin-top: var(--s-5);
+}
+.explore-group__head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--s-4);
+  margin-bottom: var(--s-4);
+  padding-bottom: var(--s-3);
+  border-bottom: 1px solid var(--line);
+}
+.explore-group__head h2 {
+  font-size: var(--step-2);
+}
+.explore-group__grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.explore-group--custom {
+  margin-top: var(--s-7);
+}
+@media (max-width: 960px) {
+  .explore-group__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  /* Two per category on smaller screens; "See all" shows the rest. */
+  .explore-group .explore-group__grid > :nth-child(n + 3) {
+    display: none;
+  }
+}
+@media (max-width: 640px) {
+  .explore-group__grid {
+    grid-template-columns: 1fr;
+  }
+}

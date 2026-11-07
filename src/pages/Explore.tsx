@@ -1,8 +1,8 @@
 import { useEffect, useMemo, useState } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
 import type { CategoryId, Service } from '../domain/types';
-import { CATEGORIES, categoryLabel, isCategoryId } from '../domain/categories';
-import { activePlans, isFreeOnly, startingMonthly, startingPlan } from '../domain/catalogueQueries';
+import { CATEGORIES, CATEGORY_IDS, categoryLabel, isCategoryId } from '../domain/categories';
+import { activePlans, byPopularity, isFreeOnly, popularByCategory, startingMonthly, startingPlan } from '../domain/catalogueQueries';
 import { inr } from '../domain/money';
 import { useCatalogue } from '../state/CatalogueContext';
 import { useSubscriptions } from '../state/SubscriptionsContext';
@@ -16,6 +16,8 @@ type Sort = 'popular' | 'name' | 'price-asc' | 'price-desc' | 'category';
 
 /** How many cards Explore shows before "Show more". */
 export const PAGE_SIZE = 24;
+/** How many of each category's most popular services the Explore front page shows. */
+export const PER_CATEGORY = 3;
 
 export function Explore() {
   const { catalogue, index } = useCatalogue();
@@ -56,10 +58,14 @@ export function Explore() {
         if (pb === null) return -1;
         return sort === 'price-asc' ? pa - pb : pb - pa;
       }
-      if (sort === 'popular' && !!a.featured !== !!b.featured) return a.featured ? -1 : 1;
+      if (sort === 'popular') return byPopularity(a, b);
       return a.name.localeCompare(b.name);
     });
   }, [active, q, cat, sort, index]);
+
+  // With no search, filter or custom sort, Explore opens on each category's most popular services.
+  const grouped = !q && !cat && sort === 'popular';
+  const groups = useMemo(() => (grouped ? popularByCategory(active, CATEGORY_IDS, PER_CATEGORY) : []), [grouped, active]);
 
   return (
     <div className="container page">
@@ -107,12 +113,42 @@ export function Explore() {
       </div>
 
       <p className="results-count" aria-live="polite">
-        {results.length === 0 ? 'No subscriptions match.' : `${results.length} ${results.length === 1 ? 'subscription' : 'subscriptions'}`}
+        {grouped ? `The most popular in each category. Pick a category to see all ${active.length}.` : results.length === 0 ? 'No subscriptions match.' : `${results.length} ${results.length === 1 ? 'subscription' : 'subscriptions'}`}
         {cat ? ` in ${categoryLabel(cat)}` : ''}
         {q ? ` for “${q}”` : ''}
       </p>
 
-      {results.length === 0 ? (
+      {grouped ? (
+        <>
+          {groups.map((g) => (
+            <section key={g.category} className="explore-group" aria-labelledby={`group-${g.category}`}>
+              <div className="explore-group__head">
+                <h2 id={`group-${g.category}`}>{categoryLabel(g.category)}</h2>
+                {g.total > g.top.length && (
+                  <button type="button" className="btn btn--ghost btn--small" onClick={() => set('cat', g.category)}>
+                    See all {g.total}
+                  </button>
+                )}
+              </div>
+              <div className="service-grid explore-group__grid">
+                {g.top.map((s) => (
+                  <ServiceCard key={s.id} service={s} nested onAdd={() => setForm({ kind: 'add', serviceId: s.id })} />
+                ))}
+              </div>
+            </section>
+          ))}
+          <div className="service-grid explore-group__grid explore-group--custom">
+            <article className="service-card service-card--custom">
+            <h2 className="service-card__name">Not listed?</h2>
+            <p className="muted">Add any subscription — a local gym, a newspaper, a SaaS tool — with its name, category and what you pay.</p>
+            <button type="button" className="btn btn--ghost" onClick={() => setForm({ kind: 'add', serviceId: null })}>
+              <Icon name="plus" />
+              Add a custom subscription
+            </button>
+          </article>
+          </div>
+        </>
+      ) : results.length === 0 ? (
         <div className="state">
           <h2>Nothing matches “{q}”</h2>
           <p>Try a shorter search, or add it yourself as a custom subscription. Custom subscriptions are counted exactly like listed ones.</p>
@@ -159,7 +195,8 @@ export function Explore() {
   );
 }
 
-function ServiceCard({ service, onAdd }: { service: Service; onAdd: () => void }) {
+function ServiceCard({ service, onAdd, nested = false }: { service: Service; onAdd: () => void; nested?: boolean }) {
+  const Name = nested ? 'h3' : 'h2';
   const { index } = useCatalogue();
   const { subscriptions } = useSubscriptions();
   const plans = activePlans(index, service.id);
@@ -172,9 +209,9 @@ function ServiceCard({ service, onAdd }: { service: Service; onAdd: () => void }
       <div className="service-card__top">
         <Logo name={service.name} src={service.logo} />
         <div>
-          <h2 className="service-card__name">
+          <Name className="service-card__name">
             <Link to={`/explore/${service.id}`}>{service.name}</Link>
-          </h2>
+          </Name>
           <span className="service-card__cat">{categoryLabel(service.category)}</span>
         </div>
         {owned && (
@@ -203,7 +240,7 @@ function ServiceCard({ service, onAdd }: { service: Service; onAdd: () => void }
         )}
       </div>
       <div className="service-card__actions">
-        <Link className="btn btn--ghost btn--small" to={`/explore/${service.id}`}>
+        <Link className="btn btn--ghost btn--smallall" to={`/explore/${service.id}`}>
           {plans.length ? `View ${plans.length} ${plans.length === 1 ? 'plan' : 'plans'}` : 'View details'}
         </Link>
         <button type="button" className="btn btn--small" onClick={onAdd} aria-label={`Add ${service.name} to my subscriptions`}>

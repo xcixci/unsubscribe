@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest';
-import { isFreeOnly, priceLabel, startingMonthly, startingPlan } from '../src/domain/catalogueQueries';
+import { byPopularity, isFreeOnly, popularByCategory, priceLabel, startingMonthly, startingPlan } from '../src/domain/catalogueQueries';
+import type { CategoryId, Service } from '../src/domain/types';
 import { CATEGORIES, categoryLabel } from '../src/domain/categories';
 import { indexCatalogue } from '../src/domain/spending';
 import { plan, service } from './fixtures';
@@ -38,5 +39,22 @@ describe('categories', () => {
     for (const id of ['developer', 'finance', 'travel', 'social']) expect(ids).toContain(id);
     expect(categoryLabel('travel')).toBe('Travel & transport');
     expect(categoryLabel('nonsense')).toBe('Other digital services');
+  });
+});
+
+describe('popularity', () => {
+  const svc = (id: string, category: string, rank: number | null) =>
+    ({ id, name: id, category, rank, status: 'active' }) as unknown as Service;
+  const list = [svc('zee', 'ott', null), svc('netflix', 'ott', 2), svc('hotstar', 'ott', 1), svc('aha', 'ott', null), svc('spotify', 'music', 1)];
+
+  it('puts ranked services first, in rank order, then the rest A–Z', () => {
+    expect([...list].filter((s) => s.category === 'ott').sort(byPopularity).map((s) => s.id)).toEqual(['hotstar', 'netflix', 'aha', 'zee']);
+  });
+
+  it('groups the top services by category in the given order and skips empty categories', () => {
+    const groups = popularByCategory(list, ['music', 'ott', 'news'] as CategoryId[], 3);
+    expect(groups.map((g) => g.category)).toEqual(['music', 'ott']);
+    expect(groups[1].top.map((s) => s.id)).toEqual(['hotstar', 'netflix', 'aha']);
+    expect(groups[1].total).toBe(4);
   });
 });

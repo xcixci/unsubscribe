@@ -1,0 +1,39 @@
+{
+  "name": "unsubscribe",
+  "private": true,
+  "version": "1.0.0",
+  "description": "UNSUBSCRIBE — India-first subscription intelligence. Your money deserves better.",
+  "type": "module",
+  "scripts": {
+    "dev": "npm run catalogue && vite",
+    "catalogue": "node scripts/build-catalogue.mjs",
+    "catalogue:fetch": "node scripts/fetch-sheet.mjs",
+    "logos": "node scripts/cache-logos.mjs",
+    "build": "npm run catalogue && tsc --noEmit -p . && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit -p ."
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.3.0",
+    "@fontsource-variable/space-grotesk": "^5.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "@types/papaparse": "^5.5.2",
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^4.7.0",
+    "papaparse": "^5.7.0",
+    "typescript": "^5.9.3",
+    "vite": "^5.4.21",
+    "vitest": "^2.1.9"
+  }
+}

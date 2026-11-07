@@ -1,0 +1,19 @@
+{
+  "$comment": "Founder settings. Leave a value empty to hide that feature. Edit on GitHub and commit — the site redeploys automatically. See docs/configuration.md.",
+  "siteUrl": "https://xcixci.github.io/unsubscribe/",
+  "newsletter": {
+    "googleFormUrl": ""
+  },
+  "whatsapp": {
+    "communityInviteUrl": ""
+  },
+  "support": {
+    "upiId": "",
+    "payeeName": "",
+    "paymentUrl": "",
+    "qrImageUrl": ""
+  },
+  "contact": {
+    "email": ""
+  }
+}

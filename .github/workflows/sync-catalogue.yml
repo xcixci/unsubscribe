@@ -1,0 +1,69 @@
+name: Sync catalogue from Google Sheets
+
+# Run from GitHub: Actions → "Sync catalogue from Google Sheets" → Run workflow.
+# It downloads the published CSV tabs, validates them, commits any changes and redeploys.
+on:
+  workflow_dispatch:
+  # Uncomment to sync automatically every Monday at 09:00 IST (03:30 UTC).
+  # schedule:
+  #   - cron: '30 3 * * 1'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalogue-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Download and validate the sheet
+        run: npm run catalogue:fetch
+        env:
+          SHEET_SERVICES_CSV_URL: ${{ vars.SHEET_SERVICES_CSV_URL }}
+          SHEET_PLANS_CSV_URL: ${{ vars.SHEET_PLANS_CSV_URL }}
+          SHEET_OFFERS_CSV_URL: ${{ vars.SHEET_OFFERS_CSV_URL }}
+          SHEET_BUNDLES_CSV_URL: ${{ vars.SHEET_BUNDLES_CSV_URL }}
+
+      - name: Generate catalogue JSON
+        run: npm run catalogue
+
+      - name: Test
+        run: npm test
+
+      - name: Commit changes
+        id: commit
+        run: |
+          if git diff --quiet -- catalogue/csv public/data; then
+            echo "No catalogue changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "unsubscribe-catalogue-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalogue/csv public/data/catalogue.json
+          git commit -m "Sync catalogue from Google Sheets"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: sync
+    if: needs.sync.outputs.changed == 'true'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml

@@ -1,0 +1,2919 @@
+{
+  "generatedAt": "2026-11-07T12:25:13.434Z",
+  "version": 1,
+  "services": [
+    {
+      "id": "adobe-cc",
+      "name": "Adobe Creative Cloud",
+      "category": "design",
+      "description": "Photoshop, Illustrator, Premiere, Lightroom and other Adobe apps.",
+      "websiteUrl": "https://www.adobe.com/in/creativecloud/plans.html",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=adobe.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "amazon-prime",
+      "name": "Amazon Prime",
+      "category": "shopping",
+      "description": "Fast delivery, plus Prime Video and more on the full Prime membership.",
+      "websiteUrl": "https://www.amazon.in/amazonprime",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=amazon.in&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "apple-music",
+      "name": "Apple Music",
+      "category": "music",
+      "description": "Apple's music streaming service with lossless and spatial audio.",
+      "websiteUrl": "https://www.apple.com/in/apple-music/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=music.apple.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "audible",
+      "name": "Audible",
+      "category": "music",
+      "description": "Audiobooks and podcasts from Amazon, with a monthly credit for any title.",
+      "websiteUrl": "https://www.audible.in/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=audible.in&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "canva",
+      "name": "Canva",
+      "category": "design",
+      "description": "Online design for social posts, presentations, video and print.",
+      "websiteUrl": "https://www.canva.com/en_in/pricing/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=canva.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "category": "ai",
+      "description": "OpenAI's AI assistant for writing, research, coding and images.",
+      "websiteUrl": "https://chatgpt.com/pricing",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "category": "ai",
+      "description": "Anthropic's AI assistant for writing, analysis and coding.",
+      "websiteUrl": "https://claude.com/pricing",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=claude.ai&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "coursera",
+      "name": "Coursera",
+      "category": "education",
+      "description": "Online courses and certificates from universities and companies.",
+      "websiteUrl": "https://www.coursera.org/courseraplus",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=coursera.org&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "cultfit",
+      "name": "cult.fit (cultpass)",
+      "category": "fitness",
+      "description": "Gym access, group classes and at-home workouts. Prices vary by city and pack.",
+      "websiteUrl": "https://www.cult.fit/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=cult.fit&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "dropbox",
+      "name": "Dropbox",
+      "category": "cloud",
+      "description": "Cloud storage, file backup and sharing.",
+      "websiteUrl": "https://www.dropbox.com/plans",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=dropbox.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "duolingo",
+      "name": "Duolingo",
+      "category": "education",
+      "description": "Language-learning app. Paid tiers remove ads and add extra practice features.",
+      "websiteUrl": "https://www.duolingo.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=duolingo.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "google-ai",
+      "name": "Google AI (Gemini)",
+      "category": "ai",
+      "description": "Google's AI plans: Gemini features bundled with Google One storage.",
+      "websiteUrl": "https://one.google.com/about/google-ai-plans",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "google-one",
+      "name": "Google One",
+      "category": "cloud",
+      "description": "Extra storage shared across Gmail, Google Drive and Google Photos.",
+      "websiteUrl": "https://one.google.com/about/plans",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=one.google.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "icloud-plus",
+      "name": "iCloud+",
+      "category": "cloud",
+      "description": "Apple cloud storage. In India it now also includes Apple TV and Apple Arcade.",
+      "websiteUrl": "https://www.apple.com/in/icloud/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=icloud.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": "Apple TV and Apple Arcade were added to every paid iCloud+ plan in India in September 2026."
+    },
+    {
+      "id": "jiohotstar",
+      "name": "JioHotstar",
+      "category": "ott",
+      "description": "Live cricket and sport, Indian and Hollywood series, films and TV shows.",
+      "websiteUrl": "https://www.hotstar.com/in",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=hotstar.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "kindle-unlimited",
+      "name": "Kindle Unlimited",
+      "category": "news",
+      "description": "Borrow from a large catalogue of Kindle ebooks for a monthly fee.",
+      "websiteUrl": "https://www.amazon.in/kindle-dbs/hz/subscribe/ku",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=amazon.in&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "linkedin-premium",
+      "name": "LinkedIn Premium",
+      "category": "other",
+      "description": "Career and business tools such as InMail credits and profile insights.",
+      "websiteUrl": "https://premium.linkedin.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "microsoft-365",
+      "name": "Microsoft 365",
+      "category": "productivity",
+      "description": "Word, Excel, PowerPoint, Outlook and OneDrive storage, with Copilot.",
+      "websiteUrl": "https://www.microsoft.com/en-in/microsoft-365",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "category": "ott",
+      "description": "Films, series, documentaries and mobile games. Every Indian plan is ad-free.",
+      "websiteUrl": "https://www.netflix.com/in/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=netflix.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "notion",
+      "name": "Notion",
+      "category": "productivity",
+      "description": "Notes, docs, wikis and project tracking in one workspace.",
+      "websiteUrl": "https://www.notion.com/pricing",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=notion.so&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": "Billed in US dollars."
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "category": "ai",
+      "description": "AI answer engine that searches the web and cites its sources.",
+      "websiteUrl": "https://www.perplexity.ai/pro",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": "Recurring plans are billed in US dollars for users in India."
+    },
+    {
+      "id": "playstation-plus",
+      "name": "PlayStation Plus",
+      "category": "gaming",
+      "description": "Online multiplayer, monthly games and a game catalogue for PS4 and PS5.",
+      "websiteUrl": "https://www.playstation.com/en-in/ps-plus/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=playstation.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "sonyliv",
+      "name": "Sony LIV",
+      "category": "ott",
+      "description": "Live sport, Sony originals, Indian TV shows and films.",
+      "websiteUrl": "https://www.sonyliv.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=sonyliv.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "category": "music",
+      "description": "Music, podcasts and audiobooks. Premium removes ads and adds downloads.",
+      "websiteUrl": "https://www.spotify.com/in-en/premium/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=spotify.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "swiggy-one",
+      "name": "Swiggy One",
+      "category": "food",
+      "description": "Free deliveries and extra discounts on Swiggy food and Instamart orders.",
+      "websiteUrl": "https://www.swiggy.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=swiggy.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "truecaller",
+      "name": "Truecaller Premium",
+      "category": "security",
+      "description": "Caller ID and spam blocking without ads, plus extra calling features.",
+      "websiteUrl": "https://www.truecaller.com/premium",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=truecaller.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "youtube-premium",
+      "name": "YouTube Premium",
+      "category": "ott",
+      "description": "Ad-free YouTube with background play, downloads and YouTube Music.",
+      "websiteUrl": "https://www.youtube.com/premium",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "zee5",
+      "name": "ZEE5",
+      "category": "ott",
+      "description": "ZEE originals, Indian films and TV in many languages, plus regional packs.",
+      "websiteUrl": "https://www.zee5.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=zee5.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "zomato-gold",
+      "name": "Zomato Gold",
+      "category": "food",
+      "description": "Free deliveries and extra discounts on Zomato orders and dining out.",
+      "websiteUrl": "https://www.zomato.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=zomato.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-07",
+      "notes": null
+    }
+  ],
+  "plans": [
+    {
+      "id": "netflix-mobile",
+      "serviceId": "netflix",
+      "name": "Mobile",
+      "price": 149,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://help.netflix.com/en/node/24926/in",
+      "features": [
+        "1 phone or tablet at a time",
+        "Up to 480p",
+        "Ad-free",
+        "No casting to a TV"
+      ],
+      "lastVerified": "2026-11-07",
+      "priceSourceUrl": "https://help.netflix.com/en/node/24926/in",
+      "status": "active",
+      "verification": "verified",
+      "group": "netflix-mobile",
+      "planType": "mobile",
+      "notes": "Netflix says taxes may be added depending on where you live."
+    },
+    {
+      "id": "netflix-basic",
+      "serviceId": "netflix",
+      "name": "Basic",
+      "price": 199,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://help.netflix.com/en/node/24926/in",
+      "features": [
+        "1 device at a time",
+        "Up to 720p (HD)",
+        "Ad-free"
+      ],
+      "lastVerified": "2026-11-07",
+      "priceSourceUrl": "https://help.netflix.com/en/node/24926/in",
+      "status": "active",
+      "verification": "verified",
+      "group": "netflix-basic",
+      "planType": null,
+      "notes": "Netflix says taxes may be added depending on where you live."
+    },
+    {
+      "id": "netflix-standard",
+      "serviceId": "netflix",
+      "name": "Standard",
+      "price": 499,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://help.netflix.com/en/node/24926/in",
+      "features": [
+        "2 devices at once",
+        "Up to 1080p (Full HD)",
+        "Downloads on 2 devices",
+        "Ad-free"
+      ],
+      "lastVerified": "2026-11-07",
+      "priceSourceUrl": "https://help.netflix.com/en/node/24926/in",
+      "status": "active",
+      "verification": "verified",
+      "group": "netflix-standard",
+      "planType": null,
+      "notes": "Netflix says taxes may be added depending on where you live."
+    },
+    {
+      "id": "netflix-premium",
+      "serviceId": "netflix",
+      "name": "Premium",
+      "price": 649,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://help.netflix.com/en/node/24926/in",
+      "features": [
+        "4 devices at once",
+        "Up to 4K (Ultra HD) with HDR",
+        "Spatial audio",
+        "Downloads on 6 devices"
+      ],
+      "lastVerified": "2026-11-07",
+      "priceSourceUrl": "https://help.netflix.com/en/node/24926/in",
+      "status": "active",
+      "verification": "verified",
+      "group": "netflix-premium",
+      "planType": null,
+      "notes": "Netflix says taxes may be added depending on where you live."
+    },
+    {
+      "id": "jiohotstar-mobile-monthly",
+      "serviceId": "jiohotstar",
+      "name": "Mobile (monthly)",
+      "price": 79,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.hotstar.com/in/subscribe",
+      "features": [
+        "1 phone or tablet at a time",
+        "With ads",
+        "Hollywood content needs a paid add-on"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://cdn.jiostar.com/jiostar/wp-content/uploads/2026/01/JioHotstar-Introduces-Monthly-Plans.pdf",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "jiohotstar-mobile",
+      "planType": "mobile",
+      "notes": "Prices for new subscribers from 28 Jan 2026. Existing subscribers on auto-renew keep their earlier price."
+    },
+    {
+      "id": "jiohotstar-mobile-quarterly",
+      "serviceId": "jiohotstar",
+      "name": "Mobile (3 months)",
+      "price": 149,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.hotstar.com/in/subscribe",
+      "features": [
+        "1 phone or tablet at a time",
+        "With ads",
+        "Hollywood content needs a paid add-on"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://cdn.jiostar.com/jiostar/wp-content/uploads/2026/01/JioHotstar-Introduces-Monthly-Plans.pdf",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "jiohotstar-mobile",
+      "planType": "mobile",
+      "notes": "Prices for new subscribers from 28 Jan 2026. Existing subscribers on auto-renew keep their earlier price."
+    },
+    {
+      "id": "jiohotstar-mobile-annual",
+      "serviceId": "jiohotstar",
+      "name": "Mobile (annual)",
+      "price": 499,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.hotstar.com/in/subscribe",
+      "features": [
+        "1 phone or tablet at a time",
+        "With ads",
+        "Hollywood content needs a paid add-on"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://cdn.jiostar.com/jiostar/wp-content/uploads/2026/01/JioHotstar-Introduces-Monthly-Plans.pdf",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "jiohotstar-mobile",
+      "planType": "mobile",
+      "notes": "Prices for new subscribers from 28 Jan 2026. Existing subscribers on auto-renew keep their earlier price."
+    },
+    {
+      "id": "jiohotstar-super-monthly",
+      "serviceId": "jiohotstar",
+      "name": "Super (monthly)",
+      "price": 149,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.hotstar.com/in/subscribe",
+      "features": [
+        "Up to 2 devices at once",
+        "With ads",
+        "Hollywood content included"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://cdn.jiostar.com/jiostar/wp-content/uploads/2026/01/JioHotstar-Introduces-Monthly-Plans.pdf",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "jiohotstar-super",
+      "planType": null,
+      "notes": "Prices for new subscribers from 28 Jan 2026. Existing subscribers on auto-renew keep their earlier price."
+    },
+    {
+      "id": "jiohotstar-super-quarterly",
+      "serviceId": "jiohotstar",
+      "name": "Super (3 months)",
+      "price": 349,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.hotstar.com/in/subscribe",
+      "features": [
+        "Up to 2 devices at once",
+        "With ads",
+        "Hollywood content included"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://cdn.jiostar.com/jiostar/wp-content/uploads/2026/01/JioHotstar-Introduces-Monthly-Plans.pdf",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "jiohotstar-super",
+      "planType": null,
+      "notes": "Prices for new subscribers from 28 Jan 2026. Existing subscribers on auto-renew keep their earlier price."
+    },
+    {
+      "id": "jiohotstar-super-annual",
+      "serviceId": "jiohotstar",
+      "name": "Super (annual)",
+      "price": 1099,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.hotstar.com/in/subscribe",
+      "features": [
+        "Up to 2 devices at once",
+        "With ads",
+        "Hollywood content included"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://cdn.jiostar.com/jiostar/wp-content/uploads/2026/01/JioHotstar-Introduces-Monthly-Plans.pdf",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "jiohotstar-super",
+      "planType": null,
+      "notes": "Prices for new subscribers from 28 Jan 2026. Existing subscribers on auto-renew keep their earlier price."
+    },
+    {
+      "id": "jiohotstar-premium-monthly",
+      "serviceId": "jiohotstar",
+      "name": "Premium (monthly)",
+      "price": 299,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.hotstar.com/in/subscribe",
+      "features": [
+        "Up to 4 devices at once",
+        "Ad-free, except live sport and live shows",
+        "Hollywood content included"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://cdn.jiostar.com/jiostar/wp-content/uploads/2026/01/JioHotstar-Introduces-Monthly-Plans.pdf",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "jiohotstar-premium",
+      "planType": null,
+      "notes": "Prices for new subscribers from 28 Jan 2026. Existing subscribers on auto-renew keep their earlier price."
+    },
+    {
+      "id": "jiohotstar-premium-quarterly",
+      "serviceId": "jiohotstar",
+      "name": "Premium (3 months)",
+      "price": 699,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.hotstar.com/in/subscribe",
+      "features": [
+        "Up to 4 devices at once",
+        "Ad-free, except live sport and live shows",
+        "Hollywood content included"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://cdn.jiostar.com/jiostar/wp-content/uploads/2026/01/JioHotstar-Introduces-Monthly-Plans.pdf",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "jiohotstar-premium",
+      "planType": null,
+      "notes": "Prices for new subscribers from 28 Jan 2026. Existing subscribers on auto-renew keep their earlier price."
+    },
+    {
+      "id": "jiohotstar-premium-annual",
+      "serviceId": "jiohotstar",
+      "name": "Premium (annual)",
+      "price": 2199,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.hotstar.com/in/subscribe",
+      "features": [
+        "Up to 4 devices at once",
+        "Ad-free, except live sport and live shows",
+        "Hollywood content included"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://cdn.jiostar.com/jiostar/wp-content/uploads/2026/01/JioHotstar-Introduces-Monthly-Plans.pdf",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "jiohotstar-premium",
+      "planType": null,
+      "notes": "Prices for new subscribers from 28 Jan 2026. Existing subscribers on auto-renew keep their earlier price."
+    },
+    {
+      "id": "sonyliv-mobile-annual",
+      "serviceId": "sonyliv",
+      "name": "Mobile only (annual)",
+      "price": 699,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.sonyliv.com/subscription",
+      "features": [
+        "1 mobile screen",
+        "Up to 720p"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://helpdev.sonyliv.com/top-articles/packs-subscription",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "sonyliv-mobile",
+      "planType": "mobile",
+      "notes": "Ads may still appear during live sport and some shows."
+    },
+    {
+      "id": "sonyliv-premium-monthly",
+      "serviceId": "sonyliv",
+      "name": "Premium (monthly)",
+      "price": 399,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.sonyliv.com/subscription",
+      "features": [
+        "1 screen at a time",
+        "TV, web and mobile",
+        "Live sport"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://helpdev.sonyliv.com/top-articles/packs-subscription",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "sonyliv-premium",
+      "planType": null,
+      "notes": "Ads may still appear during live sport and some shows."
+    },
+    {
+      "id": "sonyliv-premium-annual",
+      "serviceId": "sonyliv",
+      "name": "Premium (annual)",
+      "price": 1499,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.sonyliv.com/subscription",
+      "features": [
+        "2 screens at once",
+        "TV, web and mobile",
+        "Live sport"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://helpdev.sonyliv.com/top-articles/packs-subscription",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "sonyliv-premium",
+      "planType": null,
+      "notes": "Ads may still appear during live sport and some shows."
+    },
+    {
+      "id": "zee5-mobile-annual",
+      "serviceId": "zee5",
+      "name": "Mobile (annual)",
+      "price": 649,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.zee5.com/myaccount/subscription",
+      "features": [
+        "1 mobile screen",
+        "Up to 720p",
+        "Ad-free"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://zoutons.com/news/zee5-subscription-plans-india-2026-price-comparison",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "zee5-mobile",
+      "planType": "mobile",
+      "notes": "ZEE5 often runs discount codes, so you may pay less than the listed price."
+    },
+    {
+      "id": "zee5-hd-monthly",
+      "serviceId": "zee5",
+      "name": "Premium HD (monthly)",
+      "price": 199,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.zee5.com/myaccount/subscription",
+      "features": [
+        "1 screen at a time",
+        "Up to 1080p"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://zoutons.com/news/zee5-subscription-plans-india-2026-price-comparison",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "zee5-hd",
+      "planType": null,
+      "notes": "ZEE5 often runs discount codes, so you may pay less than the listed price."
+    },
+    {
+      "id": "zee5-hd-annual",
+      "serviceId": "zee5",
+      "name": "Premium HD (annual)",
+      "price": 999,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.zee5.com/myaccount/subscription",
+      "features": [
+        "2 screens at once",
+        "Up to 1080p"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://zoutons.com/news/zee5-subscription-plans-india-2026-price-comparison",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "zee5-hd",
+      "planType": null,
+      "notes": "ZEE5 often runs discount codes, so you may pay less than the listed price."
+    },
+    {
+      "id": "zee5-4k-annual",
+      "serviceId": "zee5",
+      "name": "Premium 4K (annual)",
+      "price": 1299,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.zee5.com/myaccount/subscription",
+      "features": [
+        "4 screens at once",
+        "Up to 4K with Dolby Vision and Dolby Atmos",
+        "Ad-free"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://zoutons.com/news/zee5-subscription-plans-india-2026-price-comparison",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "zee5-4k",
+      "planType": null,
+      "notes": "ZEE5 often runs discount codes, so you may pay less than the listed price."
+    },
+    {
+      "id": "yt-individual",
+      "serviceId": "youtube-premium",
+      "name": "Individual",
+      "price": 149,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.youtube.com/premium",
+      "features": [
+        "Ad-free videos",
+        "Background play and downloads",
+        "YouTube Music Premium included"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://upstox.com/news/business-news/latest-updates/youtube-premium-increases-prices-for-all-plans-in-india-check-list-of-updated--and-latest-rates/article-113078",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "yt-individual",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "yt-prepaid-quarterly",
+      "serviceId": "youtube-premium",
+      "name": "Individual prepaid (3 months)",
+      "price": 459,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.youtube.com/premium",
+      "features": [
+        "Ad-free videos",
+        "Background play and downloads",
+        "YouTube Music Premium included",
+        "Prepaid: does not auto-renew"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.marcamoney.com/google-hikes-youtube-premium-prices-in-india-check-revised-pricing/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "yt-individual",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "yt-prepaid-annual",
+      "serviceId": "youtube-premium",
+      "name": "Individual prepaid (12 months)",
+      "price": 1490,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.youtube.com/premium",
+      "features": [
+        "Ad-free videos",
+        "Background play and downloads",
+        "YouTube Music Premium included",
+        "Prepaid: does not auto-renew"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.marcamoney.com/google-hikes-youtube-premium-prices-in-india-check-revised-pricing/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "yt-individual",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "yt-student",
+      "serviceId": "youtube-premium",
+      "name": "Student",
+      "price": 89,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.youtube.com/premium/student",
+      "features": [
+        "Verified students",
+        "Same benefits as Individual"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.business-standard.com/technology/tech-news/youtube-premium-lite-subscription-price-features-background-play-and-downloads-in-india-details-126022500521_1.html",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "yt-student",
+      "planType": "student",
+      "notes": null
+    },
+    {
+      "id": "yt-duo",
+      "serviceId": "youtube-premium",
+      "name": "Two-person",
+      "price": 219,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.youtube.com/premium/family",
+      "features": [
+        "You plus 1 member aged 13+ in your household"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.business-standard.com/technology/tech-news/youtube-premium-lite-subscription-price-features-background-play-and-downloads-in-india-details-126022500521_1.html",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "yt-duo",
+      "planType": "duo",
+      "notes": null
+    },
+    {
+      "id": "yt-family",
+      "serviceId": "youtube-premium",
+      "name": "Family",
+      "price": 299,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.youtube.com/premium/family",
+      "features": [
+        "You plus up to 5 members aged 13+ in your household"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.business-standard.com/technology/tech-news/youtube-premium-lite-subscription-price-features-background-play-and-downloads-in-india-details-126022500521_1.html",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "yt-family",
+      "planType": "family",
+      "notes": null
+    },
+    {
+      "id": "yt-lite",
+      "serviceId": "youtube-premium",
+      "name": "Premium Lite",
+      "price": 89,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.youtube.com/premium",
+      "features": [
+        "Ad-free on most videos",
+        "Background play and downloads",
+        "Does not include YouTube Music"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.business-standard.com/technology/tech-news/youtube-premium-lite-subscription-price-features-background-play-and-downloads-in-india-details-126022500521_1.html",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "yt-lite",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "spotify-standard",
+      "serviceId": "spotify",
+      "name": "Premium Standard",
+      "price": 139,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.spotify.com/in-en/premium/",
+      "features": [
+        "1 account",
+        "Ad-free music",
+        "Downloads",
+        "Up to 320 kbps"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.musicbusinessworldwide.com/spotify-cuts-premium-prices-in-india-by-30-and-scraps-lite-tier-just-six-months-after-launching-it/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "spotify-standard",
+      "planType": "individual",
+      "notes": "Older Individual, Duo and Family plans continue for existing subscribers."
+    },
+    {
+      "id": "spotify-student",
+      "serviceId": "spotify",
+      "name": "Premium Student",
+      "price": 69,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.spotify.com/in-en/student/",
+      "features": [
+        "Verified students",
+        "Standard benefits"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.musicbusinessworldwide.com/spotify-cuts-premium-prices-in-india-by-30-and-scraps-lite-tier-just-six-months-after-launching-it/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "spotify-student",
+      "planType": "student",
+      "notes": "Older Individual, Duo and Family plans continue for existing subscribers."
+    },
+    {
+      "id": "spotify-platinum",
+      "serviceId": "spotify",
+      "name": "Premium Platinum",
+      "price": 299,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.spotify.com/in-en/premium/",
+      "features": [
+        "Up to 3 accounts in one household",
+        "Lossless audio",
+        "AI DJ and mixing tools"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.businesstoday.in/technology/story/spotify-cuts-subscription-prices-in-india-discontinues-premium-lite-531507-2026-05-14",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "spotify-platinum",
+      "planType": "family",
+      "notes": "Older Individual, Duo and Family plans continue for existing subscribers."
+    },
+    {
+      "id": "apple-music-individual",
+      "serviceId": "apple-music",
+      "name": "Individual",
+      "price": 139,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.apple.com/in/apple-music/",
+      "features": [
+        "1 person",
+        "Lossless and spatial audio"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.techlusive.in/news/apple-raises-apple-music-apple-one-prices-in-india-heres-what-youll-pay-now-1669256/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "apple-music-individual",
+      "planType": "individual",
+      "notes": "iCloud+ subscribers can add Apple Music at a discount — see Deals."
+    },
+    {
+      "id": "apple-music-student",
+      "serviceId": "apple-music",
+      "name": "Student",
+      "price": 69,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.apple.com/in/apple-music/",
+      "features": [
+        "Verified university students"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.techlusive.in/news/apple-raises-apple-music-apple-one-prices-in-india-heres-what-youll-pay-now-1669256/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "apple-music-student",
+      "planType": "student",
+      "notes": "iCloud+ subscribers can add Apple Music at a discount — see Deals."
+    },
+    {
+      "id": "apple-music-family",
+      "serviceId": "apple-music",
+      "name": "Family",
+      "price": 229,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.apple.com/in/apple-music/",
+      "features": [
+        "Up to 6 people with Family Sharing"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.techlusive.in/news/apple-raises-apple-music-apple-one-prices-in-india-heres-what-youll-pay-now-1669256/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "apple-music-family",
+      "planType": "family",
+      "notes": "iCloud+ subscribers can add Apple Music at a discount — see Deals."
+    },
+    {
+      "id": "audible-premium-plus",
+      "serviceId": "audible",
+      "name": "Premium Plus",
+      "price": 199,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.audible.in/",
+      "features": [
+        "1 credit a month for any audiobook"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.aboutamazon.in/news/entertainment/audible-benefits-amazon-prime-member-india",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "audible-premium-plus",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "chatgpt-go",
+      "serviceId": "chatgpt",
+      "name": "Go",
+      "price": 399,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://chatgpt.com/pricing",
+      "features": [
+        "Higher limits than the free plan",
+        "May show ads"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://gadgets.beebom.com/news/openai-chatgpt-go-plan-launched-in-india",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "chatgpt-go",
+      "planType": null,
+      "notes": "Rupee prices on chatgpt.com. App Store and Google Play prices can differ."
+    },
+    {
+      "id": "chatgpt-plus",
+      "serviceId": "chatgpt",
+      "name": "Plus",
+      "price": 1999,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://chatgpt.com/pricing",
+      "features": [
+        "Higher limits than Go",
+        "Ad-free",
+        "More advanced models and features"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://gadgets.beebom.com/news/openai-chatgpt-go-plan-launched-in-india",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "chatgpt-plus",
+      "planType": null,
+      "notes": "Rupee prices on chatgpt.com. App Store and Google Play prices can differ."
+    },
+    {
+      "id": "chatgpt-pro",
+      "serviceId": "chatgpt",
+      "name": "Pro",
+      "price": 19900,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://chatgpt.com/pricing",
+      "features": [
+        "Highest limits",
+        "Most capable models",
+        "Ad-free"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://gadgets.beebom.com/news/openai-chatgpt-go-plan-launched-in-india",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "chatgpt-pro",
+      "planType": null,
+      "notes": "Rupee prices on chatgpt.com. App Store and Google Play prices can differ."
+    },
+    {
+      "id": "claude-pro-annual",
+      "serviceId": "claude",
+      "name": "Pro (annual)",
+      "price": 24000,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://claude.com/pricing",
+      "features": [
+        "More usage than the free plan",
+        "Claude Code and Cowork"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.business-standard.com/technology/tech-news/anthropic-claude-india-pricing-subscription-plans-pro-max-benefits-126071400257_1.html",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "claude-pro",
+      "planType": null,
+      "notes": "Rupee prices include GST. App store prices can differ."
+    },
+    {
+      "id": "claude-pro-monthly",
+      "serviceId": "claude",
+      "name": "Pro (monthly)",
+      "price": 2399,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://claude.com/pricing",
+      "features": [
+        "More usage than the free plan",
+        "Claude Code and Cowork"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.technobezz.com/news/anthropic-introduces-rupee-pricing-for-claude-ai-plans-starting-at-2000-monthly",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "claude-pro",
+      "planType": null,
+      "notes": "Rupee prices include GST. App store prices can differ."
+    },
+    {
+      "id": "claude-max-5x",
+      "serviceId": "claude",
+      "name": "Max 5x",
+      "price": 11999,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://claude.com/pricing",
+      "features": [
+        "5x the usage of Pro",
+        "Priority access at busy times"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.newsbytesapp.com/news/science/anthropic-rolls-out-india-specific-pricing-for-claude/story",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "claude-max-5x",
+      "planType": null,
+      "notes": "Rupee prices include GST. App store prices can differ."
+    },
+    {
+      "id": "claude-max-20x",
+      "serviceId": "claude",
+      "name": "Max 20x",
+      "price": 23999,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://claude.com/pricing",
+      "features": [
+        "20x the usage of Pro",
+        "Priority access at busy times"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.newsbytesapp.com/news/science/anthropic-rolls-out-india-specific-pricing-for-claude/story",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "claude-max-20x",
+      "planType": null,
+      "notes": "Rupee prices include GST. App store prices can differ."
+    },
+    {
+      "id": "google-ai-plus",
+      "serviceId": "google-ai",
+      "name": "Google AI Plus",
+      "price": 399,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://one.google.com/about/google-ai-plans",
+      "features": [
+        "Gemini with higher limits",
+        "400 GB storage",
+        "Share with up to 5 family members"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.thetechoutlook.com/news/apps/google-ai-plus-plan-now-starts-at-4-99-month-down-from-7-99-storage-doubled-to-400gb/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "google-ai-plus",
+      "planType": null,
+      "notes": "New subscribers may be shown an introductory price — see Deals."
+    },
+    {
+      "id": "google-ai-pro",
+      "serviceId": "google-ai",
+      "name": "Google AI Pro",
+      "price": 1950,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://one.google.com/about/google-ai-plans",
+      "features": [
+        "Gemini Pro features",
+        "5 TB storage"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.thetechoutlook.com/news/apps/google-ai-plus-plan-now-starts-at-4-99-month-down-from-7-99-storage-doubled-to-400gb/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "google-ai-pro",
+      "planType": null,
+      "notes": "New subscribers may be shown an introductory price — see Deals."
+    },
+    {
+      "id": "google-ai-ultra-5x",
+      "serviceId": "google-ai",
+      "name": "Google AI Ultra (5x)",
+      "price": 6500,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://one.google.com/about/google-ai-plans",
+      "features": [
+        "Highest Gemini limits",
+        "20 TB storage"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.thetechoutlook.com/news/apps/google-ai-plus-plan-now-starts-at-4-99-month-down-from-7-99-storage-doubled-to-400gb/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "google-ai-ultra-5x",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "perplexity-pro-monthly",
+      "serviceId": "perplexity",
+      "name": "Pro (monthly)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.perplexity.ai/pro",
+      "features": [
+        "Choose between leading AI models",
+        "More Pro searches",
+        "File uploads"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "perplexity-pro",
+      "planType": null,
+      "notes": "Billed in US dollars. Enter what your bank actually charges you in rupees."
+    },
+    {
+      "id": "perplexity-pro-annual",
+      "serviceId": "perplexity",
+      "name": "Pro (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.perplexity.ai/pro",
+      "features": [
+        "Choose between leading AI models",
+        "More Pro searches",
+        "File uploads"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "perplexity-pro",
+      "planType": null,
+      "notes": "Billed in US dollars. Enter what your bank actually charges you in rupees."
+    },
+    {
+      "id": "m365-personal-monthly",
+      "serviceId": "microsoft-365",
+      "name": "Personal (monthly)",
+      "price": 689,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.microsoft.com/en-in/microsoft-365/buy/compare-all-microsoft-365-products",
+      "features": [
+        "1 person",
+        "1 TB OneDrive storage",
+        "Word, Excel, PowerPoint and Outlook",
+        "Copilot, with usage limits"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.digit.in/news/laptops/microsoft-launches-365-premium-with-copilot-ai-price-features-and-everything-else.html",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "m365-personal",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "m365-personal-annual",
+      "serviceId": "microsoft-365",
+      "name": "Personal (annual)",
+      "price": 6899,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.microsoft.com/en-in/microsoft-365/buy/compare-all-microsoft-365-products",
+      "features": [
+        "1 person",
+        "1 TB OneDrive storage",
+        "Word, Excel, PowerPoint and Outlook",
+        "Copilot, with usage limits"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.analyticsinsight.net/amp/story/microsoft/microsoft-office-download-plans-and-where-to-get-it",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "m365-personal",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "m365-family-monthly",
+      "serviceId": "microsoft-365",
+      "name": "Family (monthly)",
+      "price": 819,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.microsoft.com/en-in/microsoft-365/buy/compare-all-microsoft-365-products",
+      "features": [
+        "Up to 6 people",
+        "Word, Excel, PowerPoint and Outlook",
+        "OneDrive cloud storage",
+        "Copilot, with usage limits"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.digit.in/news/laptops/microsoft-launches-365-premium-with-copilot-ai-price-features-and-everything-else.html",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "m365-family",
+      "planType": "family",
+      "notes": null
+    },
+    {
+      "id": "m365-family-annual",
+      "serviceId": "microsoft-365",
+      "name": "Family (annual)",
+      "price": 8199,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.microsoft.com/en-in/microsoft-365/buy/compare-all-microsoft-365-products",
+      "features": [
+        "Up to 6 people",
+        "Word, Excel, PowerPoint and Outlook",
+        "OneDrive cloud storage",
+        "Copilot, with usage limits"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.analyticsinsight.net/amp/story/microsoft/microsoft-office-download-plans-and-where-to-get-it",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "m365-family",
+      "planType": "family",
+      "notes": null
+    },
+    {
+      "id": "m365-premium-monthly",
+      "serviceId": "microsoft-365",
+      "name": "Premium (monthly)",
+      "price": 1999,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.microsoft.com/en-in/microsoft-365/buy/compare-all-microsoft-365-products",
+      "features": [
+        "Up to 6 people",
+        "Higher Copilot limits",
+        "Word, Excel, PowerPoint and Outlook"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://office-watch.com/?p=72260",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "m365-premium",
+      "planType": "family",
+      "notes": null
+    },
+    {
+      "id": "m365-premium-annual",
+      "serviceId": "microsoft-365",
+      "name": "Premium (annual)",
+      "price": 19999,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.microsoft.com/en-in/microsoft-365/buy/compare-all-microsoft-365-products",
+      "features": [
+        "Up to 6 people",
+        "Higher Copilot limits",
+        "Word, Excel, PowerPoint and Outlook"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://office-watch.com/?p=72260",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "m365-premium",
+      "planType": "family",
+      "notes": null
+    },
+    {
+      "id": "notion-plus-monthly",
+      "serviceId": "notion",
+      "name": "Plus (monthly)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.notion.com/pricing",
+      "features": [
+        "For individuals and small teams"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "notion-plus",
+      "planType": null,
+      "notes": "Billed in US dollars. Enter what your bank actually charges you in rupees."
+    },
+    {
+      "id": "notion-plus-annual",
+      "serviceId": "notion",
+      "name": "Plus (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.notion.com/pricing",
+      "features": [
+        "For individuals and small teams"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "notion-plus",
+      "planType": null,
+      "notes": "Billed in US dollars. Enter what your bank actually charges you in rupees."
+    },
+    {
+      "id": "canva-pro-monthly",
+      "serviceId": "canva",
+      "name": "Pro (monthly)",
+      "price": 500,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.canva.com/en_in/pricing/",
+      "features": [
+        "1 person",
+        "Premium templates and assets",
+        "100 GB storage"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://techmitra.in/what-is-canva-features-pricing-and-ai-explained/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "canva-pro",
+      "planType": "individual",
+      "notes": "Taxes may be extra."
+    },
+    {
+      "id": "canva-pro-annual",
+      "serviceId": "canva",
+      "name": "Pro (annual)",
+      "price": 4000,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.canva.com/en_in/pricing/",
+      "features": [
+        "1 person",
+        "Premium templates and assets",
+        "100 GB storage"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.businesstoday.in/technology/news/story/canva-review-the-design-platform-that-turned-visual-communication-into-a-utility-507634-2025-12-22",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "canva-pro",
+      "planType": "individual",
+      "notes": "Taxes may be extra."
+    },
+    {
+      "id": "canva-business-annual",
+      "serviceId": "canva",
+      "name": "Business (annual, per person)",
+      "price": 6800,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.canva.com/en_in/pricing/",
+      "features": [
+        "Priced per person",
+        "Team admin and approvals",
+        "500 GB storage"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://techmitra.in/what-is-canva-features-pricing-and-ai-explained/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "canva-business",
+      "planType": null,
+      "notes": "Taxes may be extra."
+    },
+    {
+      "id": "adobe-ccpro-monthly",
+      "serviceId": "adobe-cc",
+      "name": "Creative Cloud Pro (annual plan, billed monthly)",
+      "price": 2714,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.adobe.com/in/creativecloud/pro",
+      "features": [
+        "All Creative Cloud apps",
+        "Generative AI credits",
+        "12-month commitment, billed monthly"
+      ],
+      "lastVerified": "2026-11-07",
+      "priceSourceUrl": "https://www.adobe.com/in/offer-terms/cc-full-special-offer-intro.html",
+      "status": "active",
+      "verification": "verified",
+      "group": "adobe-ccpro",
+      "planType": "individual",
+      "notes": "Includes GST. These are regular prices; first-year prices for new subscribers are under Deals."
+    },
+    {
+      "id": "adobe-ccpro-annual",
+      "serviceId": "adobe-cc",
+      "name": "Creative Cloud Pro (annual, prepaid)",
+      "price": 30656.4,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.adobe.com/in/creativecloud/pro",
+      "features": [
+        "All Creative Cloud apps",
+        "Generative AI credits",
+        "Paid once a year"
+      ],
+      "lastVerified": "2026-11-07",
+      "priceSourceUrl": "https://www.adobe.com/in/offer-terms/cc-full-special-offer-intro.html",
+      "status": "active",
+      "verification": "verified",
+      "group": "adobe-ccpro",
+      "planType": "individual",
+      "notes": "Includes GST. These are regular prices; first-year prices for new subscribers are under Deals."
+    },
+    {
+      "id": "adobe-ccstd-monthly",
+      "serviceId": "adobe-cc",
+      "name": "Creative Cloud Standard (annual plan, billed monthly)",
+      "price": 2132.26,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.adobe.com/in/creativecloud/plans.html",
+      "features": [
+        "Creative Cloud apps for less than Pro",
+        "12-month commitment, billed monthly"
+      ],
+      "lastVerified": "2026-11-07",
+      "priceSourceUrl": "https://www.adobe.com/in/offer-terms/cc-full-special-offer-intro.html",
+      "status": "active",
+      "verification": "verified",
+      "group": "adobe-ccstd",
+      "planType": "individual",
+      "notes": "Includes GST. These are regular prices; first-year prices for new subscribers are under Deals."
+    },
+    {
+      "id": "adobe-ccstd-annual",
+      "serviceId": "adobe-cc",
+      "name": "Creative Cloud Standard (annual, prepaid)",
+      "price": 23576.4,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.adobe.com/in/creativecloud/plans.html",
+      "features": [
+        "Creative Cloud apps for less than Pro",
+        "Paid once a year"
+      ],
+      "lastVerified": "2026-11-07",
+      "priceSourceUrl": "https://www.adobe.com/in/offer-terms/cc-full-special-offer-intro.html",
+      "status": "active",
+      "verification": "verified",
+      "group": "adobe-ccstd",
+      "planType": "individual",
+      "notes": "Includes GST. These are regular prices; first-year prices for new subscribers are under Deals."
+    },
+    {
+      "id": "adobe-photo-monthly",
+      "serviceId": "adobe-cc",
+      "name": "Photography plan 1 TB (annual plan, billed monthly)",
+      "price": 638.38,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.adobe.com/in/products/photoshop-lightroom",
+      "features": [
+        "Photoshop and Lightroom",
+        "1 TB cloud storage",
+        "12-month commitment, billed monthly"
+      ],
+      "lastVerified": "2026-11-07",
+      "priceSourceUrl": "https://www.adobe.com/in/products/photoshop-lightroom",
+      "status": "active",
+      "verification": "verified",
+      "group": "adobe-photo",
+      "planType": "individual",
+      "notes": "Includes GST. These are regular prices; first-year prices for new subscribers are under Deals."
+    },
+    {
+      "id": "adobe-photo-annual",
+      "serviceId": "adobe-cc",
+      "name": "Photography plan 1 TB (annual, prepaid)",
+      "price": 7660.56,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.adobe.com/in/products/photoshop-lightroom",
+      "features": [
+        "Photoshop and Lightroom",
+        "1 TB cloud storage",
+        "Paid once a year"
+      ],
+      "lastVerified": "2026-11-07",
+      "priceSourceUrl": "https://www.adobe.com/in/offer-terms/cc-full-special-offer-intro.html",
+      "status": "active",
+      "verification": "verified",
+      "group": "adobe-photo",
+      "planType": "individual",
+      "notes": "Includes GST. These are regular prices; first-year prices for new subscribers are under Deals."
+    },
+    {
+      "id": "google-one-lite-annual",
+      "serviceId": "google-one",
+      "name": "Lite 30 GB (annual)",
+      "price": 708,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://one.google.com/about/plans",
+      "features": [
+        "30 GB across Gmail, Drive and Photos"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.freepressjournal.in/tech/google-one-slashes-prices-on-annual-plans-in-india-what-you-need-to-know",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "google-one-lite-annual",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "google-one-basic-monthly",
+      "serviceId": "google-one",
+      "name": "Basic 100 GB (monthly)",
+      "price": 130,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://one.google.com/about/plans",
+      "features": [
+        "100 GB across Gmail, Drive and Photos",
+        "Share with up to 5 others"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.freepressjournal.in/tech/google-one-in-india-plans-benefits-is-it-worth-subscribing",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "google-one-basic",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "google-one-basic-annual",
+      "serviceId": "google-one",
+      "name": "Basic 100 GB (annual)",
+      "price": 1560,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://one.google.com/about/plans",
+      "features": [
+        "100 GB across Gmail, Drive and Photos",
+        "Share with up to 5 others"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.freepressjournal.in/tech/google-one-slashes-prices-on-annual-plans-in-india-what-you-need-to-know",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "google-one-basic",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "icloud-50gb",
+      "serviceId": "icloud-plus",
+      "name": "50 GB",
+      "price": 75,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.apple.com/in/icloud/",
+      "features": [
+        "50 GB storage",
+        "Apple TV and Apple Arcade included",
+        "Apple Music Select stations",
+        "Share with your family"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.freepressjournal.in/tech/apple-rolls-out-siri-ai-offers-tv-and-arcade-with-icloud-at-no-extra-cost-in-india",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "icloud-50gb",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "icloud-200gb",
+      "serviceId": "icloud-plus",
+      "name": "200 GB",
+      "price": 219,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.apple.com/in/icloud/",
+      "features": [
+        "200 GB storage",
+        "Apple TV and Apple Arcade included",
+        "Apple Music Select stations",
+        "Share with your family"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.equentis.com/blog/apple-icloud-india-check-apple-tv-arcade-storage-benefits/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "icloud-200gb",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "icloud-2tb",
+      "serviceId": "icloud-plus",
+      "name": "2 TB",
+      "price": 749,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.apple.com/in/icloud/",
+      "features": [
+        "2 TB storage",
+        "Apple TV and Apple Arcade included",
+        "Apple Music Select stations",
+        "Share with your family"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.equentis.com/blog/apple-icloud-india-check-apple-tv-arcade-storage-benefits/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "icloud-2tb",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "icloud-6tb",
+      "serviceId": "icloud-plus",
+      "name": "6 TB",
+      "price": 2999,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.apple.com/in/icloud/",
+      "features": [
+        "6 TB storage",
+        "Apple TV and Apple Arcade included",
+        "Apple Music Select stations",
+        "Share with your family"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.equentis.com/blog/apple-icloud-india-check-apple-tv-arcade-storage-benefits/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "icloud-6tb",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "dropbox-plus-monthly",
+      "serviceId": "dropbox",
+      "name": "Plus (monthly)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.dropbox.com/plans",
+      "features": [
+        "2 TB storage for 1 person"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "dropbox-plus",
+      "planType": null,
+      "notes": "Rupee price not yet confirmed. Enter what you pay."
+    },
+    {
+      "id": "dropbox-plus-annual",
+      "serviceId": "dropbox",
+      "name": "Plus (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.dropbox.com/plans",
+      "features": [
+        "2 TB storage for 1 person"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "dropbox-plus",
+      "planType": null,
+      "notes": "Rupee price not yet confirmed. Enter what you pay."
+    },
+    {
+      "id": "psplus-essential-1m",
+      "serviceId": "playstation-plus",
+      "name": "Essential (1 month)",
+      "price": 649,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.playstation.com/en-in/ps-plus/",
+      "features": [
+        "Online multiplayer",
+        "Monthly games"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://telecomtalk.info/playstation-plus-prices-go-up-signficantly-india/1007763/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "psplus-essential",
+      "planType": null,
+      "notes": "New prices from May 2026. Existing members pay them from their next renewal on or after 19 July 2026."
+    },
+    {
+      "id": "psplus-essential-3m",
+      "serviceId": "playstation-plus",
+      "name": "Essential (3 months)",
+      "price": 1599,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.playstation.com/en-in/ps-plus/",
+      "features": [
+        "Online multiplayer",
+        "Monthly games"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://telecomtalk.info/playstation-plus-prices-go-up-signficantly-india/1007763/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "psplus-essential",
+      "planType": null,
+      "notes": "New prices from May 2026. Existing members pay them from their next renewal on or after 19 July 2026."
+    },
+    {
+      "id": "psplus-essential-12m",
+      "serviceId": "playstation-plus",
+      "name": "Essential (12 months)",
+      "price": 5139,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.playstation.com/en-in/ps-plus/",
+      "features": [
+        "Online multiplayer",
+        "Monthly games"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://telecomtalk.info/playstation-plus-prices-go-up-signficantly-india/1007763/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "psplus-essential",
+      "planType": null,
+      "notes": "New prices from May 2026. Existing members pay them from their next renewal on or after 19 July 2026."
+    },
+    {
+      "id": "psplus-extra-12m",
+      "serviceId": "playstation-plus",
+      "name": "Extra (12 months)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.playstation.com/en-in/ps-plus/",
+      "features": [
+        "Everything in Essential",
+        "Catalogue of PS4 and PS5 games"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "psplus-extra",
+      "planType": null,
+      "notes": "New prices from May 2026. Existing members pay them from their next renewal on or after 19 July 2026."
+    },
+    {
+      "id": "psplus-deluxe-12m",
+      "serviceId": "playstation-plus",
+      "name": "Deluxe (12 months)",
+      "price": 9879,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.playstation.com/en-in/ps-plus/",
+      "features": [
+        "Everything in Extra",
+        "Classic games and game trials"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://telecomtalk.info/playstation-plus-prices-go-up-signficantly-india/1007763/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "psplus-deluxe",
+      "planType": null,
+      "notes": "New prices from May 2026. Existing members pay them from their next renewal on or after 19 July 2026."
+    },
+    {
+      "id": "duolingo-super-annual",
+      "serviceId": "duolingo",
+      "name": "Super (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.duolingo.com/",
+      "features": [
+        "No ads",
+        "Extra practice features"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "duolingo-super-annual",
+      "planType": null,
+      "notes": "Price shown in the app; it varies by platform and offer."
+    },
+    {
+      "id": "coursera-plus-annual",
+      "serviceId": "coursera",
+      "name": "Coursera Plus (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.coursera.org/courseraplus",
+      "features": [
+        "Most courses and certificates in the Plus catalogue"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "coursera-plus",
+      "planType": null,
+      "notes": "Coursera introduced India pricing in 2026. Price not yet confirmed here."
+    },
+    {
+      "id": "coursera-plus-monthly",
+      "serviceId": "coursera",
+      "name": "Coursera Plus (monthly)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.coursera.org/courseraplus",
+      "features": [
+        "Most courses and certificates in the Plus catalogue"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "coursera-plus",
+      "planType": null,
+      "notes": "Coursera introduced India pricing in 2026. Price not yet confirmed here."
+    },
+    {
+      "id": "kindle-unlimited-monthly",
+      "serviceId": "kindle-unlimited",
+      "name": "Monthly",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.amazon.in/kindle-dbs/hz/subscribe/ku",
+      "features": [
+        "Borrow eligible Kindle ebooks",
+        "Read in the Kindle app on any device"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "kindle-unlimited-monthly",
+      "planType": null,
+      "notes": "Price not yet confirmed here. Amazon often runs multi-month offers."
+    },
+    {
+      "id": "cultpass-elite",
+      "serviceId": "cultfit",
+      "name": "cultpass ELITE",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.cult.fit/",
+      "features": [
+        "Unlimited group classes and gyms in your city",
+        "At-home workouts"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://support.cure.fit/support/solutions/articles/25000024646-what-is-the-difference-between-cultpass-elite-and-cultpass-pro-",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "cultpass-elite",
+      "planType": null,
+      "notes": "Packs run from 1 to 12 months and prices vary by city. Check the cult.fit app."
+    },
+    {
+      "id": "cultpass-pro",
+      "serviceId": "cultfit",
+      "name": "cultpass PRO",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.cult.fit/",
+      "features": [
+        "Unlimited PRO gyms",
+        "2 sessions a month at ELITE gyms or cult centres"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://support.cure.fit/support/solutions/articles/25000026174-what-is-the-difference-between-cultpass-elite-and-cultpass-pro-",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "cultpass-pro",
+      "planType": null,
+      "notes": "Packs run from 1 to 12 months and prices vary by city. Check the cult.fit app."
+    },
+    {
+      "id": "cultpass-home",
+      "serviceId": "cultfit",
+      "name": "cultpass HOME",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.cult.fit/",
+      "features": [
+        "At-home and on-demand workouts"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://support.cure.fit/support/solutions/articles/25000023148-what-are-the-different-membership-packs-available-",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "cultpass-home",
+      "planType": null,
+      "notes": "Packs run from 1 to 12 months and prices vary by city. Check the cult.fit app."
+    },
+    {
+      "id": "prime-annual",
+      "serviceId": "amazon-prime",
+      "name": "Prime (annual)",
+      "price": 1499,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.amazon.in/amazonprime",
+      "features": [
+        "Full shopping and delivery benefits",
+        "Prime Video",
+        "Amazon Music",
+        "Prime Reading"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://press.aboutamazon.com/in/2026/5/amazon-prime-day-returns-to-india-this-july",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "prime",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "prime-monthly",
+      "serviceId": "amazon-prime",
+      "name": "Prime (monthly)",
+      "price": 299,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.amazon.in/amazonprime",
+      "features": [
+        "Full shopping and delivery benefits",
+        "Prime Video",
+        "Amazon Music",
+        "Prime Reading"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://zoutons.com/news/amazon-prime-membership-price-india-2026",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "prime",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "prime-lite",
+      "serviceId": "amazon-prime",
+      "name": "Prime Lite (annual)",
+      "price": 799,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.amazon.in/amazonprime",
+      "features": [
+        "Full shopping and delivery benefits",
+        "Prime Video on 1 device, in HD, with ads"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://press.aboutamazon.com/in/2026/5/amazon-prime-day-returns-to-india-this-july",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "prime-lite",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "prime-shopping",
+      "serviceId": "amazon-prime",
+      "name": "Prime Shopping Edition (annual)",
+      "price": 399,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.amazon.in/amazonprime",
+      "features": [
+        "Shopping and delivery benefits only",
+        "No Prime Video"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://press.aboutamazon.com/in/2026/5/amazon-prime-day-returns-to-india-this-july",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "prime-shopping",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "swiggy-one-quarterly",
+      "serviceId": "swiggy-one",
+      "name": "Swiggy One (3 months)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.swiggy.com/",
+      "features": [
+        "Free deliveries on eligible food and Instamart orders",
+        "Extra discounts"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "swiggy-one-quarterly",
+      "planType": null,
+      "notes": "The price is set per user and city and shown in the app."
+    },
+    {
+      "id": "swiggy-one-lite-quarterly",
+      "serviceId": "swiggy-one",
+      "name": "Swiggy One Lite (3 months)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.swiggy.com/",
+      "features": [
+        "Limited free deliveries",
+        "Extra discounts"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "swiggy-one-lite-quarterly",
+      "planType": null,
+      "notes": "The price is set per user and city and shown in the app."
+    },
+    {
+      "id": "zomato-gold-quarterly",
+      "serviceId": "zomato-gold",
+      "name": "Gold (3 months)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.zomato.com/",
+      "features": [
+        "Free deliveries on eligible orders",
+        "Extra discounts on delivery and dining"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "zomato-gold",
+      "planType": null,
+      "notes": "The price is set per user and city and shown in the app."
+    },
+    {
+      "id": "zomato-gold-annual",
+      "serviceId": "zomato-gold",
+      "name": "Gold (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.zomato.com/",
+      "features": [
+        "Free deliveries on eligible orders",
+        "Extra discounts on delivery and dining"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "zomato-gold",
+      "planType": null,
+      "notes": "The price is set per user and city and shown in the app."
+    },
+    {
+      "id": "truecaller-premium-annual",
+      "serviceId": "truecaller",
+      "name": "Premium (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.truecaller.com/premium",
+      "features": [
+        "No ads",
+        "Advanced spam blocking",
+        "See who viewed your profile"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "truecaller-premium",
+      "planType": null,
+      "notes": "Prices differ between the website, app stores and offers. Enter what you pay."
+    },
+    {
+      "id": "truecaller-premium-monthly",
+      "serviceId": "truecaller",
+      "name": "Premium (monthly)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.truecaller.com/premium",
+      "features": [
+        "No ads",
+        "Advanced spam blocking",
+        "See who viewed your profile"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "truecaller-premium",
+      "planType": null,
+      "notes": "Prices differ between the website, app stores and offers. Enter what you pay."
+    },
+    {
+      "id": "truecaller-gold-annual",
+      "serviceId": "truecaller",
+      "name": "Gold (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.truecaller.com/premium",
+      "features": [
+        "Everything in Premium",
+        "Gold caller ID badge"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "truecaller-gold-annual",
+      "planType": null,
+      "notes": "Prices differ between the website, app stores and offers. Enter what you pay."
+    },
+    {
+      "id": "linkedin-career-monthly",
+      "serviceId": "linkedin-premium",
+      "name": "Premium Career (monthly)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://premium.linkedin.com/",
+      "features": [
+        "InMail credits",
+        "See who viewed your profile",
+        "Job-search insights"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "linkedin-career",
+      "planType": null,
+      "notes": "Price shown at checkout; LinkedIn's India prices vary by plan and offer."
+    },
+    {
+      "id": "linkedin-career-annual",
+      "serviceId": "linkedin-premium",
+      "name": "Premium Career (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://premium.linkedin.com/",
+      "features": [
+        "InMail credits",
+        "See who viewed your profile",
+        "Job-search insights"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "linkedin-career",
+      "planType": null,
+      "notes": "Price shown at checkout; LinkedIn's India prices vary by plan and offer."
+    },
+    {
+      "id": "linkedin-business-monthly",
+      "serviceId": "linkedin-premium",
+      "name": "Premium Business (monthly)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://premium.linkedin.com/",
+      "features": [
+        "InMail credits",
+        "Business insights"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "linkedin-business-monthly",
+      "planType": null,
+      "notes": "Price shown at checkout; LinkedIn's India prices vary by plan and offer."
+    }
+  ],
+  "offers": [
+    {
+      "id": "adobe-ccpro-first-year",
+      "serviceId": "adobe-cc",
+      "title": "Creative Cloud Pro for ₹1,199 a month in your first year",
+      "description": "New subscribers pay ₹1,199 a month for 12 months on the annual plan billed monthly. It then renews at the regular ₹2,714 a month.",
+      "originalPrice": 2714,
+      "offerPrice": 1199,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "offerUrl": "https://www.adobe.com/in/creativecloud/pro",
+      "eligibility": "New subscribers in India buying directly from Adobe. 12-month commitment. One per customer.",
+      "validFrom": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.adobe.com/in/offer-terms/cc-full-special-offer-intro.html",
+      "lastVerified": "2026-11-07",
+      "verification": "verified"
+    },
+    {
+      "id": "adobe-ccpro-first-year-prepaid",
+      "serviceId": "adobe-cc",
+      "title": "Creative Cloud Pro for ₹12,999 for your first year, paid upfront",
+      "description": "New subscribers pay ₹12,999 for the first year on the prepaid annual plan. It then renews at the regular ₹30,656.40 a year.",
+      "originalPrice": 30656.4,
+      "offerPrice": 12999,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "offerUrl": "https://www.adobe.com/in/creativecloud/pro",
+      "eligibility": "New subscribers in India buying directly from Adobe. One per customer.",
+      "validFrom": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.adobe.com/in/offer-terms/cc-full-special-offer-intro.html",
+      "lastVerified": "2026-11-07",
+      "verification": "verified"
+    },
+    {
+      "id": "adobe-photo-first-year",
+      "serviceId": "adobe-cc",
+      "title": "Photography plan 1 TB for ₹599 a month in your first year",
+      "description": "Photoshop and Lightroom with 1 TB storage at ₹599 a month for the first year, then ₹638.38 a month.",
+      "originalPrice": 638.38,
+      "offerPrice": 599,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "offerUrl": "https://www.adobe.com/in/products/photoshop-lightroom",
+      "eligibility": "New subscribers in India. 12-month commitment, billed monthly.",
+      "validFrom": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.adobe.com/in/products/photoshop-lightroom",
+      "lastVerified": "2026-11-07",
+      "verification": "verified"
+    },
+    {
+      "id": "adobe-ccpro-students",
+      "serviceId": "adobe-cc",
+      "title": "Creative Cloud Pro for students and teachers: ₹398.99 a month",
+      "description": "Eligible students and teachers pay ₹398.99 a month for the first year on the annual plan billed monthly, or ₹3,999 prepaid.",
+      "originalPrice": null,
+      "offerPrice": 398.99,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "offerUrl": "https://www.adobe.com/in/creativecloud/buy/students.html",
+      "eligibility": "Students and teachers at eligible institutions. Adobe checks proof of eligibility. First year only.",
+      "validFrom": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.adobe.com/in/offer-terms/cc-full-special-offer-intro.html",
+      "lastVerified": "2026-11-07",
+      "verification": "eligibility_needs_confirmation"
+    },
+    {
+      "id": "amazon-prime-day-2026",
+      "serviceId": "amazon-prime",
+      "title": "Prime annual for ₹999 before Prime Day 2026",
+      "description": "A limited-period anniversary offer cut annual Prime from ₹1,499 to ₹999 ahead of Prime Day, 4–6 July 2026.",
+      "originalPrice": 1499,
+      "offerPrice": 999,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "offerUrl": "https://www.amazon.in/amazonprime",
+      "eligibility": "Limited-period offer for Prime Day 2026.",
+      "validFrom": null,
+      "validUntil": "2026-07-06",
+      "sourceUrl": "https://www.aboutamazon.in/news/amazon-prime/prime-day-2026",
+      "lastVerified": "2026-11-07",
+      "verification": "verified"
+    },
+    {
+      "id": "google-ai-plus-intro",
+      "serviceId": "google-ai",
+      "title": "Google AI Plus at ₹199 a month for 6 months",
+      "description": "New subscribers have been offered AI Plus at ₹199 a month for the first six months, then ₹399 a month.",
+      "originalPrice": 399,
+      "offerPrice": 199,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "offerUrl": "https://one.google.com/about/google-ai-plans",
+      "eligibility": "New Google AI Plus subscribers in India, first 6 months.",
+      "validFrom": null,
+      "validUntil": null,
+      "sourceUrl": "https://www.republicworld.com/tech/google-ai-plus-plan-launched-in-india-price-benefits",
+      "lastVerified": null,
+      "verification": "awaiting_verification"
+    },
+    {
+      "id": "apple-music-icloud-discount",
+      "serviceId": "apple-music",
+      "title": "Apple Music at ₹115 a month for iCloud+ subscribers",
+      "description": "Since September 2026, paying iCloud+ subscribers in India can add full Apple Music at a discounted price.",
+      "originalPrice": 139,
+      "offerPrice": 115,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "offerUrl": "https://www.apple.com/in/apple-music/",
+      "eligibility": "Paying iCloud+ subscribers in India.",
+      "validFrom": "2026-09-15",
+      "validUntil": null,
+      "sourceUrl": "https://www.macworld.com/article/3236040/icloud-gets-an-upgrade-in-100-countries-free-apple-tv-arcade-and-new-music-select.html",
+      "lastVerified": null,
+      "verification": "awaiting_verification"
+    },
+    {
+      "id": "jio-google-ai-pro",
+      "serviceId": "google-ai",
+      "title": "Google AI Pro free for 18 months with Jio Unlimited 5G",
+      "description": "Google and Jio announced free Google AI Pro for 18 months for eligible Jio Unlimited 5G users, activated in the MyJio app.",
+      "originalPrice": 1950,
+      "offerPrice": 0,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "offerUrl": "https://www.jio.com/",
+      "eligibility": "Jio users on eligible Unlimited 5G plans. Check the MyJio app to see if your plan qualifies.",
+      "validFrom": null,
+      "validUntil": null,
+      "sourceUrl": "https://echai.ventures/how-founders-use-ai/choosing-an-assistant/what-do-these-ai-plans-cost-in-india-and-are-the-free-jio-and-airtel-offers-still-running",
+      "lastVerified": null,
+      "verification": "awaiting_verification"
+    }
+  ],
+  "bundles": [
+    {
+      "id": "jio-postpaid-749",
+      "provider": "Jio",
+      "name": "JioPostpaid Plus ₹749 family plan",
+      "description": "Postpaid mobile for 1 main and up to 3 add-on SIMs with 100 GB shared data, plus Netflix, Amazon Prime Lite and JioHotstar.",
+      "includedServiceIds": [
+        "netflix",
+        "amazon-prime",
+        "jiohotstar"
+      ],
+      "includedPlanIds": [
+        "netflix-basic",
+        "prime-lite",
+        "jiohotstar-mobile-monthly"
+      ],
+      "price": 749,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "eligibility": "Jio postpaid customers.",
+      "offerUrl": "https://www.jio.com/",
+      "sourceUrl": "https://www.91mobiles.com/hub/jio-postpaid-plans-2026-price-india-offers-benefits/",
+      "lastVerified": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "notes": "Telecom prices are usually shown before 18% GST."
+    },
+    {
+      "id": "jio-prepaid-1299",
+      "provider": "Jio",
+      "name": "Jio prepaid ₹1,299 with Netflix",
+      "description": "84-day prepaid pack with 2 GB of data a day, Netflix Mobile and JioHotstar for 90 days.",
+      "includedServiceIds": [
+        "netflix",
+        "jiohotstar"
+      ],
+      "includedPlanIds": [
+        "netflix-mobile",
+        "jiohotstar-mobile-quarterly"
+      ],
+      "price": 1299,
+      "currency": "INR",
+      "billing": {
+        "frequency": "custom",
+        "interval": {
+          "unit": "days",
+          "count": 84
+        }
+      },
+      "eligibility": "Jio prepaid customers.",
+      "offerUrl": "https://www.jio.com/",
+      "sourceUrl": "https://www.gizbot.com/telecom/features/jio-vs-airtel-who-offers-the-best-entertainment-prepaid-plans-in-2026-122160.html",
+      "lastVerified": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "notes": null
+    },
+    {
+      "id": "jio-prepaid-1029",
+      "provider": "Jio",
+      "name": "Jio prepaid ₹1,029 with Prime Lite",
+      "description": "84-day prepaid pack with 2 GB of data a day, unlimited 5G and Amazon Prime Lite for 84 days.",
+      "includedServiceIds": [
+        "amazon-prime"
+      ],
+      "includedPlanIds": [
+        "prime-lite"
+      ],
+      "price": 1029,
+      "currency": "INR",
+      "billing": {
+        "frequency": "custom",
+        "interval": {
+          "unit": "days",
+          "count": 84
+        }
+      },
+      "eligibility": "Jio prepaid customers.",
+      "offerUrl": "https://www.jio.com/",
+      "sourceUrl": "https://www.gizbot.com/telecom/features/jio-vs-airtel-who-offers-the-best-entertainment-prepaid-plans-in-2026-122160.html",
+      "lastVerified": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "notes": null
+    },
+    {
+      "id": "airtel-postpaid-1449",
+      "provider": "Airtel",
+      "name": "Airtel postpaid family plan ₹1,449 (4 SIMs)",
+      "description": "Unlimited data and calls for 4 SIMs, with Netflix Basic, Amazon Prime, JioHotstar, Apple Music, iCloud+, Google One and Xstream Play Premium.",
+      "includedServiceIds": [
+        "netflix",
+        "amazon-prime",
+        "jiohotstar",
+        "apple-music",
+        "icloud-plus",
+        "google-one"
+      ],
+      "includedPlanIds": [
+        "netflix-basic"
+      ],
+      "price": 1449,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "eligibility": "Airtel postpaid customers. New prices from 8 October 2026.",
+      "offerUrl": "https://www.airtel.in/",
+      "sourceUrl": "https://gadgets.beebom.com/news/airtel-postpaid-plans-get-price-hike-with-free-international-roaming",
+      "lastVerified": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "notes": "Telecom prices are usually shown before 18% GST."
+    },
+    {
+      "id": "airtel-postpaid-1799",
+      "provider": "Airtel",
+      "name": "Airtel postpaid family plan ₹1,799 (5 SIMs)",
+      "description": "Unlimited data and calls for 5 SIMs, with Netflix Standard, Amazon Prime, JioHotstar, Apple Music, iCloud+, Google One and Xstream Play Premium.",
+      "includedServiceIds": [
+        "netflix",
+        "amazon-prime",
+        "jiohotstar",
+        "apple-music",
+        "icloud-plus",
+        "google-one"
+      ],
+      "includedPlanIds": [
+        "netflix-standard"
+      ],
+      "price": 1799,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "eligibility": "Airtel postpaid customers. New prices from 8 October 2026.",
+      "offerUrl": "https://www.airtel.in/",
+      "sourceUrl": "https://gadgets.beebom.com/news/airtel-postpaid-plans-get-price-hike-with-free-international-roaming",
+      "lastVerified": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "notes": "Telecom prices are usually shown before 18% GST."
+    },
+    {
+      "id": "airtel-black-1599",
+      "provider": "Airtel",
+      "name": "Airtel Black ₹1,599",
+      "description": "300 Mbps Wi-Fi and DTH TV on one bill, with Netflix, Amazon Prime, JioHotstar and Xstream Play.",
+      "includedServiceIds": [
+        "netflix",
+        "amazon-prime",
+        "jiohotstar"
+      ],
+      "includedPlanIds": [],
+      "price": 1599,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "eligibility": "Airtel broadband and DTH customers.",
+      "offerUrl": "https://www.airtel.in/blog/airtel-black/airtel-black-all-in-one-entertainment-plan/",
+      "sourceUrl": "https://www.airtel.in/blog/airtel-black/airtel-black-all-in-one-entertainment-plan/",
+      "lastVerified": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "notes": "Airtel lists this price before taxes."
+    }
+  ]
+}

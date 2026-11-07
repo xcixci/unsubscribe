@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-11-07T18:57:00.645Z",
+  "generatedAt": "2026-11-07T19:06:27.724Z",
   "version": 1,
   "services": [
+    {
+      "id": "adda247",
+      "name": "Adda247",
+      "category": "education",
+      "description": "Government-exam preparation with live classes, mock tests and ebooks, sold as Mahapack bundles per exam.",
+      "websiteUrl": "https://www.adda247.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=adda247.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Mahapack prices vary by exam and are often discounted.",
+      "featured": false
+    },
     {
       "id": "adobe-cc",
       "name": "Adobe Creative Cloud",
@@ -59,6 +73,20 @@
       "featured": true
     },
     {
+      "id": "apollo-circle",
+      "name": "Apollo 24|7 Circle",
+      "category": "fitness",
+      "description": "Apollo's membership: cashback on medicines and lab tests, free delivery and doctor-on-call.",
+      "websiteUrl": "https://www.apollo247.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=apollo247.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Often free with Airtel recharges and card offers.",
+      "featured": false
+    },
+    {
       "id": "apple-music",
       "name": "Apple Music",
       "category": "music",
@@ -101,12 +129,68 @@
       "featured": false
     },
     {
+      "id": "babbel",
+      "name": "Babbel",
+      "category": "education",
+      "description": "Structured language courses with speech recognition and review.",
+      "websiteUrl": "https://www.babbel.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=babbel.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
+      "featured": false
+    },
+    {
       "id": "bbstar",
       "name": "BigBasket bbstar",
       "category": "food",
       "description": "BigBasket's paid membership: free delivery on orders above ₹600, reserved slots and member offers.",
       "websiteUrl": "https://www.bigbasket.com/bbstar/",
       "logoUrl": "https://www.google.com/s2/favicons?domain=bigbasket.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
+      "featured": false
+    },
+    {
+      "id": "brilliant",
+      "name": "Brilliant",
+      "category": "education",
+      "description": "Interactive lessons in maths, science, data and programming.",
+      "websiteUrl": "https://brilliant.org/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=brilliant.org&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
+      "featured": false
+    },
+    {
+      "id": "business-standard",
+      "name": "Business Standard",
+      "category": "news",
+      "description": "Business daily with paywalled analysis, the ePaper and market data.",
+      "websiteUrl": "https://www.business-standard.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=business-standard.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
+      "featured": false
+    },
+    {
+      "id": "calm",
+      "name": "Calm",
+      "category": "fitness",
+      "description": "Meditation, sleep stories and relaxing music.",
+      "websiteUrl": "https://www.calm.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=calm.com&sz=128",
       "logo": null,
       "country": "IN",
       "status": "active",
@@ -127,6 +211,20 @@
       "lastUpdated": "2026-11-07",
       "notes": null,
       "featured": true
+    },
+    {
+      "id": "centr",
+      "name": "Centr",
+      "category": "fitness",
+      "description": "Chris Hemsworth's workout, meal plan and mindfulness app.",
+      "websiteUrl": "https://centr.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=centr.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
+      "featured": false
     },
     {
       "id": "chatgpt",
@@ -154,6 +252,20 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Prices here are from the App Store in India. Also sold as a Prime Video Channels add-on.",
+      "featured": false
+    },
+    {
+      "id": "chess-com",
+      "name": "Chess.com",
+      "category": "education",
+      "description": "Play, puzzles and video lessons; paid memberships remove ads and unlock unlimited lessons and analysis.",
+      "websiteUrl": "https://www.chess.com/membership",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=chess.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Chess.com Lessons is part of these memberships.",
       "featured": false
     },
     {
@@ -238,6 +350,20 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "In India it is also available through Tata Play Binge, OTTplay and Prime Video Channels.",
+      "featured": false
+    },
+    {
+      "id": "datacamp",
+      "name": "DataCamp",
+      "category": "education",
+      "description": "Hands-on courses in Python, SQL, R, AI and data analysis, with career tracks and certifications.",
+      "websiteUrl": "https://www.datacamp.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=datacamp.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
       "featured": false
     },
     {
@@ -339,6 +465,20 @@
       "featured": false
     },
     {
+      "id": "et-prime",
+      "name": "ET Prime",
+      "category": "news",
+      "description": "The Economic Times' members-only long-form business stories, ePaper and investing tools.",
+      "websiteUrl": "https://economictimes.indiatimes.com/prime",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Often bundled with Times Prime and credit card offers.",
+      "featured": false
+    },
+    {
       "id": "etv-win",
       "name": "ETV Win",
       "category": "ott",
@@ -381,6 +521,20 @@
       "featured": false
     },
     {
+      "id": "financial-times",
+      "name": "Financial Times",
+      "category": "news",
+      "description": "Global business and finance news, with Standard and Premium digital tiers.",
+      "websiteUrl": "https://www.ft.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Moneycontrol Pro has included FT access in some periods.",
+      "featured": false
+    },
+    {
       "id": "firstcry-club",
       "name": "FirstCry Club",
       "category": "shopping",
@@ -392,6 +546,20 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "3, 6 and 12-month plans; often free or discounted for frequent shoppers.",
+      "featured": false
+    },
+    {
+      "id": "fittr",
+      "name": "Fittr",
+      "category": "fitness",
+      "description": "Fitness community and app; Fittr Coach pairs you with a certified coach for diet and training plans.",
+      "websiteUrl": "https://www.fittr.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=fittr.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Coach plan prices depend on the coach and duration.",
       "featured": false
     },
     {
@@ -409,6 +577,20 @@
       "featured": false
     },
     {
+      "id": "flo",
+      "name": "Flo",
+      "category": "fitness",
+      "description": "Period and ovulation tracker; Premium adds health insights and expert content.",
+      "websiteUrl": "https://flo.health/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=flo.health&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
+      "featured": false
+    },
+    {
       "id": "gaana",
       "name": "Gaana",
       "category": "music",
@@ -420,6 +602,20 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Gaana Plus often runs ₹1 trials and discounted annual plans.",
+      "featured": false
+    },
+    {
+      "id": "garmin-connect-plus",
+      "name": "Garmin Connect+",
+      "category": "fitness",
+      "description": "Optional paid tier of the Garmin Connect app with AI insights and extra training features.",
+      "websiteUrl": "https://www.garmin.com/en-IN/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=garmin.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Garmin Connect itself stays free.",
       "featured": false
     },
     {
@@ -451,6 +647,20 @@
       "featured": true
     },
     {
+      "id": "goqii",
+      "name": "GOQii",
+      "category": "fitness",
+      "description": "Fitness tracker with a personal health coach subscription.",
+      "websiteUrl": "https://goqii.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=goqii.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Personal Care (coaching) renews separately from the tracker.",
+      "featured": false
+    },
+    {
       "id": "hm-membership",
       "name": "H&M Membership",
       "category": "shopping",
@@ -471,6 +681,48 @@
       "description": "Audio dramas and audiobooks: romance, horror, thriller and mystery stories.",
       "websiteUrl": "https://headfone.co.in/",
       "logoUrl": "https://www.google.com/s2/favicons?domain=headfone.co.in&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
+      "featured": false
+    },
+    {
+      "id": "headspace",
+      "name": "Headspace",
+      "category": "fitness",
+      "description": "Guided meditation, sleep and focus exercises.",
+      "websiteUrl": "https://www.headspace.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=headspace.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Times Prime has included Headspace for 6 months.",
+      "featured": false
+    },
+    {
+      "id": "healthifyme",
+      "name": "HealthifyMe",
+      "category": "fitness",
+      "description": "Calorie and nutrition tracking with an AI assistant, plus paid plans with personal diet and fitness coaches.",
+      "websiteUrl": "https://www.healthifyme.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=healthifyme.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "HealthifyMe Transform is the coach-led programme. Coach plan prices are quoted per person.",
+      "featured": false
+    },
+    {
+      "id": "hindustan-times",
+      "name": "Hindustan Times Premium",
+      "category": "news",
+      "description": "HT's paywalled stories, columnists and ePaper.",
+      "websiteUrl": "https://www.hindustantimes.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=hindustantimes.com&sz=128",
       "logo": null,
       "country": "IN",
       "status": "active",
@@ -532,6 +784,34 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": null,
+      "featured": false
+    },
+    {
+      "id": "india-today",
+      "name": "India Today",
+      "category": "news",
+      "description": "India Today magazine in print and digital, with the digital archive on the app.",
+      "websiteUrl": "https://www.indiatoday.in/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=indiatoday.in&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "India Today and India Today Magazine are one entry.",
+      "featured": false
+    },
+    {
+      "id": "insight-timer",
+      "name": "Insight Timer",
+      "category": "fitness",
+      "description": "Large free library of guided meditations; Member Plus adds courses and offline listening.",
+      "websiteUrl": "https://insighttimer.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=insighttimer.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Most content is free.",
       "featured": false
     },
     {
@@ -661,6 +941,20 @@
       "featured": false
     },
     {
+      "id": "linkedin-learning",
+      "name": "LinkedIn Learning",
+      "category": "education",
+      "description": "Video courses in business, software and creative skills, with certificates for your LinkedIn profile.",
+      "websiteUrl": "https://www.linkedin.com/learning/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Included with most LinkedIn Premium plans.",
+      "featured": false
+    },
+    {
       "id": "linkedin-premium",
       "name": "LinkedIn Premium",
       "category": "other",
@@ -703,6 +997,20 @@
       "featured": false
     },
     {
+      "id": "magzter-gold",
+      "name": "Magzter Gold",
+      "category": "news",
+      "description": "One subscription for thousands of magazines and newspapers, including many Indian titles.",
+      "websiteUrl": "https://www.magzter.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=magzter.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
+      "featured": false
+    },
+    {
       "id": "manoramamax",
       "name": "manoramaMAX",
       "category": "ott",
@@ -714,6 +1022,48 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Also sold as a Prime Video Channels add-on, which works only inside Prime Video.",
+      "featured": false
+    },
+    {
+      "id": "marrow",
+      "name": "Marrow",
+      "category": "education",
+      "description": "NEET PG and NExT preparation: question bank, videos and grand tests.",
+      "websiteUrl": "https://www.marrow.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=marrow.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Plan validity is often tied to the NEET PG exam date.",
+      "featured": false
+    },
+    {
+      "id": "masterclass",
+      "name": "MasterClass",
+      "category": "education",
+      "description": "Video classes taught by well-known experts, from cooking and writing to business and sport.",
+      "websiteUrl": "https://www.masterclass.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=masterclass.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Annual plans only; often runs 2-for-1 gift offers.",
+      "featured": false
+    },
+    {
+      "id": "memrise",
+      "name": "Memrise",
+      "category": "education",
+      "description": "Language learning with native-speaker videos and AI conversation practice.",
+      "websiteUrl": "https://www.memrise.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=memrise.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
       "featured": false
     },
     {
@@ -731,12 +1081,54 @@
       "featured": true
     },
     {
+      "id": "mint",
+      "name": "Mint",
+      "category": "news",
+      "description": "Business and markets newspaper; Mint Premium unlocks paywalled stories and the ePaper.",
+      "websiteUrl": "https://www.livemint.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=livemint.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Some broker and research subscriptions include Mint Premium free.",
+      "featured": false
+    },
+    {
+      "id": "moneycontrol-pro",
+      "name": "Moneycontrol Pro",
+      "category": "news",
+      "description": "Moneycontrol with far fewer ads, PRO research, stock insights, newsletters and events; Super Pro adds trading tools.",
+      "websiteUrl": "https://www.moneycontrol.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=moneycontrol.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Coupon prices are common and usually well below the list price.",
+      "featured": false
+    },
+    {
       "id": "mubi",
       "name": "MUBI",
       "category": "ott",
       "description": "Hand-picked world cinema, art-house and classic films, with Indian and international collections.",
       "websiteUrl": "https://mubi.com/en/in",
       "logoUrl": "https://www.google.com/s2/favicons?domain=mubi.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
+      "featured": false
+    },
+    {
+      "id": "myfitnesspal",
+      "name": "MyFitnessPal",
+      "category": "fitness",
+      "description": "Food diary and calorie counter; Premium adds barcode scanning, macro goals and meal plans.",
+      "websiteUrl": "https://www.myfitnesspal.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=myfitnesspal.com&sz=128",
       "logo": null,
       "country": "IN",
       "status": "active",
@@ -787,6 +1179,34 @@
       "featured": true
     },
     {
+      "id": "newslaundry",
+      "name": "Newslaundry",
+      "category": "news",
+      "description": "Reader-funded news and media criticism: subscriber-only shows, podcasts and reports.",
+      "websiteUrl": "https://www.newslaundry.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=newslaundry.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
+      "featured": false
+    },
+    {
+      "id": "nike-training-club",
+      "name": "Nike Training Club",
+      "category": "fitness",
+      "description": "Free workout videos and programmes from Nike trainers.",
+      "websiteUrl": "https://www.nike.com/ntc-app",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=nike.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Free to use.",
+      "featured": false
+    },
+    {
       "id": "notion",
       "name": "Notion",
       "category": "productivity",
@@ -815,6 +1235,20 @@
       "featured": false
     },
     {
+      "id": "oura",
+      "name": "Oura",
+      "category": "fitness",
+      "description": "Smart ring for sleep, readiness and activity; most insights need an Oura Membership.",
+      "websiteUrl": "https://ouraring.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=ouraring.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "The ring is a one-time purchase; the membership renews.",
+      "featured": false
+    },
+    {
       "id": "perplexity",
       "name": "Perplexity",
       "category": "ai",
@@ -826,6 +1260,34 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": "Recurring plans are billed in US dollars for users in India.",
+      "featured": false
+    },
+    {
+      "id": "pharmeasy-plus",
+      "name": "PharmEasy Plus",
+      "category": "fitness",
+      "description": "PharmEasy membership with extra discounts and free delivery on medicine orders.",
+      "websiteUrl": "https://pharmeasy.in/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=pharmeasy.in&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
+      "featured": false
+    },
+    {
+      "id": "physics-wallah",
+      "name": "Physics Wallah",
+      "category": "education",
+      "description": "Low-cost batches for JEE, NEET, UPSC and school exams, plus a large free YouTube library.",
+      "websiteUrl": "https://www.pw.live/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=pw.live&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Sold as course batches rather than a subscription.",
       "featured": false
     },
     {
@@ -871,6 +1333,20 @@
       "featured": false
     },
     {
+      "id": "practo-plus",
+      "name": "Practo Plus",
+      "category": "fitness",
+      "description": "Practo's healthcare membership for online consultations and discounts on care.",
+      "websiteUrl": "https://www.practo.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=practo.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Check what Practo currently offers before paying; the plan has changed over time.",
+      "featured": false
+    },
+    {
       "id": "pratilipi-fm",
       "name": "Pratilipi FM",
       "category": "music",
@@ -882,6 +1358,20 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Pratilipi Premium (for reading) is a separate subscription.",
+      "featured": false
+    },
+    {
+      "id": "prepladder",
+      "name": "PrepLadder",
+      "category": "education",
+      "description": "NEET PG, FMGE and NEET SS preparation with video lectures, question banks and tests.",
+      "websiteUrl": "https://www.prepladder.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=prepladder.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Plans are priced per exam and duration.",
       "featured": false
     },
     {
@@ -924,6 +1414,48 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Also sold through Prime Video Channels, Airtel Xstream and DTH packs.",
+      "featured": false
+    },
+    {
+      "id": "simply",
+      "name": "Simply Piano and Guitar",
+      "category": "education",
+      "description": "Learn piano or guitar with an app that listens as you play.",
+      "websiteUrl": "https://www.hellosimply.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=hellosimply.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "One Simply subscription can cover Piano, Guitar and Sing.",
+      "featured": false
+    },
+    {
+      "id": "skillshare",
+      "name": "Skillshare",
+      "category": "education",
+      "description": "Thousands of short, project-based classes in design, illustration, video, writing and business.",
+      "websiteUrl": "https://www.skillshare.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=skillshare.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Mostly sold as an annual membership.",
+      "featured": false
+    },
+    {
+      "id": "sleep-cycle",
+      "name": "Sleep Cycle",
+      "category": "fitness",
+      "description": "Sleep tracking and smart alarm app.",
+      "websiteUrl": "https://www.sleepcycle.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=sleepcycle.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
       "featured": false
     },
     {
@@ -1011,6 +1543,20 @@
       "featured": false
     },
     {
+      "id": "strava",
+      "name": "Strava",
+      "category": "fitness",
+      "description": "Running and cycling app; the subscription adds routes, training analysis and segment leaderboards.",
+      "websiteUrl": "https://www.strava.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=strava.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
+      "featured": false
+    },
+    {
       "id": "sun-nxt",
       "name": "Sun NXT",
       "category": "ott",
@@ -1039,6 +1585,20 @@
       "featured": true
     },
     {
+      "id": "tata-1mg-care-plan",
+      "name": "Tata 1mg Care Plan",
+      "category": "fitness",
+      "description": "1mg membership: extra discounts on medicines and lab tests, free shipping and priority service.",
+      "websiteUrl": "https://www.1mg.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=1mg.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
+      "featured": false
+    },
+    {
       "id": "tata-neupass",
       "name": "Tata NeuPass",
       "category": "shopping",
@@ -1053,6 +1613,76 @@
       "featured": false
     },
     {
+      "id": "testbook",
+      "name": "Testbook",
+      "category": "education",
+      "description": "Mock tests, previous-year papers and courses for SSC, banking, railway and state government exams.",
+      "websiteUrl": "https://testbook.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=testbook.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Pass, Pass Pro, Pro Max and Elite were merged into one Testbook Pass.",
+      "featured": false
+    },
+    {
+      "id": "the-athletic",
+      "name": "The Athletic",
+      "category": "news",
+      "description": "Subscriber sports journalism from The New York Times.",
+      "websiteUrl": "https://www.nytimes.com/athletic/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Included in NYT All Access.",
+      "featured": false
+    },
+    {
+      "id": "the-economist",
+      "name": "The Economist",
+      "category": "news",
+      "description": "Weekly analysis of world affairs, business and science, with audio editions.",
+      "websiteUrl": "https://www.economist.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=economist.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
+      "featured": false
+    },
+    {
+      "id": "the-hindu",
+      "name": "The Hindu",
+      "category": "news",
+      "description": "National daily: unlimited articles on the site and app, with the ePaper on higher plans.",
+      "websiteUrl": "https://www.thehindu.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Frequent sales on annual plans; a student plan is offered.",
+      "featured": false
+    },
+    {
+      "id": "indian-express",
+      "name": "The Indian Express",
+      "category": "news",
+      "description": "Express Premium: paywalled reporting and explainers, UPSC Essentials and the ePaper.",
+      "websiteUrl": "https://indianexpress.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=indianexpress.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Annual plans are often discounted heavily.",
+      "featured": false
+    },
+    {
       "id": "the-ken",
       "name": "The Ken",
       "category": "news",
@@ -1064,6 +1694,48 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "An app-only monthly plan is also sold.",
+      "featured": false
+    },
+    {
+      "id": "the-morning-context",
+      "name": "The Morning Context",
+      "category": "news",
+      "description": "Long-form reporting on Indian business, technology and policy, with daily newsletters.",
+      "websiteUrl": "https://themorningcontext.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=themorningcontext.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
+      "featured": false
+    },
+    {
+      "id": "nytimes",
+      "name": "The New York Times",
+      "category": "news",
+      "description": "Digital news, plus Games, Cooking, Wirecutter and The Athletic on All Access.",
+      "websiteUrl": "https://www.nytimes.com/subscription",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Usually billed in US dollars from India.",
+      "featured": false
+    },
+    {
+      "id": "wsj",
+      "name": "The Wall Street Journal",
+      "category": "news",
+      "description": "Business, markets and world news from Dow Jones.",
+      "websiteUrl": "https://www.wsj.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=wsj.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Usually billed in US dollars from India.",
       "featured": false
     },
     {
@@ -1095,6 +1767,20 @@
       "featured": false
     },
     {
+      "id": "toi-plus",
+      "name": "TOI+",
+      "category": "news",
+      "description": "The Times of India's premium tier: paywalled stories, the ePaper and an ad-light site.",
+      "websiteUrl": "https://timesofindia.indiatimes.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
+      "featured": false
+    },
+    {
       "id": "truecaller",
       "name": "Truecaller Premium",
       "category": "security",
@@ -1109,6 +1795,20 @@
       "featured": true
     },
     {
+      "id": "udemy",
+      "name": "Udemy Personal Plan",
+      "category": "education",
+      "description": "Subscription access to a curated set of Udemy courses, instead of buying courses one by one.",
+      "websiteUrl": "https://www.udemy.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=udemy.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Single Udemy courses are also sold separately, often on sale.",
+      "featured": false
+    },
+    {
       "id": "ultra-jhakaas",
       "name": "Ultra Jhakaas",
       "category": "ott",
@@ -1120,6 +1820,34 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "A weekly plan from ₹19 was added in 2026.",
+      "featured": false
+    },
+    {
+      "id": "ultrahuman",
+      "name": "Ultrahuman",
+      "category": "fitness",
+      "description": "Ultrahuman Ring tracks sleep, recovery and activity with no subscription; M1 (glucose monitoring) is sold as a plan.",
+      "websiteUrl": "https://www.ultrahuman.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=ultrahuman.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "The Ring has no monthly fee.",
+      "featured": false
+    },
+    {
+      "id": "unacademy",
+      "name": "Unacademy",
+      "category": "education",
+      "description": "Live and recorded classes for JEE, NEET, UPSC, CAT, GATE and other exams, sold as Plus and Iconic subscriptions.",
+      "websiteUrl": "https://unacademy.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=unacademy.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Prices are set per exam goal and duration, so check the goal you study for.",
       "featured": false
     },
     {
@@ -1137,6 +1865,20 @@
       "featured": false
     },
     {
+      "id": "waking-up",
+      "name": "Waking Up",
+      "category": "fitness",
+      "description": "Sam Harris's meditation course and talks on mindfulness and philosophy.",
+      "websiteUrl": "https://www.wakingup.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=wakingup.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Offers free access to anyone who says they can't afford it.",
+      "featured": false
+    },
+    {
       "id": "watcho",
       "name": "Watcho",
       "category": "ott",
@@ -1148,6 +1890,20 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Works for Dish TV, d2h and non-Dish customers.",
+      "featured": false
+    },
+    {
+      "id": "whoop",
+      "name": "WHOOP",
+      "category": "fitness",
+      "description": "Screenless wearable sold as a membership: the device comes with One, Peak or Life plans.",
+      "websiteUrl": "https://www.whoop.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=whoop.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null,
       "featured": false
     },
     {
@@ -5455,6 +6211,1539 @@
       "group": "country-delight-daily",
       "planType": null,
       "notes": "Billed by what you order, not a fixed fee."
+    },
+    {
+      "id": "testbook-pass-annual",
+      "serviceId": "testbook",
+      "name": "Testbook Pass (12 months)",
+      "price": 449,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://testbook.com/pass",
+      "features": [
+        "Mock tests for all government exams on Testbook",
+        "Previous-year paper tests",
+        "Practice questions"
+      ],
+      "lastVerified": "2026-11-08",
+      "priceSourceUrl": "https://testbook.com/pass",
+      "status": "active",
+      "verification": "verified",
+      "group": "testbook-pass",
+      "planType": "individual",
+      "notes": "Shown as ₹449, down from a listed ₹1,199. Sale prices change often."
+    },
+    {
+      "id": "unacademy-plus",
+      "serviceId": "unacademy",
+      "name": "Plus",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://unacademy.com/",
+      "features": [
+        "Live and recorded courses for one exam goal",
+        "Live tests"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "unacademy",
+      "planType": "individual",
+      "notes": "Price depends on the exam goal and duration (usually 6 to 24 months, paid upfront)."
+    },
+    {
+      "id": "unacademy-iconic",
+      "serviceId": "unacademy",
+      "name": "Iconic",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://unacademy.com/",
+      "features": [
+        "Everything in Plus",
+        "Personal mentor sessions",
+        "Personalised test analysis"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "unacademy",
+      "planType": "individual",
+      "notes": "Price depends on the exam goal and duration."
+    },
+    {
+      "id": "adda247-mahapack",
+      "serviceId": "adda247",
+      "name": "Mahapack (12 months)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.adda247.com/",
+      "features": [
+        "Live classes",
+        "Mock tests",
+        "Ebooks and recorded videos for one exam family"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "adda247-mahapack",
+      "planType": "individual",
+      "notes": "Separate packs for SSC, banking, railway, teaching and state exams."
+    },
+    {
+      "id": "prepladder-pro",
+      "serviceId": "prepladder",
+      "name": "PRO",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.prepladder.com/",
+      "features": [
+        "Question bank",
+        "Tests and previous-year papers"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "prepladder",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "prepladder-elite",
+      "serviceId": "prepladder",
+      "name": "ELITE",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.prepladder.com/",
+      "features": [
+        "Everything in PRO",
+        "Video lectures",
+        "Notes"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "prepladder",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "marrow-plan-b",
+      "serviceId": "marrow",
+      "name": "Plan B",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.marrow.com/pro",
+      "features": [
+        "Question bank",
+        "Grand tests"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "marrow",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "marrow-plan-c",
+      "serviceId": "marrow",
+      "name": "Plan C",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.marrow.com/pro",
+      "features": [
+        "Everything in Plan B",
+        "Video lectures"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "marrow",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "skillshare-annual",
+      "serviceId": "skillshare",
+      "name": "Annual membership",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.skillshare.com/",
+      "features": [
+        "All classes",
+        "Offline downloads"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "skillshare",
+      "planType": "individual",
+      "notes": "No reliable rupee price found."
+    },
+    {
+      "id": "masterclass-individual",
+      "serviceId": "masterclass",
+      "name": "Individual (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.masterclass.com/",
+      "features": [
+        "All classes",
+        "1 device at a time"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "masterclass",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "masterclass-duo",
+      "serviceId": "masterclass",
+      "name": "Duo (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.masterclass.com/",
+      "features": [
+        "All classes",
+        "2 devices at a time",
+        "Offline viewing"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "masterclass",
+      "planType": "duo",
+      "notes": null
+    },
+    {
+      "id": "masterclass-family",
+      "serviceId": "masterclass",
+      "name": "Family (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.masterclass.com/",
+      "features": [
+        "All classes",
+        "6 devices at a time",
+        "Offline viewing"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "masterclass",
+      "planType": "family",
+      "notes": null
+    },
+    {
+      "id": "brilliant-premium",
+      "serviceId": "brilliant",
+      "name": "Premium",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://brilliant.org/",
+      "features": [
+        "All courses and lessons"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "brilliant",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "linkedin-learning-monthly",
+      "serviceId": "linkedin-learning",
+      "name": "LinkedIn Learning",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.linkedin.com/learning/",
+      "features": [
+        "All courses",
+        "Certificates of completion"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "linkedin-learning",
+      "planType": "individual",
+      "notes": "Check LinkedIn Premium first: Career and Business plans include Learning."
+    },
+    {
+      "id": "udemy-personal-plan",
+      "serviceId": "udemy",
+      "name": "Personal Plan",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.udemy.com/",
+      "features": [
+        "Curated course library",
+        "Practice tests"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "udemy",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "datacamp-premium",
+      "serviceId": "datacamp",
+      "name": "Premium",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.datacamp.com/pricing",
+      "features": [
+        "All courses and tracks",
+        "Certifications"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "datacamp",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "memrise-pro",
+      "serviceId": "memrise",
+      "name": "Pro",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.memrise.com/",
+      "features": [
+        "All languages and lessons",
+        "AI conversation practice"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "memrise",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "babbel-subscription",
+      "serviceId": "babbel",
+      "name": "Subscription",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.babbel.com/",
+      "features": [
+        "One language",
+        "Lessons and review"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "babbel",
+      "planType": "individual",
+      "notes": "Longer terms cost less per month."
+    },
+    {
+      "id": "chess-com-gold",
+      "serviceId": "chess-com",
+      "name": "Gold",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.chess.com/membership",
+      "features": [
+        "Ad-free",
+        "More puzzles and lessons"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "chess-com",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "chess-com-platinum",
+      "serviceId": "chess-com",
+      "name": "Platinum",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.chess.com/membership",
+      "features": [
+        "Everything in Gold",
+        "Unlimited puzzles and game review"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "chess-com",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "chess-com-diamond",
+      "serviceId": "chess-com",
+      "name": "Diamond",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.chess.com/membership",
+      "features": [
+        "Everything in Platinum",
+        "Unlimited lessons"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "chess-com",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "simply-premium",
+      "serviceId": "simply",
+      "name": "Premium",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.hellosimply.com/",
+      "features": [
+        "Full song and course library",
+        "Piano, Guitar and Sing apps"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "simply",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "the-hindu-digital-annual",
+      "serviceId": "the-hindu",
+      "name": "Digital (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.thehindu.com/",
+      "features": [
+        "Unlimited articles on web and app"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "the-hindu",
+      "planType": "individual",
+      "notes": "Third-party sites list conflicting prices, so no price is shown until checked on thehindu.com."
+    },
+    {
+      "id": "the-hindu-epaper-annual",
+      "serviceId": "the-hindu",
+      "name": "Digital + ePaper (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.thehindu.com/",
+      "features": [
+        "Unlimited articles",
+        "Daily ePaper replica"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "the-hindu",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "indian-express-premium-annual",
+      "serviceId": "indian-express",
+      "name": "Express Premium (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://indianexpress.com/",
+      "features": [
+        "Premium stories and explainers",
+        "UPSC Essentials",
+        "ePaper"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "indian-express",
+      "planType": "individual",
+      "notes": "Conflicting third-party prices; check indianexpress.com."
+    },
+    {
+      "id": "mint-premium-annual",
+      "serviceId": "mint",
+      "name": "Mint Premium (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.livemint.com/",
+      "features": [
+        "Paywalled stories",
+        "ePaper"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "mint",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "business-standard-digital-annual",
+      "serviceId": "business-standard",
+      "name": "Digital (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.business-standard.com/",
+      "features": [
+        "Paywalled stories",
+        "ePaper"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "business-standard",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "moneycontrol-pro-monthly",
+      "serviceId": "moneycontrol-pro",
+      "name": "PRO (monthly)",
+      "price": 169,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.moneycontrol.com/",
+      "features": [
+        "99% fewer ads",
+        "PRO research and stock insights",
+        "PRO newsletters"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://tapetide.com/compare/moneycontrol-pro-vs-tickertape-pro",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "moneycontrol-pro",
+      "planType": "individual",
+      "notes": "List price before 18% GST, as reported on 25 Oct 2026. Coupon price was ₹99."
+    },
+    {
+      "id": "moneycontrol-pro-annual",
+      "serviceId": "moneycontrol-pro",
+      "name": "PRO (annual)",
+      "price": 999,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.moneycontrol.com/",
+      "features": [
+        "99% fewer ads",
+        "PRO research and stock insights",
+        "PRO newsletters"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://tapetide.com/compare/moneycontrol-pro-vs-tickertape-pro",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "moneycontrol-pro",
+      "planType": "individual",
+      "notes": "List price before 18% GST, as reported on 25 Oct 2026. Coupon price was ₹499."
+    },
+    {
+      "id": "moneycontrol-super-pro-annual",
+      "serviceId": "moneycontrol-pro",
+      "name": "Super PRO (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.moneycontrol.com/",
+      "features": [
+        "Everything in PRO",
+        "Advanced market and trading tools"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "moneycontrol-super-pro",
+      "planType": "individual",
+      "notes": "Only coupon prices were found (₹2,499 a year before GST, Oct 2026)."
+    },
+    {
+      "id": "et-prime-annual",
+      "serviceId": "et-prime",
+      "name": "ET Prime (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://economictimes.indiatimes.com/prime",
+      "features": [
+        "Members-only stories",
+        "ET ePaper",
+        "Stock reports"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "et-prime",
+      "planType": "individual",
+      "notes": "Sources disagree on the current price."
+    },
+    {
+      "id": "toi-plus-annual",
+      "serviceId": "toi-plus",
+      "name": "TOI+ (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://timesofindia.indiatimes.com/",
+      "features": [
+        "Premium stories",
+        "ePaper"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "toi-plus",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "hindustan-times-premium-annual",
+      "serviceId": "hindustan-times",
+      "name": "Premium (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.hindustantimes.com/",
+      "features": [
+        "Premium stories",
+        "ePaper on some plans"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "hindustan-times",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "india-today-digital-annual",
+      "serviceId": "india-today",
+      "name": "Digital magazine (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.indiatoday.in/",
+      "features": [
+        "Weekly digital magazine",
+        "Archive"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "india-today",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "the-morning-context-annual",
+      "serviceId": "the-morning-context",
+      "name": "Annual",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://themorningcontext.com/",
+      "features": [
+        "All stories",
+        "Subscriber newsletters"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "the-morning-context",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "newslaundry-subscription",
+      "serviceId": "newslaundry",
+      "name": "Subscription",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.newslaundry.com/",
+      "features": [
+        "Subscriber-only shows and podcasts",
+        "Reports"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "newslaundry",
+      "planType": "individual",
+      "notes": "Several tiers, billed monthly or yearly."
+    },
+    {
+      "id": "magzter-gold-annual",
+      "serviceId": "magzter-gold",
+      "name": "Gold (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.magzter.com/",
+      "features": [
+        "Unlimited magazines and newspapers"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "magzter-gold",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "nytimes-all-access",
+      "serviceId": "nytimes",
+      "name": "All Access",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.nytimes.com/subscription",
+      "features": [
+        "News",
+        "Games",
+        "Cooking",
+        "Wirecutter",
+        "The Athletic"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "nytimes",
+      "planType": "individual",
+      "notes": "Billed in US dollars; no rupee price."
+    },
+    {
+      "id": "wsj-digital",
+      "serviceId": "wsj",
+      "name": "Digital",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.wsj.com/",
+      "features": [
+        "WSJ.com and apps"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "wsj",
+      "planType": "individual",
+      "notes": "Billed in US dollars; no rupee price."
+    },
+    {
+      "id": "ft-standard-digital",
+      "serviceId": "financial-times",
+      "name": "Standard Digital",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.ft.com/",
+      "features": [
+        "FT.com and app"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "ft",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "ft-premium-digital",
+      "serviceId": "financial-times",
+      "name": "Premium Digital",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.ft.com/",
+      "features": [
+        "Everything in Standard",
+        "Lex and specialist newsletters"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "ft",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "economist-digital",
+      "serviceId": "the-economist",
+      "name": "Digital",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.economist.com/",
+      "features": [
+        "All articles and the weekly edition",
+        "Audio edition"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "economist",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "the-athletic-subscription",
+      "serviceId": "the-athletic",
+      "name": "Subscription",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.nytimes.com/athletic/",
+      "features": [
+        "All Athletic stories",
+        "Live match coverage"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "the-athletic",
+      "planType": "individual",
+      "notes": "Billed in US dollars; no rupee price."
+    },
+    {
+      "id": "healthifyme-coach",
+      "serviceId": "healthifyme",
+      "name": "Coach plans (Transform)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.healthifyme.com/",
+      "features": [
+        "Personal nutrition coach",
+        "Diet and activity plans",
+        "Premium app features"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "healthifyme",
+      "planType": "individual",
+      "notes": "Sold for 3, 6 or 12 months; price quoted after a consultation."
+    },
+    {
+      "id": "fittr-coach",
+      "serviceId": "fittr",
+      "name": "Fittr Coach",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://www.fittr.com/",
+      "features": [
+        "Certified personal coach",
+        "Custom diet and workout plan"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "fittr",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "goqii-personal-care",
+      "serviceId": "goqii",
+      "name": "Personal Care",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://goqii.com/",
+      "features": [
+        "Personal health coach",
+        "Tracker app features"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "goqii",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "whoop-one",
+      "serviceId": "whoop",
+      "name": "One (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.whoop.com/",
+      "features": [
+        "WHOOP device",
+        "Sleep, strain and recovery"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "whoop",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "whoop-peak",
+      "serviceId": "whoop",
+      "name": "Peak (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.whoop.com/",
+      "features": [
+        "Everything in One",
+        "Health monitor and healthspan features"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "whoop",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "whoop-life",
+      "serviceId": "whoop",
+      "name": "Life (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.whoop.com/",
+      "features": [
+        "Everything in Peak",
+        "Heart screening and blood pressure insights"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "whoop",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "oura-membership-monthly",
+      "serviceId": "oura",
+      "name": "Membership (monthly)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://ouraring.com/",
+      "features": [
+        "Sleep, readiness and activity scores",
+        "Trends and insights"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "oura",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "oura-membership-annual",
+      "serviceId": "oura",
+      "name": "Membership (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://ouraring.com/",
+      "features": [
+        "Sleep, readiness and activity scores",
+        "Trends and insights"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "oura",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "strava-monthly",
+      "serviceId": "strava",
+      "name": "Subscription (monthly)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.strava.com/subscribe",
+      "features": [
+        "Routes",
+        "Segment leaderboards",
+        "Training analysis"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "strava",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "strava-annual",
+      "serviceId": "strava",
+      "name": "Subscription (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.strava.com/subscribe",
+      "features": [
+        "Routes",
+        "Segment leaderboards",
+        "Training analysis"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "strava",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "garmin-connect-plus-monthly",
+      "serviceId": "garmin-connect-plus",
+      "name": "Connect+ (monthly)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.garmin.com/en-IN/",
+      "features": [
+        "AI insights",
+        "Extra training features"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "garmin-connect-plus",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "garmin-connect-plus-annual",
+      "serviceId": "garmin-connect-plus",
+      "name": "Connect+ (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.garmin.com/en-IN/",
+      "features": [
+        "AI insights",
+        "Extra training features"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "garmin-connect-plus",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "nike-training-club-free",
+      "serviceId": "nike-training-club",
+      "name": "Free",
+      "price": 0,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.nike.com/ntc-app",
+      "features": [
+        "Free to use",
+        "Workout videos and programmes"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://www.nike.com/ntc-app",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "nike-training-club",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "centr-subscription",
+      "serviceId": "centr",
+      "name": "Subscription",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://centr.com/",
+      "features": [
+        "Workouts",
+        "Meal plans",
+        "Mindfulness"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "centr",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "myfitnesspal-premium-monthly",
+      "serviceId": "myfitnesspal",
+      "name": "Premium (monthly)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.myfitnesspal.com/",
+      "features": [
+        "Barcode scanning",
+        "Macro goals",
+        "Ad-free"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "myfitnesspal",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "myfitnesspal-premium-annual",
+      "serviceId": "myfitnesspal",
+      "name": "Premium (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.myfitnesspal.com/",
+      "features": [
+        "Barcode scanning",
+        "Macro goals",
+        "Ad-free"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "myfitnesspal",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "flo-premium-annual",
+      "serviceId": "flo",
+      "name": "Premium (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://flo.health/",
+      "features": [
+        "Health insights",
+        "Expert content"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "flo",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "sleep-cycle-premium-annual",
+      "serviceId": "sleep-cycle",
+      "name": "Premium (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.sleepcycle.com/",
+      "features": [
+        "Sleep trends",
+        "Snore and sleep-talk detection"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "sleep-cycle",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "calm-premium-annual",
+      "serviceId": "calm",
+      "name": "Premium (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.calm.com/",
+      "features": [
+        "Full meditation and sleep library"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "calm",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "headspace-monthly",
+      "serviceId": "headspace",
+      "name": "Monthly",
+      "price": 159,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.headspace.com/",
+      "features": [
+        "Full library",
+        "Sleep and focus content"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/in/app/id493145008",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "headspace",
+      "planType": "individual",
+      "notes": "Price of the monthly plan in the App Store in India. The annual price varies (₹899 and ₹1,499 both listed), so it is left blank."
+    },
+    {
+      "id": "headspace-annual",
+      "serviceId": "headspace",
+      "name": "Annual",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.headspace.com/",
+      "features": [
+        "Full library",
+        "Sleep and focus content"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "headspace",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "waking-up-annual",
+      "serviceId": "waking-up",
+      "name": "Annual",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.wakingup.com/",
+      "features": [
+        "Full course and library"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "waking-up",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "insight-timer-member-plus",
+      "serviceId": "insight-timer",
+      "name": "Member Plus (annual)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://insighttimer.com/",
+      "features": [
+        "Courses",
+        "Offline listening"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "insight-timer",
+      "planType": "individual",
+      "notes": null
+    },
+    {
+      "id": "apollo-circle-annual",
+      "serviceId": "apollo-circle",
+      "name": "Circle (12 months)",
+      "price": 299,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.apollo247.com/",
+      "features": [
+        "Cashback on medicines and lab tests",
+        "Free delivery",
+        "Doctor on call"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://bajajfinserv.in/apollo-247-subscription-bill-payment",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "apollo-circle",
+      "planType": "individual",
+      "notes": "Also sold for 2 months (₹99) and 6 months (₹199) on the same listing."
+    },
+    {
+      "id": "tata-1mg-care-plan-annual",
+      "serviceId": "tata-1mg-care-plan",
+      "name": "Care Plan",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.1mg.com/",
+      "features": [
+        "Extra discounts on medicines",
+        "Free shipping",
+        "Free e-consultation",
+        "Priority service"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "tata-1mg",
+      "planType": "individual",
+      "notes": "1mg says the fee is introductory and may change."
+    },
+    {
+      "id": "pharmeasy-plus-membership",
+      "serviceId": "pharmeasy-plus",
+      "name": "Plus membership",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://pharmeasy.in/",
+      "features": [
+        "Extra discounts on medicines",
+        "Free delivery"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "pharmeasy-plus",
+      "planType": "individual",
+      "notes": "Sold in several durations."
     }
   ],
   "offers": [

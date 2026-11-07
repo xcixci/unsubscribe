@@ -18,7 +18,7 @@ export const CATEGORIES: CategoryInfo[] = [
   { id: 'gaming', label: 'Gaming', short: 'Gaming' },
   { id: 'education', label: 'Education & learning', short: 'Learning' },
   { id: 'news', label: 'News & reading', short: 'Reading' },
-  { id: 'fitness', label: 'Fitness & wellness', short: 'Fitness' },
+  { id: 'fitness', label: 'Health, fitness & wellness', short: 'Health & fitness' },
   { id: 'shopping', label: 'Shopping memberships', short: 'Shopping' },
   { id: 'food', label: 'Food, grocery & lifestyle', short: 'Food & grocery' },
   { id: 'travel', label: 'Travel & transport', short: 'Travel' },

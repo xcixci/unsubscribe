@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T18:42:12.416Z",
+  "generatedAt": "2026-11-07T18:45:29.042Z",
   "version": 1,
   "services": [
     {
@@ -27,6 +27,19 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Prices here are from the App Store in India; the website can differ."
+    },
+    {
+      "id": "amazon-music-unlimited",
+      "name": "Amazon Music Unlimited",
+      "category": "music",
+      "description": "Ad-free music with HD, Ultra HD and Dolby Atmos audio and offline downloads.",
+      "websiteUrl": "https://www.amazon.in/music/unlimited",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=music.amazon.in&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Since June 2026, the music included with Amazon Prime has ads and no downloads; Unlimited is the ad-free tier."
     },
     {
       "id": "amazon-prime",
@@ -185,6 +198,19 @@
       "notes": "In India it is also available through Tata Play Binge, OTTplay and Prime Video Channels."
     },
     {
+      "id": "deezer",
+      "name": "Deezer",
+      "category": "music",
+      "description": "French music streaming service with lossless audio and Flow personalised mixes.",
+      "websiteUrl": "https://www.deezer.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=deezer.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Deezer has not officially launched paid plans in India."
+    },
+    {
       "id": "discovery-plus",
       "name": "discovery+",
       "category": "ott",
@@ -289,6 +315,19 @@
       "notes": "No paid plan."
     },
     {
+      "id": "gaana",
+      "name": "Gaana",
+      "category": "music",
+      "description": "Indian music streaming in 20+ languages, with Gaana Plus for ad-free listening and downloads.",
+      "websiteUrl": "https://gaana.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=gaana.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Gaana Plus often runs ₹1 trials and discounted annual plans."
+    },
+    {
       "id": "google-ai",
       "name": "Google AI (Gemini)",
       "category": "ai",
@@ -312,6 +351,19 @@
       "country": "IN",
       "status": "active",
       "lastUpdated": "2026-11-07",
+      "notes": null
+    },
+    {
+      "id": "headfone",
+      "name": "Headfone",
+      "category": "music",
+      "description": "Audio dramas and audiobooks: romance, horror, thriller and mystery stories.",
+      "websiteUrl": "https://headfone.co.in/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=headfone.co.in&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
       "notes": null
     },
     {
@@ -367,6 +419,19 @@
       "notes": null
     },
     {
+      "id": "jiosaavn",
+      "name": "JioSaavn",
+      "category": "music",
+      "description": "Bollywood, regional and international music, podcasts and JioTunes.",
+      "websiteUrl": "https://www.jiosaavn.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=jiosaavn.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "JioSaavn Pro is free with many Jio prepaid recharges."
+    },
+    {
       "id": "kanccha-lannka",
       "name": "Kanccha Lannka",
       "category": "ott",
@@ -404,6 +469,32 @@
       "status": "active",
       "lastUpdated": "2026-11-08",
       "notes": "Also available through Tata Play Binge."
+    },
+    {
+      "id": "kuku-fm",
+      "name": "Kuku FM",
+      "category": "music",
+      "description": "Audiobooks, audio stories and self-improvement summaries in Indian languages.",
+      "websiteUrl": "https://kukufm.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=kukufm.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Prices here are from the App Store in India. Discounted annual offers are common."
+    },
+    {
+      "id": "kuku-tv",
+      "name": "Kuku TV",
+      "category": "ott",
+      "description": "Short vertical micro-drama series from the makers of Kuku FM, with no ads.",
+      "websiteUrl": "https://kukufm.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=kukufm.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": null
     },
     {
       "id": "linkedin-premium",
@@ -549,6 +640,32 @@
       "notes": null
     },
     {
+      "id": "pocket-fm",
+      "name": "Pocket FM",
+      "category": "music",
+      "description": "Audio series and audiobooks in Hindi and other Indian languages.",
+      "websiteUrl": "https://pocketfm.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=pocketfm.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Most episodes are unlocked with coins bought in packs (from about ₹39); a Premium subscription is also sold. Track coin spending as a custom subscription if it's regular."
+    },
+    {
+      "id": "pratilipi-fm",
+      "name": "Pratilipi FM",
+      "category": "music",
+      "description": "Audio series and stories in Hindi and other Indian languages, from the Pratilipi storytelling platform.",
+      "websiteUrl": "https://pratilipifm.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=pratilipifm.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Pratilipi Premium (for reading) is a separate subscription."
+    },
+    {
       "id": "shemaroome",
       "name": "ShemarooMe",
       "category": "ott",
@@ -588,6 +705,19 @@
       "notes": null
     },
     {
+      "id": "soundcloud",
+      "name": "SoundCloud",
+      "category": "music",
+      "description": "Music and audio from independent artists and DJs, plus the major-label catalogue on Go+.",
+      "websiteUrl": "https://soundcloud.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=soundcloud.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "SoundCloud says buying on its website or Android app costs less than through Apple, which adds about 30%."
+    },
+    {
       "id": "spotify",
       "name": "Spotify",
       "category": "music",
@@ -614,6 +744,19 @@
       "notes": "New users usually start with a ₹1 trial for 7 days. Also on Tata Play Binge."
     },
     {
+      "id": "storytel",
+      "name": "Storytel",
+      "category": "music",
+      "description": "Unlimited audiobooks and ebooks in English and 11 Indian languages.",
+      "websiteUrl": "https://www.storytel.com/in/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=storytel.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "Prices here are from the App Store in India."
+    },
+    {
       "id": "sun-nxt",
       "name": "Sun NXT",
       "category": "ott",
@@ -638,6 +781,32 @@
       "status": "active",
       "lastUpdated": "2026-11-07",
       "notes": null
+    },
+    {
+      "id": "the-ken",
+      "name": "The Ken",
+      "category": "news",
+      "description": "Subscriber-only business journalism on Indian companies, startups and markets, plus newsletters and podcasts.",
+      "websiteUrl": "https://the-ken.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=the-ken.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "An app-only monthly plan is also sold."
+    },
+    {
+      "id": "tidal",
+      "name": "TIDAL",
+      "category": "music",
+      "description": "High-fidelity and lossless music streaming.",
+      "websiteUrl": "https://tidal.com/",
+      "logoUrl": "https://www.google.com/s2/favicons?domain=tidal.com&sz=128",
+      "logo": null,
+      "country": "IN",
+      "status": "active",
+      "lastUpdated": "2026-11-08",
+      "notes": "TIDAL is not officially available in India."
     },
     {
       "id": "truecaller",
@@ -4124,6 +4293,433 @@
       "group": "fawesome-free",
       "planType": null,
       "notes": null
+    },
+    {
+      "id": "jiosaavn-pro-monthly",
+      "serviceId": "jiosaavn",
+      "name": "JioSaavn Pro",
+      "price": 99,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.jiosaavn.com/pro",
+      "features": [
+        "Ad-free",
+        "Downloads",
+        "320 kbps audio"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://interspacemusic.com/blog/?p=5849",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "jiosaavn-pro",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "gaana-plus-monthly",
+      "serviceId": "gaana",
+      "name": "Gaana Plus",
+      "price": 119,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://gaana.com/",
+      "features": [
+        "Ad-free",
+        "Unlimited downloads",
+        "HD audio"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://interspacemusic.com/blog/?p=5849",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "gaana-plus",
+      "planType": null,
+      "notes": "Annual prices vary widely between listings, so none is shown."
+    },
+    {
+      "id": "amazon-music-unlimited-prime",
+      "serviceId": "amazon-music-unlimited",
+      "name": "Unlimited (Prime members)",
+      "price": 99,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.amazon.in/music/unlimited",
+      "features": [
+        "Ad-free",
+        "HD, Ultra HD and Dolby Atmos",
+        "Offline downloads",
+        "Needs Amazon Prime"
+      ],
+      "lastVerified": "2026-11-08",
+      "priceSourceUrl": "https://www.aboutamazon.in/news/entertainment/amazon-music-unlimited-india-price-plans",
+      "status": "active",
+      "verification": "verified",
+      "group": "amazon-music-unlimited-prime",
+      "planType": null,
+      "notes": "New Prime members get a six-month free trial."
+    },
+    {
+      "id": "amazon-music-unlimited-standard",
+      "serviceId": "amazon-music-unlimited",
+      "name": "Unlimited (without Prime)",
+      "price": 119,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.amazon.in/music/unlimited",
+      "features": [
+        "Ad-free",
+        "HD, Ultra HD and Dolby Atmos",
+        "Offline downloads"
+      ],
+      "lastVerified": "2026-11-08",
+      "priceSourceUrl": "https://www.aboutamazon.in/news/entertainment/amazon-music-unlimited-india-price-plans",
+      "status": "active",
+      "verification": "verified",
+      "group": "amazon-music-unlimited-standard",
+      "planType": null,
+      "notes": "Three-month free trial for new subscribers."
+    },
+    {
+      "id": "soundcloud-go",
+      "serviceId": "soundcloud",
+      "name": "Go",
+      "price": 399,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://soundcloud.com/go",
+      "features": [
+        "Ad-free",
+        "Offline listening"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://opentherank.com/streaming-pricing/soundcloud/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "soundcloud-go",
+      "planType": null,
+      "notes": "App Store price in India, including GST."
+    },
+    {
+      "id": "soundcloud-go-plus",
+      "serviceId": "soundcloud",
+      "name": "Go+",
+      "price": 869,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://soundcloud.com/go",
+      "features": [
+        "Full catalogue including major labels",
+        "Ad-free",
+        "Offline listening",
+        "High-quality audio"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://opentherank.com/streaming-pricing/soundcloud/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "soundcloud-go-plus",
+      "planType": null,
+      "notes": "App Store price in India, including GST."
+    },
+    {
+      "id": "deezer-premium",
+      "serviceId": "deezer",
+      "name": "Premium",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.deezer.com/offers",
+      "features": [
+        "Ad-free",
+        "Offline listening",
+        "Lossless audio"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "deezer-premium",
+      "planType": null,
+      "notes": "No official rupee price because Deezer has not launched in India."
+    },
+    {
+      "id": "tidal-individual",
+      "serviceId": "tidal",
+      "name": "Individual",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://tidal.com/pricing",
+      "features": [
+        "Lossless and hi-res audio",
+        "Offline listening"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "tidal-individual",
+      "planType": null,
+      "notes": "No rupee price because TIDAL is not officially available in India."
+    },
+    {
+      "id": "pocket-fm-premium",
+      "serviceId": "pocket-fm",
+      "name": "Premium",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://pocketfm.com/",
+      "features": [
+        "Extra listening time each day"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "pocket-fm-premium",
+      "planType": null,
+      "notes": "No reliable current price found. Check the Pocket FM app."
+    },
+    {
+      "id": "kuku-fm-monthly",
+      "serviceId": "kuku-fm",
+      "name": "Premium monthly",
+      "price": 99,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://kukufm.com/",
+      "features": [
+        "All premium audiobooks and shows",
+        "Offline listening",
+        "Ad-free"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apple.co/3FIpdqY",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "kuku-fm-premium",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "kuku-fm-annual",
+      "serviceId": "kuku-fm",
+      "name": "Premium yearly",
+      "price": 899,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://kukufm.com/",
+      "features": [
+        "All premium audiobooks and shows",
+        "Offline listening",
+        "Ad-free"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apple.co/3FIpdqY",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "kuku-fm-premium",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "kuku-tv-quarterly",
+      "serviceId": "kuku-tv",
+      "name": "Quarterly",
+      "price": 399,
+      "currency": "INR",
+      "billing": {
+        "frequency": "quarterly"
+      },
+      "planUrl": "https://kukufm.com/",
+      "features": [
+        "All micro-dramas",
+        "No ads"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://bestmediainfo.com/mediainfo/mediainfo-digital/kuku-fm-launches-micro-drama-ott-platform-kuku-tv-8717608",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "kuku-tv",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "kuku-tv-annual",
+      "serviceId": "kuku-tv",
+      "name": "Annual",
+      "price": 899,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://kukufm.com/",
+      "features": [
+        "All micro-dramas",
+        "No ads"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://bestmediainfo.com/mediainfo/mediainfo-digital/kuku-fm-launches-micro-drama-ott-platform-kuku-tv-8717608",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "kuku-tv",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "storytel-select",
+      "serviceId": "storytel",
+      "name": "Select",
+      "price": 149,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.storytel.com/in/",
+      "features": [
+        "Audiobooks and ebooks in one Indian language of your choice",
+        "Excludes English"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/in/app/id348177651?l=hi",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "storytel-select",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "storytel-unlimited-monthly",
+      "serviceId": "storytel",
+      "name": "Unlimited",
+      "price": 299,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://www.storytel.com/in/",
+      "features": [
+        "All languages including English",
+        "Audiobooks and ebooks"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/in/app/id348177651?l=hi",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "storytel-unlimited",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "storytel-unlimited-annual",
+      "serviceId": "storytel",
+      "name": "Unlimited (1 year)",
+      "price": 2149,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://www.storytel.com/in/",
+      "features": [
+        "All languages including English",
+        "Audiobooks and ebooks"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://apps.apple.com/in/app/id348177651?l=hi",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "storytel-unlimited",
+      "planType": null,
+      "notes": null
+    },
+    {
+      "id": "pratilipi-fm-premium",
+      "serviceId": "pratilipi-fm",
+      "name": "Premium",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://pratilipifm.com/",
+      "features": [
+        "Unlock premium audio series"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "pratilipi-fm-premium",
+      "planType": null,
+      "notes": "No reliable rupee price found. Check the Pratilipi FM app."
+    },
+    {
+      "id": "headfone-premium",
+      "serviceId": "headfone",
+      "name": "Premium",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "monthly"
+      },
+      "planUrl": "https://headfone.co.in/",
+      "features": [
+        "Premium audio dramas"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": null,
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "headfone-premium",
+      "planType": null,
+      "notes": "No reliable rupee price found. Check the Headfone app."
+    },
+    {
+      "id": "the-ken-premium-annual",
+      "serviceId": "the-ken",
+      "name": "Premium (1 year)",
+      "price": null,
+      "currency": "INR",
+      "billing": {
+        "frequency": "annual"
+      },
+      "planUrl": "https://the-ken.com/pricing/",
+      "features": [
+        "Daily long-form stories",
+        "Archives",
+        "Subscriber newsletters",
+        "Premium podcasts"
+      ],
+      "lastVerified": null,
+      "priceSourceUrl": "https://the-ken.com/pricing/",
+      "status": "active",
+      "verification": "awaiting_verification",
+      "group": "the-ken-premium-annual",
+      "planType": null,
+      "notes": "The last published rupee price we found is from 2019, so none is shown. Check the-ken.com/pricing."
     }
   ],
   "offers": [
